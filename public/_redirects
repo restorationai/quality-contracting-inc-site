@@ -466,3 +466,13 @@
 # plumbing gate 2026-10-01: emergency plumbing held until the plumbing name/DBA is confirmed (scripts/plumbing_gate.py)
 /services/emergency-plumbing /services/water-damage-restoration/ 301
 /services/emergency-plumbing/ /services/water-damage-restoration/ 301
+
+# old-site 404 recovery 2026-10-04 (traffic audit class 2, SEO queue 1c): old URLs with search
+# traffic that matched no rule. Each 301s 1:1 to its equivalent page (hand-reviewed), never a
+# generic one; restored articles live under /blog/.
+/service-areas/hudson-ma/odor-removal /services/odor-removal/ 301
+/service-areas/hudson-ma/odor-removal/ /services/odor-removal/ 301
+/service-areas/marlborough-ma/asbestos-abatement /services/asbestos-abatement/ 301
+/service-areas/marlborough-ma/asbestos-abatement/ /services/asbestos-abatement/ 301
+/service-areas/milford-ma/emergency-plumbing /service-areas/milford-ma/water-damage-restoration/ 301
+/service-areas/milford-ma/emergency-plumbing/ /service-areas/milford-ma/water-damage-restoration/ 301
