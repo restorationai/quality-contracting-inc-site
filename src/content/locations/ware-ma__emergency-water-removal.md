@@ -17,7 +17,7 @@ area_slug: "ware-ma"
 service_slug: "emergency-water-removal"
 city: "Ware"
 state: "MA"
-service_display: "emergency-water-removal"
+service_display: "Emergency Water Removal & Cleanup"
 rendered: true
 ---
 **Water damage emergency in Ware?** Call now for emergency service and we'll walk you through what to do before our crew arrives. Ware sits where the Ware River bends along Route 9, and the same riverside location that gave the town its mill-era character also means basements and ground-floor spaces here see water intrusion fast, whether it's a burst supply line in a triple-decker off Main Street or stormwater backing up against an old stone foundation after a heavy Hampshire County rain.

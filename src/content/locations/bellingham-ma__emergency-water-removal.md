@@ -17,7 +17,7 @@ area_slug: "bellingham-ma"
 service_slug: "emergency-water-removal"
 city: "Bellingham"
 state: "MA"
-service_display: "emergency-water-removal"
+service_display: "Emergency Water Removal & Cleanup"
 rendered: true
 ---
 **Water pooling in your basement or under the kitchen cabinets in Bellingham?** Call now for emergency water removal and cleanup. Standing water starts moving into wall cavities, subfloor, and insulation within hours, and the longer it sits, the more of the structure has to come out instead of just being dried.

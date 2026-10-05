@@ -17,7 +17,7 @@ area_slug: "southbridge-town-ma"
 service_slug: "emergency-water-removal"
 city: "Southbridge Town"
 state: "MA"
-service_display: "emergency-water-removal"
+service_display: "Emergency Water Removal & Cleanup"
 rendered: true
 ---
 **Water damage emergency in Southbridge Town?** Call Quality Contracting now for emergency water removal and cleanup, before standing water works its way into subfloors, insulation, and the plaster walls common in the town's older mill-era homes.

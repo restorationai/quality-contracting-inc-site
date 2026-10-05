@@ -17,7 +17,7 @@ area_slug: "palmer-town-ma"
 service_slug: "emergency-water-removal"
 city: "Palmer Town"
 state: "MA"
-service_display: "emergency-water-removal"
+service_display: "Emergency Water Removal & Cleanup"
 rendered: true
 ---
 **Water damage emergency in Palmer Town?** Call now for emergency service and we'll get a crew moving your way. Palmer sits at the point where the Quaboag and Ware Rivers come together to form the Chicopee River, and that geography shapes what water damage looks like here. Basements in the town's older mill-era homes flood differently than a newer build on higher ground, and a burst pipe in January behaves differently than storm runoff in April. Standing water doesn't wait for a convenient hour, and neither should the extraction.
