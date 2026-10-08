@@ -87,6 +87,9 @@ const IG_ICON = `<svg width="18" height="18" viewBox="0 0 24 24" fill="currentCo
             </a>
           </li>
         ))}
+        {/* Fran/QCI 2026-10-08: unlisted towns assumed we wouldn't come. */}
+        <li><a href="/service-areas/" class="text-primary font-semibold no-underline hover:underline">See all areas →</a></li>
+        <li class="text-navy-900/70">Don't see your town? Call <a href={`tel:${brand.phoneRaw}`} class="text-primary font-bold no-underline hover:underline whitespace-nowrap">{brand.phone}</a></li>
       </ul>
     </div>
 

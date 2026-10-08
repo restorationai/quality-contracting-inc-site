@@ -1,0 +1,51 @@
+---
+/**
+ * Graphical emergency service area (Fran/QCI 2026-10-08: "I suggest a
+ * graphical emergency service area."). Pure SVG, no map tiles or scripts:
+ * the land, state lines and interstates come from src/data/service-area-map.json
+ * (public-domain Census geometry, projected around the Auburn office), the
+ * ring is the plan-input service radius, and every city hub is a clickable pin.
+ * Areas missing from the JSON's `towns` simply don't get a pin.
+ */
+import map from '~/data/service-area-map.json';
+import { brand } from '~/lib/brand';
+
+type Area = { slug: string; city: string; state: string };
+const { areas } = Astro.props as { areas: Area[] };
+const towns = map.towns as Record<string, [number, number]>;
+const pins = areas.filter((a) => towns[a.slug]).map((a) => ({ ...a, xy: towns[a.slug] }));
+// A few spread-out towns get a name so the map reads at a glance.
+const LABELED = new Set(['worcester-ma', 'leominster-ma', 'newton-ma', 'palmer-town-ma', 'webster-ma', 'milford-ma', 'hudson-ma']);
+const [ox, oy] = map.office;
+---
+
+<figure class="m-0 lg:sticky lg:top-28">
+  <div class="rounded-2xl border border-white/10 bg-[#0d1b2a] overflow-hidden">
+    <svg viewBox={`0 0 ${map.width} ${map.height}`} class="block w-full h-auto" role="img"
+         aria-label={`Map of the ${brand.displayName} emergency service area: a ${map.radiusMiles} mile radius around our ${brand.primaryCity}, ${brand.primaryState} office, with every community we serve marked`}>
+      <path d={map.land} fill="#1c2733" stroke="#3a4a5c" stroke-width="1.5" />
+      <path d={map.borders} fill="none" stroke="#56677a" stroke-width="1.5" stroke-dasharray="6 5" />
+      {map.roads.map((r) => <path d={r.d} fill="none" stroke="#33414f" stroke-width="2.5" stroke-linecap="round" />)}
+      {map.stateLabels.map((s) => (
+        <text x={s.x} y={s.y} text-anchor="middle" fill="#6b7d90" font-size="22" font-weight="700" letter-spacing="4" style="text-transform:uppercase">{s.t}</text>
+      ))}
+      <circle cx={ox} cy={oy} r={map.radius} class="fill-primary-500/10 stroke-primary-400" stroke-width="3" stroke-dasharray="12 8" />
+      {pins.map((p) => (
+        <a href={`/service-areas/${p.slug}/`} aria-label={`${p.city}, ${p.state}`}>
+          <title>{p.city}, {p.state}</title>
+          <circle cx={p.xy[0]} cy={p.xy[1]} r="14" fill="transparent" />
+          <circle cx={p.xy[0]} cy={p.xy[1]} r="6.5" class="fill-primary-400 hover:fill-white transition-colors" stroke="#0d1b2a" stroke-width="2" />
+          {LABELED.has(p.slug) && (
+            <text x={p.xy[0] + 11} y={p.xy[1] + 6} fill="#ffffff" fill-opacity="0.8" font-size="18" font-weight="600" paint-order="stroke" stroke="#1c2733" stroke-width="4">{p.city}</text>
+          )}
+        </a>
+      ))}
+      <circle cx={ox} cy={oy} r="13" fill="#ffffff" class="stroke-primary-500" stroke-width="5" />
+      <text x={ox} y={oy + 40} text-anchor="middle" fill="#ffffff" font-size="22" font-weight="800" paint-order="stroke" stroke="#1c2733" stroke-width="5">{brand.primaryCity} Office</text>
+    </svg>
+  </div>
+  <figcaption class="mt-4 flex flex-wrap gap-x-6 gap-y-2 text-xs font-bold uppercase tracking-widest text-white/60">
+    <span class="inline-flex items-center gap-2"><span class="inline-block w-4 h-4 rounded-full border-2 border-dashed border-primary-400 bg-primary-500/10"></span>{map.radiusMiles} mile emergency service radius</span>
+    <span class="inline-flex items-center gap-2"><span class="inline-block w-2.5 h-2.5 rounded-full bg-primary-400"></span>Communities we serve</span>
+  </figcaption>
+</figure>

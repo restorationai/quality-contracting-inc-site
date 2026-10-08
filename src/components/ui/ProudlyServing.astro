@@ -4,8 +4,13 @@
  * (/service-areas/{slug}/). Sits near the bottom of the homepage, directly
  * above the CTA banner. Full section-header treatment (eyebrow + display h2)
  * so it carries the same visual weight as Our Process / About Us.
+ * Fran/QCI 2026-10-08: visitors whose town wasn't listed assumed we wouldn't
+ * come, so the list ends with an "other town? call" chip and sits beside a
+ * graphical service-area map.
  */
-import { MapPin } from '@lucide/astro';
+import { MapPin, Phone } from '@lucide/astro';
+import { brand } from '~/lib/brand';
+import ServiceAreaMap from '~/components/ui/ServiceAreaMap.astro';
 import { getCollection, type CollectionEntry } from 'astro:content';
 
 const all = (await getCollection('serviceAreas')) as CollectionEntry<'serviceAreas'>[];
@@ -26,6 +31,9 @@ const areas = all.sort((a, b) => {
         </div>
         <a href="/service-areas/" class="text-xs font-black uppercase tracking-widest text-primary-400 no-underline hover:text-primary-300 whitespace-nowrap pb-2">All Areas &rarr;</a>
       </div>
+      <div class="grid gap-10 lg:grid-cols-2 lg:gap-14 items-start">
+      <ServiceAreaMap areas={areas.map((a) => ({ slug: a.data.area_slug, city: a.data.city, state: a.data.state }))} />
+      <div>
       <div class="flex flex-wrap gap-3 md:gap-4">
         {areas.map((area) => (
           <a
@@ -36,6 +44,18 @@ const areas = all.sort((a, b) => {
             {area.data.city}, {area.data.state}
           </a>
         ))}
+        <a
+          href={`tel:${brand.phoneRaw}`}
+          class="inline-flex items-center gap-2.5 rounded-full border border-primary-500 bg-primary-500/15 px-5 py-2.5 text-sm md:text-base font-bold uppercase tracking-wide text-white no-underline hover:no-underline hover:bg-primary-500/30 transition-colors"
+        >
+          <Phone size={16} class="text-primary-400 shrink-0" />
+          Other town? Call {brand.phone}
+        </a>
+      </div>
+      <p class="mt-8 mb-0 text-lg text-white/75 max-w-xl">
+        Don't see your town listed? We still want to hear from you. Call <a href={`tel:${brand.phoneRaw}`} class="font-bold text-primary-400 no-underline hover:underline whitespace-nowrap">{brand.phone}</a> and we'll tell you right away whether we can get to you.
+      </p>
+      </div>
       </div>
     </div>
   </section>
