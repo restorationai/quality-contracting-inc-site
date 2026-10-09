@@ -19,7 +19,7 @@ state: "MA"
 primary: false
 rendered: true
 ---
-Quality Contracting, Inc. handles water damage, fire and smoke cleanup, mold remediation, and storm response for homes and businesses in Maynard, bringing IICRC-trained crews and direct insurance billing to a town where many properties are a century or more old. Whether it's a failed sump pump in a mill-era basement or wind damage after a nor'easter rolls through, we scope the loss, document it for your carrier, and get the drying or repair work moving.
+Quality Contracting, Inc. handles water damage, fire and smoke cleanup, mold remediation, and storm response for homes and businesses in Maynard, bringing restoration crews and direct insurance billing to a town where many properties are a century or more old. Whether it's a failed sump pump in a mill-era basement or wind damage after a nor'easter rolls through, we scope the loss, document it for your carrier, and get the drying or repair work moving.
 
 ## Restoration emergencies common in Maynard
 

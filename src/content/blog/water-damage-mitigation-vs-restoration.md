@@ -4,7 +4,7 @@ title: "Water Damage Mitigation vs. Restoration: What Each Phase Covers on Your 
 h1: "Water Damage Mitigation vs. Restoration: What Each Phase Covers on Your Insurance Estimate"
 meta_description: "Mitigation and restoration are two different line items on a water damage insurance estimate. Here's what each phase actually covers, how long they take, and what to ask your adjuster."
 primary_keyword: "water damage mitigation"
-secondary_keywords: ["difference between water mitigation and water damage restoration", "water damage restoration process step by step", "can i stay in my house during water damage restoration", "iicrc certified water damage restoration", "how long does water damage restoration take"]
+secondary_keywords: ["difference between water mitigation and water damage restoration", "water damage restoration process step by step", "can i stay in my house during water damage restoration", "how long does water damage restoration take"]
 search_intent: "commercial"
 priority: 7
 hero: "/images/blog/2026/10/water-damage-mitigation-vs-restoration/hero.webp"
@@ -43,7 +43,7 @@ This is also where homeowners get stuck coordinating pieces themselves: one comp
 
 ## Can You Stay in the House During Mitigation and Restoration?
 
-Most homeowners can stay in the home during mitigation if the water is clean (what IICRC calls Category 1) and contained to one area, like a single bathroom or basement corner. You'll have noise from air movers and dehumidifiers running around the clock, but the rest of the house usually stays livable.
+Most homeowners can stay in the home during mitigation if the water is clean (what the industry drying standard calls Category 1) and contained to one area, like a single bathroom or basement corner. You'll have noise from air movers and dehumidifiers running around the clock, but the rest of the house usually stays livable.
 
 You typically need to leave only when the water is contaminated (sewage or flood water, Category 3), when demolition is extensive, or when a damaged roof or wall leaves the structure exposed. In those cases, a crew may need to [board up or tarp](/services/emergency-board-up-tarping/) an opening before mitigation can even start, which is its own line item separate from both drying and rebuild work. Restoration, especially a full room rebuild, is more likely to require you to vacate that space, though adjoining rooms often stay usable.
 

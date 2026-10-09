@@ -19,7 +19,7 @@ state: "MA"
 primary: false
 rendered: true
 ---
-Quality Contracting, Inc. handles water damage, fire and smoke damage, mold remediation, and storm-related losses for homeowners and property managers across Marlborough. Our Auburn-based crews bring IICRC-informed drying and reconstruction methods to the city's mix of older mill-era housing and newer construction, working directly with most insurance carriers so property owners are not left managing the paperwork alone while the repair work gets done.
+Quality Contracting, Inc. handles water damage, fire and smoke damage, mold remediation, and storm-related losses for homeowners and property managers across Marlborough. Our Auburn-based crews bring industry-standard drying and reconstruction methods to the city's mix of older mill-era housing and newer construction, working directly with most insurance carriers so property owners are not left managing the paperwork alone while the repair work gets done.
 
 ## Restoration emergencies common in Marlborough
 
