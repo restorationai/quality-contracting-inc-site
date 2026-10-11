@@ -78,7 +78,7 @@ Check your declarations page for the ALE limit. Common amounts are 20-30% of you
 
 ## What should you do in the next hour?
 
-If water is still entering the unit, stop the source first. If it is a building system or a neighbor's unit, call your landlord immediately and ask them to shut off the water supply. If it is your own appliance or fixture, locate your unit's shutoff valve and close it. Our [burst pipe emergency checklist](/blog/burst-pipe-checklist/) walks through the first steps in detail.
+If water is still entering the unit, stop the source first. If it is a building system or a neighbor's unit, call your landlord immediately and ask them to shut off the water supply. If it is your own appliance or fixture, locate your unit's shutoff valve and close it. Our burst pipe emergency checklist walks through the first steps in detail.
 
 Once the water is stopped:
 
