@@ -27,7 +27,7 @@ If your adjuster's estimate has a line that says "mitigation" and a separate sec
 
 Mitigation is the emergency response that stops a water loss from spreading: pulling standing water, removing materials that can't be saved, and placing air movers and dehumidifiers to dry the structure. Restoration is everything that happens after the structure is dry: replacing drywall, flooring, trim, cabinetry, and in larger losses, full reconstruction of walls, ceilings, or rooms.
 
-Think of mitigation as triage and restoration as the rebuild. A plumber's technician doesn't rebuild your kitchen, and a mitigation crew doesn't hang new drywall as part of the same scope. On paper, mitigation follows [IICRC S500](https://www.iicrc.org/page/IICRCS500) drying standards, the industry guideline for water damage response, while restoration follows standard construction trade practices.
+Think of mitigation as triage and restoration as the rebuild. A plumber's technician doesn't rebuild your kitchen, and a mitigation crew doesn't hang new drywall as part of the same scope. On paper, mitigation follows [IICRC S500](https://iicrc.org/s500/) drying standards, the industry guideline for water damage response, while restoration follows standard construction trade practices.
 
 This split matters because it's not just terminology. On most insurance estimates, mitigation and restoration are priced, approved, and sometimes paid out as two separate scopes of work.
 

@@ -50,7 +50,7 @@ In practice, here is how it usually plays out:
 
 1. **Your renters insurance pays you first** for your personal property loss, then pursues the responsible party through subrogation (they handle the back-and-forth with the other insurer).
 2. **The landlord's policy covers the structure**, the walls, floors, ceiling, and building systems. Your landlord is responsible for the building. You are responsible for your stuff.
-3. **If the landlord was negligent** (known plumbing problems left unaddressed), Massachusetts landlord-tenant law gives you additional remedies. The [Massachusetts law about landlord and tenant obligations](https://www.mass.gov/info-details/massachusetts-law-about-landlord-and-tenant-law) requires landlords to maintain habitable conditions, including functional plumbing.
+3. **If the landlord was negligent** (known plumbing problems left unaddressed), Massachusetts landlord-tenant law gives you additional remedies. The Massachusetts law about landlord and tenant obligations requires landlords to maintain habitable conditions, including functional plumbing.
 
 Worcester and Framingham have a large share of three-deckers and older multi-family housing. In those buildings, a failed supply line on the second floor can soak two units below it before anyone shuts off the water. Knowing this split of responsibility before it happens is the difference between a fast claim and a months-long dispute.
 

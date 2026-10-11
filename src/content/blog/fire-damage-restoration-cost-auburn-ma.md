@@ -56,11 +56,11 @@ A few things move the number most:
 
 ## Does homeowners insurance cover fire damage in MA?
 
-Yes. A standard HO-3 homeowners policy lists fire as a named covered peril, and it typically pays for the dwelling, detached structures like a garage or shed, damaged contents, and additional living expenses while the home is unlivable, according to the [Insurance Information Institute](https://www.iii.org/article/what-covered-standard-homeowners-policy).
+Yes. A standard HO-3 homeowners policy lists fire as a named covered peril, and it typically pays for the dwelling, detached structures like a garage or shed, damaged contents, and additional living expenses while the home is unlivable, according to the [Insurance Information Institute](https://www.iii.org/article/what-is-covered-by-standard-homeowners-insurance).
 
 What trips people up is the deductible and the documentation. Massachusetts homeowners commonly carry a $500 to $2,500 deductible, and the adjuster will want photos and a written scope before demolition starts, not after. Photograph every room before anything gets thrown away, including items that look obviously ruined.
 
-One more thing worth knowing before you sign a contract: Massachusetts caps the upfront deposit a home improvement contractor can collect at one-third of the total contract price on jobs over $1,000, per the state's [Home Improvement Contractor rules](https://www.mass.gov/info-details/hic-homeowner-resources). Any contractor asking for half or more down before work starts isn't following state guidance.
+One more thing worth knowing before you sign a contract: Massachusetts caps the upfront deposit a home improvement contractor can collect at one-third of the total contract price on jobs over $1,000, per the state's [Home Improvement Contractor rules](https://www.mass.gov/home-improvement-contractor-program). Any contractor asking for half or more down before work starts isn't following state guidance.
 
 Quality Contracting, Inc. writes a documented scope and works directly with the adjuster on the claim, so the insurance side and the rebuild side stay coordinated instead of becoming two separate fights.
 
