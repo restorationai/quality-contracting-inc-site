@@ -49,7 +49,7 @@ One thing Massachusetts homeowners run into: ice dam damage. Because ice dams ar
 
 Before you call your adjuster, spend 15 minutes with your declarations page and the exclusions section. You're looking for three things:
 
-1. **Your deductible.** Cost depends on the documented scope; we produce a line-item scope with photos and moisture readings formatted for insurance carriers. If the repair cost is only modestly above your deductible, filing a claim may not be worth it, and a claim on your record can raise your premium.
+1. **Your deductible.** If the repair cost is only modestly above your deductible, filing a claim may not be worth it, and a claim on your record can raise your premium.
 2. **The exclusions list.** Look for the words "seepage," "leakage," "continuous or repeated," and "flood." These are the phrases insurers use to deny gradual-damage claims.
 3. **Any endorsements you added.** Water backup coverage, equipment breakdown coverage, and service line coverage are common add-ons that change what's covered. If you're not sure what you bought, call your agent, not your adjuster, and ask.
 

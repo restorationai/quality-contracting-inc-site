@@ -29,10 +29,10 @@ If you've found a musty smell in a finished basement after a wet spring, or a co
 
 | Company | Google Rating | Reviews | 24/7 Emergency | Remediation Standard |
 |---|---|---|---|---|
-| QCI Restoration | 4.5 | 112 | Yes | IICRC S520 process |
-| PuroClean (Auburn) |, |, |, |, |
-| Green Home Solutions of Central MA (Auburn) |, |, |, |, |
-| SERVPRO of Southern Worcester County |, |, |, |, |
+| QCI Restoration | 4.5 | 115 | Yes | IICRC S520 process |
+| PuroClean (Auburn) | Not listed | Not listed | Not listed | Not listed |
+| Green Home Solutions of Central MA (Auburn) | Not listed | Not listed | Not listed | Not listed |
+| SERVPRO of Southern Worcester County | Not listed | Not listed | Not listed | Not listed |
 
 Ratings change and listings vary by platform, so confirm current numbers directly on each company's Google Business Profile before deciding. What doesn't change is the scope of work each type of company is built to handle.
 

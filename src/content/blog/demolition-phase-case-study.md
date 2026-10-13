@@ -22,7 +22,9 @@ Large-loss restoration jobs, the kind involving major water damage, fire damage,
 
 Here's what one homeowner, Denise, wrote about her experience during the demolition phase of her project:
 
-> There are not enough adjectives to describe how fabulous Luis and his crew have been during the demolition phase of this job. Luis leads by example for professionalism, skill, safety, punctuality, clean up, and even humor to keep us smiling during a difficult time. We look forward to Luis returning for the next phase of this project, continued excellence provided by Luis and this company, as well as the speedy completion of this huge job., Denise, verified Google review
+> There are not enough adjectives to describe how fabulous Luis and his crew have been during the demolition phase of this job. Luis leads by example for professionalism, skill, safety, punctuality, clean up, and even humor to keep us smiling during a difficult time. We look forward to Luis returning for the next phase of this project, continued excellence provided by Luis and this company, as well as the speedy completion of this huge job.
+>
+> *Denise, verified Google review*
 
 ## What "leads by example" actually means on a demo crew
 
@@ -49,20 +51,3 @@ If you're staring down a demolition phase on your own home, the process usually 
 If your project is large enough to need a dedicated demo phase, ask upfront whether the same company will carry the job through reconstruction. Coordinating that yourself across separate contractors adds time and risk to a project that's already disruptive.
 
 QCI Restoration serves Auburn and surrounding Massachusetts communities including Worcester, Shrewsbury, Westborough, and Framingham. If your project involves water damage, fire damage, or storm damage that's headed toward a demolition and rebuild, request a project assessment and get a written scope before work begins.
-
-## FAQ
-
-**What happens during the demolition phase of a large restoration project?**
-The demolition phase is when damaged materials, drywall, flooring, insulation, and sometimes framing, are removed to expose the full extent of the damage. Crews also protect unaffected areas with containment barriers and remove debris daily so the site stays safe and livable.
-
-**How long does the demolition phase typically take on a large-loss job?**
-It depends on the size of the loss and how much of the structure is affected, but a single room might take a few days while a whole-floor or whole-house demo can run one to three weeks. The timeline usually becomes clearer once the crew opens the walls and sees what's actually behind them.
-
-**Do I need to hire a separate contractor for the rebuild after demolition?**
-Not with QCI Restoration's One Call Does It All approach. The same team that handles demolition carries the project into framing, drywall, and finish work, so you're not re-explaining the job to a new contractor or coordinating separate schedules.
-
-**What should I expect from a demolition crew while I'm still living in the home?**
-Expect daily containment and clean-up, clear communication about what's being removed and why, and a crew that respects the parts of the home you're still using. A well-run demo phase should feel disruptive but organized, not chaotic.
-
-**Does insurance typically cover the demolition phase separately from the rebuild?**
-Most policies bundle demolition and reconstruction costs under the same claim once a covered loss (like a burst pipe or fire) is established, but documentation matters. A written scope and photo record from the demo phase helps support the reconstruction estimate with the adjuster.
