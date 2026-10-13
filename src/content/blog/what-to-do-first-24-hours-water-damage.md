@@ -74,4 +74,4 @@ Professional restoration crews use moisture meters, thermal imaging cameras, and
 
 The first 24 hours are about stopping damage from compounding. What comes after, removing wet materials, drying the structure to baseline, repairing or replacing drywall and flooring, addressing any mold, is a process that typically takes days to weeks depending on the scope.
 
-If you're in Auburn or the surrounding area and the damage is more than you can manage on your own, Quality Contracting, Inc. handles water damage restoration and can help you understand what the cleanup process looks like for your specific situation. Reach them at **(508) 756-8800**.
+If you're in Auburn or the surrounding area and the damage is more than you can manage on your own, QCI Restoration handles water damage restoration and can help you understand what the cleanup process looks like for your specific situation. Reach them at **(508) 756-8800**.

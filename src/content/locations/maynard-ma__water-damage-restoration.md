@@ -1,6 +1,6 @@
 ---
 archetype: "service-area-service"
-title: "Emergency Water Damage Restoration in Maynard, MA | Quality Contracting, Inc."
+title: "Emergency Water Damage Restoration in Maynard, MA | QCI Restoration"
 h1: "Emergency Water Damage Restoration in Maynard"
 meta_description: "Emergency water damage restoration in Maynard, MA. Insurance billing accepted. Call (508) 756-8800."
 primary_keyword: "water damage restoration maynard"
@@ -42,4 +42,4 @@ Most homeowners dealing with a burst pipe, washing machine supply line failure, 
 
 Many of Maynard's older homes near the river sit on fieldstone or brick foundations rather than poured concrete, and those materials hold and release moisture on a much slower timeline. A basement wall can read dry on a surface moisture meter while the masonry behind it is still saturated, which is why we take readings at multiple depths and don't call a job finished based on one pass with a moisture meter. It's a small detail, but it's the difference between a basement that stays dry and one where mold shows up behind the paint six weeks later.
 
-If water is actively moving through your Maynard home right now, the time between the leak starting and extraction beginning matters more than almost anything else in how the restoration goes. Call Quality Contracting, Inc. at (508) 756-8800 and we'll walk you through what to do before equipment is on site.
+If water is actively moving through your Maynard home right now, the time between the leak starting and extraction beginning matters more than almost anything else in how the restoration goes. Call QCI Restoration at (508) 756-8800 and we'll walk you through what to do before equipment is on site.

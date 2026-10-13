@@ -13,7 +13,7 @@ generated_at: "2026-10-13T03:43:39Z"
 manual_override: false
 internal_links: ["/services/water-damage-restoration/", "/blog/burst-pipe-emergency-checklist/", "/blog/what-to-do-first-24-hours-water-damage/", "/blog/does-homeowners-insurance-cover-water-damage/", "/"]
 breadcrumb: [{"name": "Home", "url": "/"}, {"name": "Blog", "url": "/blog/"}, {"name": "Burst Pipe in Auburn, MA: Who to Call First (Do This Now)"}]
-faq: [{"question": "Who should I call first for a burst pipe in Auburn, MA?", "answer": "Call a plumber to stop the leak and call a water damage restoration company at the same time. [Call Quality Contracting, Inc. At (508) 756-8800](tel:+15087568800) for 24/7 extraction and drying once the water is shut off, since every hour it sits raises the risk of mold and warped flooring."}, {"question": "How fast does mold start after a burst pipe?", "answer": "Mold can begin growing in wet drywall, carpet, and insulation within 24 to 48 hours in a closed-up home, per EPA guidance on flooded homes. That window is why extraction and drying need to start the same day as the leak, not after the plumber's repair is scheduled."}, {"question": "Does homeowners insurance pay for burst pipe damage in Massachusetts?", "answer": "Most standard homeowners policies cover sudden, accidental pipe bursts but exclude damage from a slow leak you knew about and ignored. Keep photos, receipts, and a written drying scope, since adjusters typically require documentation showing the structure was actually dried, not just that water was removed."}, {"question": "Should I turn off the electricity before the water is gone?", "answer": "Yes, if standing water is anywhere near outlets, a baseboard heater, or your electrical panel. Shut off power to that area at the breaker, never at a wet outlet or switch, and stay out of the room entirely if water is pooling near the panel itself."}, {"question": "Can one company handle both the plumbing fix and the water damage repair?", "answer": "The plumbing repair itself (cutting out and replacing the failed section of pipe) is typically done by a plumber, but the water removal, drying, and full rebuild back to pre-loss condition can be handled under one contractor. That's the idea behind a \"One Call Does It All\" model: fewer handoffs between the mitigation crew, the drywall team, and the painters."}]
+faq: [{"question": "Who should I call first for a burst pipe in Auburn, MA?", "answer": "Call a plumber to stop the leak and call a water damage restoration company at the same time. [Call QCI Restoration At (508) 756-8800](tel:+15087568800) for 24/7 extraction and drying once the water is shut off, since every hour it sits raises the risk of mold and warped flooring."}, {"question": "How fast does mold start after a burst pipe?", "answer": "Mold can begin growing in wet drywall, carpet, and insulation within 24 to 48 hours in a closed-up home, per EPA guidance on flooded homes. That window is why extraction and drying need to start the same day as the leak, not after the plumber's repair is scheduled."}, {"question": "Does homeowners insurance pay for burst pipe damage in Massachusetts?", "answer": "Most standard homeowners policies cover sudden, accidental pipe bursts but exclude damage from a slow leak you knew about and ignored. Keep photos, receipts, and a written drying scope, since adjusters typically require documentation showing the structure was actually dried, not just that water was removed."}, {"question": "Should I turn off the electricity before the water is gone?", "answer": "Yes, if standing water is anywhere near outlets, a baseboard heater, or your electrical panel. Shut off power to that area at the breaker, never at a wet outlet or switch, and stay out of the room entirely if water is pooling near the panel itself."}, {"question": "Can one company handle both the plumbing fix and the water damage repair?", "answer": "The plumbing repair itself (cutting out and replacing the failed section of pipe) is typically done by a plumber, but the water removal, drying, and full rebuild back to pre-loss condition can be handled under one contractor. That's the idea behind a \"One Call Does It All\" model: fewer handoffs between the mitigation crew, the drywall team, and the painters."}]
 published_at: "2026-10-13"
 updated_at: "2026-10-13"
 services: []
@@ -31,9 +31,9 @@ The main shutoff is usually near the water meter, in the basement, a utility clo
 
 Never step into standing water near an outlet, a baseboard heater, or a panel box until the power to that area is off. If the water is near your electrical panel itself, stay out of the room and call your utility company before touching anything.
 
-![Job site photo from Quality Contracting, Inc.](https://nyscciinkhlutvqkgyvq.supabase.co/storage/v1/object/public/branding/CO-1785180744028/job-photos/posted/r1788980315_sms-1785358224564-5c715e96.jpg)
+![Job site photo from QCI Restoration](https://nyscciinkhlutvqkgyvq.supabase.co/storage/v1/object/public/branding/CO-1785180744028/job-photos/posted/r1788980315_sms-1785358224564-5c715e96.jpg)
 
-*Recent job photo from Quality Contracting, Inc..*
+*Recent job photo from QCI Restoration.*
 
 ## Who do you call first, a plumber or a restoration company?
 
@@ -41,7 +41,7 @@ Call both, right away, because they solve two different problems. A plumber find
 
 If you only call a plumber, the leak gets fixed but the wet drywall, subfloor, and insulation keep sitting there. Materials start growing mold within 24 to 48 hours in a closed-up Massachusetts home, according to the [EPA's guidance on flooded homes](https://www.epa.gov/flooded-homes). If you only call a restoration crew, they can extract water and set up drying equipment, but the pipe is still broken and water keeps coming back.
 
-For the restoration half, which is usually the bigger job, Quality Contracting, Inc. answers 24/7 and can mobilize extraction and drying equipment the same day for Auburn and nearby towns. Give them the address and a quick description of where the water is coming from so the crew arrives with the right gear.
+For the restoration half, which is usually the bigger job, QCI Restoration answers 24/7 and can mobilize extraction and drying equipment the same day for Auburn and nearby towns. Give them the address and a quick description of where the water is coming from so the crew arrives with the right gear.
 
 ![Who do you call first, a plumber or a restoration company: burst pipe in Auburn who to call first](/images/blog/2026/10/burst-pipe-in-auburn-who-to-call-first/section.webp)
 
@@ -69,8 +69,8 @@ This is also where the "One Call Does It All" idea actually matters in a burst p
 
 ---
 
-**About Quality Contracting**
+**About QCI Restoration**
 
-Quality Contracting is based in Auburn, MA and answers emergency calls 24/7 across Central Massachusetts and Greater Worcester, including Shrewsbury, Westborough, and Framingham. Their crews handle water damage restoration, fire and smoke cleanup, sewage cleanup, mold remediation, and full reconstruction under one roof, so a burst pipe can go from extraction to finished drywall without coordinating separate contractors. Holding a 4.5 rating across 115 Google reviews, the company positions itself around a simple idea: one call covers the loss from start to finish.
+QCI Restoration is based in Auburn, MA and answers emergency calls 24/7 across Central Massachusetts and Greater Worcester, including Shrewsbury, Westborough, and Framingham. Their crews handle water damage restoration, fire and smoke cleanup, sewage cleanup, mold remediation, and full reconstruction under one roof, so a burst pipe can go from extraction to finished drywall without coordinating separate contractors. Holding a 4.5 rating across 115 Google reviews, the company positions itself around a simple idea: one call covers the loss from start to finish.
 
-**Need help now?** [Call Quality Contracting, Inc. at (508) 756-8800](tel:+15087568800).
+**Need help now?** [Call QCI Restoration at (508) 756-8800](tel:+15087568800).

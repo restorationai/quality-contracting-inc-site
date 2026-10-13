@@ -1,6 +1,6 @@
 ---
 archetype: "service-area-service"
-title: "Upholstery Cleaning in East Douglas, MA | Quality Contracting, Inc."
+title: "Upholstery Cleaning in East Douglas, MA | QCI Restoration"
 h1: "Upholstery Cleaning in East Douglas"
 meta_description: "Upholstery cleaning in East Douglas, MA. Insurance billing accepted. Call (508) 756-8800."
 primary_keyword: "upholstery cleaning east douglas"
@@ -42,4 +42,4 @@ We match equipment to the material in front of us rather than running one settin
 
 A detail that only shows up after you've worked a few seasons in this area: furniture pushed against exterior walls in older East Douglas homes, especially uninsulated additions or converted porches, tends to run cooler and damper than the rest of the room. That temperature difference means upholstery in those spots holds moisture longer after cleaning, so we'll often recommend repositioning a piece slightly away from the wall while it finishes drying, even after we've used air movers on-site.
 
-If your sofa, sectional, or leather chair in East Douglas is holding onto odor, stains, or that flat, dingy look that comes from a New England summer, call Quality Contracting, Inc. at (508) 756-8800. We'll talk through the fabric, the timeline, and what to expect before we ever step through the door.
+If your sofa, sectional, or leather chair in East Douglas is holding onto odor, stains, or that flat, dingy look that comes from a New England summer, call QCI Restoration at (508) 756-8800. We'll talk through the fabric, the timeline, and what to expect before we ever step through the door.

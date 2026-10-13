@@ -1,6 +1,6 @@
 ---
 archetype: "service-area-service"
-title: "Upholstery Cleaning in Weston, MA | Quality Contracting, Inc."
+title: "Upholstery Cleaning in Weston, MA | QCI Restoration"
 h1: "Upholstery Cleaning in Weston"
 meta_description: "Upholstery cleaning in Weston, MA. Insurance billing accepted. Call (508) 756-8800."
 primary_keyword: "upholstery cleaning weston"
@@ -38,4 +38,4 @@ Our crews travel out from Auburn along the Massachusetts Turnpike, which puts We
 
 One thing that surprises a lot of Weston homeowners: furniture in rooms that face wooded sections of the property often needs cleaning more often than furniture in a sunnier, more open-facing room, even if it looks equally clean. Shaded, tree-lined lots hold moisture in the air longer after rain, and that moisture works into upholstery fibers slowly over the season rather than all at once. We've found that formal living rooms on the north or wooded side of a Weston property tend to develop that faint mildew smell in upholstery well before any visible staining shows up, which is why we recommend a yearly check even for furniture that gets light use.
 
-If a sofa, sectional, or set of dining chairs in your Weston home is holding onto stains, pet odor, or that faint musty smell that won't air out, it's worth having it looked at before the fibers hold onto it permanently. Call Quality Contracting, Inc. at (508) 756-8800 to schedule upholstery cleaning for your Weston home.
+If a sofa, sectional, or set of dining chairs in your Weston home is holding onto stains, pet odor, or that faint musty smell that won't air out, it's worth having it looked at before the fibers hold onto it permanently. Call QCI Restoration at (508) 756-8800 to schedule upholstery cleaning for your Weston home.

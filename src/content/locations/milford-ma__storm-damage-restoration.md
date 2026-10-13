@@ -1,6 +1,6 @@
 ---
 archetype: "service-area-service"
-title: "Emergency Storm Damage Restoration in Milford, MA | Quality Contracting, Inc."
+title: "Emergency Storm Damage Restoration in Milford, MA | QCI Restoration"
 h1: "Emergency Storm Damage Restoration in Milford"
 meta_description: "Emergency storm damage restoration in Milford, MA. Insurance billing accepted. Call (508) 756-8800."
 primary_keyword: "storm damage restoration milford"
@@ -42,4 +42,4 @@ Our crews run out of Auburn, with Route 140 and the I-495 corridor giving us a d
 
 One thing we watch closely on Milford jobs: many of the older homes near the town center have stone or brick foundations that pre-date modern waterproofing standards. After a heavy storm, water doesn't just threaten the roof, it can also wick up through foundation walls during prolonged ground saturation. We check basements on storm calls even when the homeowner's primary concern is roof damage, because that secondary moisture source is easy to miss until it causes a mold problem weeks later.
 
-If a storm has torn into your roof, flooded a basement, or dropped a tree limb through your siding, don't wait for the next rain to make it worse. Quality Contracting, Inc. handles storm damage restoration for Milford homes and commercial properties from first assessment through final repair, with one team managing the whole job. Call (508) 756-8800 to get a crew started on stabilizing your property.
+If a storm has torn into your roof, flooded a basement, or dropped a tree limb through your siding, don't wait for the next rain to make it worse. QCI Restoration handles storm damage restoration for Milford homes and commercial properties from first assessment through final repair, with one team managing the whole job. Call (508) 756-8800 to get a crew started on stabilizing your property.

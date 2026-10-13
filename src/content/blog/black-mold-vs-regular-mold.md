@@ -86,4 +86,4 @@ If the event was caused by a sudden, accidental discharge, a burst pipe, an appl
 
 ---
 
-If you're looking at a stain and not sure whether it's something you can wipe down or something that needs professional attention, the safest default is to get it assessed. Quality Contracting, Inc. serves Auburn and the surrounding Worcester County area, call (508) 756-8800 to talk through what you're seeing before you decide on next steps.
+If you're looking at a stain and not sure whether it's something you can wipe down or something that needs professional attention, the safest default is to get it assessed. QCI Restoration serves Auburn and the surrounding Worcester County area, call (508) 756-8800 to talk through what you're seeing before you decide on next steps.

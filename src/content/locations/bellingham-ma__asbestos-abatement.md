@@ -1,6 +1,6 @@
 ---
 archetype: "service-area-service"
-title: "Asbestos Abatement in Bellingham, MA | Quality Contracting, Inc."
+title: "Asbestos Abatement in Bellingham, MA | QCI Restoration"
 h1: "Asbestos Abatement in Bellingham"
 meta_description: "Asbestos abatement in Bellingham, MA. Insurance billing accepted. Call (508) 756-8800."
 primary_keyword: "asbestos abatement bellingham"
@@ -38,4 +38,4 @@ Our crews run down I-290 to I-495 to reach Bellingham, the same corridor that tu
 
 A pattern we watch for in Bellingham's older mill-area homes: asbestos pipe insulation and lead paint often show up together, since both were standard for the same construction period. Before we disturb old boiler or radiator piping in a pre-1950 Bellingham property, we check for lead paint on the surrounding trim and walls too, because a renovation that only screens for one hazard can leave the other in place.
 
-If you've found damaged pipe wrap, a cracked popcorn ceiling, or old floor tile you're not sure about in a Bellingham home, don't sand it, scrape it, or pull it up yourself. Call Quality Contracting, Inc. at (508) 756-8800 and we'll walk you through testing and next steps before any material gets disturbed.
+If you've found damaged pipe wrap, a cracked popcorn ceiling, or old floor tile you're not sure about in a Bellingham home, don't sand it, scrape it, or pull it up yourself. Call QCI Restoration at (508) 756-8800 and we'll walk you through testing and next steps before any material gets disturbed.

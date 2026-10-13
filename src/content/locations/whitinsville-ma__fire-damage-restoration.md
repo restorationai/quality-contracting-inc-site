@@ -1,6 +1,6 @@
 ---
 archetype: "service-area-service"
-title: "Emergency Fire Damage Restoration in Whitinsville, MA | Quality Contracting, Inc."
+title: "Emergency Fire Damage Restoration in Whitinsville, MA | QCI Restoration"
 h1: "Emergency Fire Damage Restoration in Whitinsville"
 meta_description: "Emergency fire damage restoration in Whitinsville, MA. Insurance billing accepted. Call (508) 756-8800."
 primary_keyword: "fire damage restoration whitinsville"
@@ -45,16 +45,16 @@ From there, the sequence moves through:
 
 ## Reaching Whitinsville from Auburn
 
-Quality Contracting, Inc. is based in Auburn, and Whitinsville is a direct run down Route 146 South into the Blackstone Valley. The route is straightforward in most conditions, and the team is familiar with the village's street layout, including the narrower side streets near the historic mill district where larger equipment vehicles sometimes require staging adjustments. Scheduling is handled by phone at (508) 756-8800 during business hours.
+QCI Restoration is based in Auburn, and Whitinsville is a direct run down Route 146 South into the Blackstone Valley. The route is straightforward in most conditions, and the team is familiar with the village's street layout, including the narrower side streets near the historic mill district where larger equipment vehicles sometimes require staging adjustments. Scheduling is handled by phone at (508) 756-8800 during business hours.
 
 ## Working with Insurance on Whitinsville Fire Claims
 
 Fire claims in Massachusetts are among the more documentation-intensive property insurance claims, and older Whitinsville homes can add complexity. Replacement costs for plaster, original woodwork, and period millwork often exceed standard line-item estimates in carrier software, because those materials are not stocked at the local building supply. Accurate photo documentation, material sampling, and written scope narratives help adjusters understand what is actually being replaced rather than defaulting to modern-equivalent pricing that undervalues the original construction.
 
-Quality Contracting works directly with homeowners and their adjusters to make sure the scope reflects actual conditions. Supplement requests for hidden damage found during demolition are documented with photographs and written findings before any additional work proceeds.
+QCI Restoration works directly with homeowners and their adjusters to make sure the scope reflects actual conditions. Supplement requests for hidden damage found during demolition are documented with photographs and written findings before any additional work proceeds.
 
 ## Local Note
 
 In Whitinsville's older mill-adjacent neighborhoods, many homes share party walls or sit on lots with minimal setbacks, a pattern that dates to when housing was built to put workers within walking distance of the mills. After a fire in one of these structures, smoke infiltration into the adjacent unit through shared wall cavities is a real and often overlooked problem. A thorough post-fire assessment in this part of the Blackstone Valley should include the neighboring structure, not just the address of origin, particularly if the party wall predates modern fire-blocking requirements.
 
-If your home or a neighboring property has been affected by fire in Whitinsville, call Quality Contracting, Inc. at (508) 756-8800. The sooner the full extent of smoke migration is mapped, the more material can be saved and the shorter the overall restoration timeline.
+If your home or a neighboring property has been affected by fire in Whitinsville, call QCI Restoration at (508) 756-8800. The sooner the full extent of smoke migration is mapped, the more material can be saved and the shorter the overall restoration timeline.

@@ -1,6 +1,6 @@
 ---
 archetype: "service-area-service"
-title: "Upholstery Cleaning in Newton, MA | Quality Contracting, Inc."
+title: "Upholstery Cleaning in Newton, MA | QCI Restoration"
 h1: "Upholstery Cleaning in Newton"
 meta_description: "Upholstery cleaning in Newton, MA. Insurance billing accepted. Call (508) 756-8800."
 primary_keyword: "upholstery cleaning newton"
@@ -38,4 +38,4 @@ Our crews come out of Auburn and take the Massachusetts Turnpike east into Newto
 
 One thing we watch for in Newton specifically: a lot of the wool and wool-blend upholstery in older homes here was never meant to get fully wet-cleaned, and hot water extraction on the wrong blend can cause shrinkage or puckering at the seams. We test fiber content before committing to a method rather than assuming a sofa is a standard poly-blend just because it looks like one, which matters more in a city with this much inherited and reupholstered furniture than it would in a neighborhood full of newer, mass-produced pieces.
 
-If your sofa, sectional, or leather armchair in Newton is starting to look dull, smell musty, or show wear along the cushions, call Quality Contracting, Inc. at (508) 756-8800 to get a cleaning scheduled that actually matches the fabric and the house it's in.
+If your sofa, sectional, or leather armchair in Newton is starting to look dull, smell musty, or show wear along the cushions, call QCI Restoration at (508) 756-8800 to get a cleaning scheduled that actually matches the fabric and the house it's in.

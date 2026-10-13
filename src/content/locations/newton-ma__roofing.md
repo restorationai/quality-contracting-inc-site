@@ -1,6 +1,6 @@
 ---
 archetype: "service-area-service"
-title: "Roofing Installation and Replacement in Newton, MA | Quality Contracting, Inc."
+title: "Roofing Installation and Replacement in Newton, MA | QCI Restoration"
 h1: "Roofing Installation and Replacement in Newton"
 meta_description: "Roofing installation and replacement in Newton, MA. Insurance billing accepted. Call (508) 756-8800."
 primary_keyword: "roofing installation and replacement newton"
@@ -40,7 +40,7 @@ Flashing is set in stages: step flashing woven with each course of shingles at s
 
 ## Reaching Newton from Auburn
 
-Quality Contracting, Inc. is based in Auburn, which puts Newton roughly 30 to 35 minutes east via the Massachusetts Turnpike under normal conditions. For scheduling purposes, that means morning start times are realistic without the crew losing half the workday in transit. We serve the full city, including neighborhoods closer to the Boston line on the east side as well as properties further west near the Newton-Needham border.
+QCI Restoration is based in Auburn, which puts Newton roughly 30 to 35 minutes east via the Massachusetts Turnpike under normal conditions. For scheduling purposes, that means morning start times are realistic without the crew losing half the workday in transit. We serve the full city, including neighborhoods closer to the Boston line on the east side as well as properties further west near the Newton-Needham border.
 
 For project consultations and estimates, call (508) 756-8800 to set up a time that works with your schedule.
 
@@ -54,4 +54,4 @@ For properties within homeowner associations, particularly in some of Newton's n
 
 Newton's older Colonials and Tudors frequently have low-slope sections connecting a rear addition to the main structure. These transitional roofs are almost never steep enough for standard asphalt shingles to perform well long-term, but they are often re-shingled anyway because it is the cheapest option at the time. A low-slope section below a 3:12 pitch really needs a modified bitumen membrane or a standing-seam metal panel to shed water reliably. If your home has one of these connector roofs and it has been re-shingled more than once, it is worth asking specifically about that section during any inspection, because it is almost always the first place a leak develops.
 
-If your Newton roof is showing its age or you are planning a full replacement before the next winter cycle, call Quality Contracting, Inc. at (508) 756-8800 to schedule an inspection and get a clear picture of what the project involves.
+If your Newton roof is showing its age or you are planning a full replacement before the next winter cycle, call QCI Restoration at (508) 756-8800 to schedule an inspection and get a clear picture of what the project involves.

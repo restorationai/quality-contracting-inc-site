@@ -1,6 +1,6 @@
 ---
 archetype: "service-area-service"
-title: "Mold Remediation in Sturbridge, MA | Quality Contracting, Inc."
+title: "Mold Remediation in Sturbridge, MA | QCI Restoration"
 h1: "Mold Remediation in Sturbridge"
 meta_description: "Mold remediation in Sturbridge, MA. Insurance billing accepted. Call (508) 756-8800."
 primary_keyword: "mold remediation sturbridge"
@@ -38,7 +38,7 @@ Throughout the process we keep records: moisture readings, photos, and a written
 
 ## Reaching Sturbridge from Auburn
 
-Quality Contracting, Inc. is based in Auburn, which puts Sturbridge roughly a 25-to-30-minute drive southwest via Route 20. That corridor is a straightforward run without the congestion patterns that affect routes closer to Worcester's core, so scheduling is predictable. Call us at (508) 756-8800 to discuss availability and get a crew to your property as promptly as possible.
+QCI Restoration is based in Auburn, which puts Sturbridge roughly a 25-to-30-minute drive southwest via Route 20. That corridor is a straightforward run without the congestion patterns that affect routes closer to Worcester's core, so scheduling is predictable. Call us at (508) 756-8800 to discuss availability and get a crew to your property as promptly as possible.
 
 ## Working with Insurance on Mold Claims in Sturbridge
 
@@ -50,4 +50,4 @@ If your policy excludes mold or limits coverage, we'll walk you through the scop
 
 One pattern that comes up repeatedly in Sturbridge's older homes: stone foundation walls that were repointed or parged at some point in the past few decades. That parging can look solid and seal moisture out for years, then crack subtly and begin trapping water between the coating and the original stone. The wall face stays dry to the touch, but behind the parging, mold grows undisturbed. If a basement smells musty but you can't find an obvious source, that gap between the parging and the stone is worth investigating before assuming the problem is elsewhere.
 
-If mold has taken hold in your Sturbridge home, the sooner the source moisture and the affected materials are addressed together, the less of the structure is at risk. Reach out to Quality Contracting, Inc. at (508) 756-8800 to schedule an assessment and get a clear picture of what remediation will involve for your specific property.
+If mold has taken hold in your Sturbridge home, the sooner the source moisture and the affected materials are addressed together, the less of the structure is at risk. Reach out to QCI Restoration at (508) 756-8800 to schedule an assessment and get a clear picture of what remediation will involve for your specific property.

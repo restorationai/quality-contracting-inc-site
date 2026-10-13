@@ -1,6 +1,6 @@
 ---
 archetype: "service-area-service"
-title: "Roofing Installation and Replacement in Sturbridge, MA | Quality Contracting, Inc."
+title: "Roofing Installation and Replacement in Sturbridge, MA | QCI Restoration"
 h1: "Roofing Installation and Replacement in Sturbridge"
 meta_description: "Roofing installation and replacement in Sturbridge, MA. Insurance billing accepted. Call (508) 756-8800."
 primary_keyword: "roofing installation and replacement sturbridge"
@@ -20,7 +20,7 @@ state: "MA"
 service_display: "Roofing Installation and Replacement"
 rendered: true
 ---
-Sturbridge winters are not gentle on rooftops. The town sits in the higher elevations of Worcester County, where nor'easters stack heavy wet snow against ridgelines and freeze-thaw cycles work through shingle seams from November through March. If your roof is showing lifted tabs, granule loss in the gutters, or daylight around a ridge cap, those are signs the next hard season will push water inside rather than off the edge. Quality Contracting, Inc. installs and replaces roofs across Sturbridge, bringing the same crew and materials used on Auburn-area homes to a town with its own distinct set of roofing demands.
+Sturbridge winters are not gentle on rooftops. The town sits in the higher elevations of Worcester County, where nor'easters stack heavy wet snow against ridgelines and freeze-thaw cycles work through shingle seams from November through March. If your roof is showing lifted tabs, granule loss in the gutters, or daylight around a ridge cap, those are signs the next hard season will push water inside rather than off the edge. QCI Restoration installs and replaces roofs across Sturbridge, bringing the same crew and materials used on Auburn-area homes to a town with its own distinct set of roofing demands.
 
 ## Why Sturbridge Properties See Accelerated Roof Wear
 
@@ -38,10 +38,10 @@ Material selection is a conversation, not a catalog page. Architectural shingles
 
 ## Reaching Sturbridge from Auburn
 
-Quality Contracting, Inc. is based in Auburn, which puts Sturbridge a straightforward drive west on the Massachusetts Turnpike or Route 20. The Route 20 approach is often the practical route for crews hauling a trailer, since it runs directly through the commercial corridor and connects to the residential streets without the toll stop. Scheduling is handled by phone at (508) 756-8800, and we coordinate start times around material delivery windows so crews and shingles arrive together rather than waiting on each other.
+QCI Restoration is based in Auburn, which puts Sturbridge a straightforward drive west on the Massachusetts Turnpike or Route 20. The Route 20 approach is often the practical route for crews hauling a trailer, since it runs directly through the commercial corridor and connects to the residential streets without the toll stop. Scheduling is handled by phone at (508) 756-8800, and we coordinate start times around material delivery windows so crews and shingles arrive together rather than waiting on each other.
 
 ## Local Note
 
 Sturbridge's position near the Connecticut border means it occasionally falls into a different weather band than the Worcester metro during late-season storms. A system that drops two inches of rain in Auburn can deposit four or five inches of wet snow on Sturbridge rooftops in March or April. Homeowners who call after one of those events sometimes find that the damage is not from the storm itself but from an ice dam that formed during the refreezing overnight. When we inspect roofs here after a late-season event, we look specifically at the eave line and the first three feet of decking above it, because that is where the ice-dam damage concentrates, and it is easy to miss if you are only looking at the field of the roof.
 
-If your roof took a hit this past season or you are planning ahead before the next one, call Quality Contracting, Inc. at (508) 756-8800 to schedule a Sturbridge roofing inspection and get a clear picture of what your roof actually needs.
+If your roof took a hit this past season or you are planning ahead before the next one, call QCI Restoration at (508) 756-8800 to schedule a Sturbridge roofing inspection and get a clear picture of what your roof actually needs.

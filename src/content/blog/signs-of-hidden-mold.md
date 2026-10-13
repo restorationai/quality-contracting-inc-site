@@ -73,8 +73,8 @@ Call a mold remediation contractor, not just a general contractor, when:
 
 A qualified remediation crew will establish containment barriers (typically poly sheeting and negative air pressure) to prevent cross-contamination, then remove affected materials, drywall, insulation, subfloor sections, down to clean, unaffected structure. The remaining surfaces are treated and dried to documented moisture levels. Post-remediation testing by a third-party industrial hygienist is the standard way to verify the work is complete before reconstruction begins.
 
-The reconstruction side, new drywall, insulation, flooring, paint, is a separate phase, and not every remediation company handles both. Quality Contracting, Inc. handles the full scope, from initial assessment through finished reconstruction, which means you're not coordinating two separate contractors during an already stressful process.
+The reconstruction side, new drywall, insulation, flooring, paint, is a separate phase, and not every remediation company handles both. QCI Restoration handles the full scope, from initial assessment through finished reconstruction, which means you're not coordinating two separate contractors during an already stressful process.
 
 ---
 
-If you're in the Auburn area and two or more of these signs feel familiar, the most useful next step is a professional assessment, not to confirm your worst fears, but to know what you're actually dealing with. Call Quality Contracting, Inc. at (508) 756-8800 to talk through what you're seeing.
+If you're in the Auburn area and two or more of these signs feel familiar, the most useful next step is a professional assessment, not to confirm your worst fears, but to know what you're actually dealing with. Call QCI Restoration at (508) 756-8800 to talk through what you're seeing.

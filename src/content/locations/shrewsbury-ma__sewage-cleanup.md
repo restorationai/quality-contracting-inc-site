@@ -1,6 +1,6 @@
 ---
 archetype: "service-area-service"
-title: "Emergency Sewage Cleanup and Sanitization in Shrewsbury, MA | Quality Contracting, Inc."
+title: "Emergency Sewage Cleanup and Sanitization in Shrewsbury, MA | QCI Restoration"
 h1: "Emergency Sewage Cleanup and Sanitization in Shrewsbury"
 meta_description: "Emergency sewage cleanup and sanitization in Shrewsbury, MA. Insurance billing accepted. Call (508) 756-8800."
 primary_keyword: "sewage cleanup and sanitization shrewsbury"
@@ -23,7 +23,7 @@ rendered: true
 <!-- emergency-open -->
 **Sewage backup in Shrewsbury? Call now for emergency service.** Our crew responds fast to contain the contamination and start the cleanup.
 
-When a sewer line backs up or a septic system overflows in Shrewsbury, the problem rarely stays contained. Lakefront properties along Lake Quinsigamond sit close to a water table that rises quickly after heavy rain, and the postwar capes and ranches that fill neighborhoods like Edgemere were built with basement floor drains that can reverse-flow without warning. Raw sewage in a finished basement is a health hazard within hours, not days, and the clock on bacterial and pathogen exposure starts the moment the water stops moving. Call Quality Contracting at (508) 756-8800 to get the process started.
+When a sewer line backs up or a septic system overflows in Shrewsbury, the problem rarely stays contained. Lakefront properties along Lake Quinsigamond sit close to a water table that rises quickly after heavy rain, and the postwar capes and ranches that fill neighborhoods like Edgemere were built with basement floor drains that can reverse-flow without warning. Raw sewage in a finished basement is a health hazard within hours, not days, and the clock on bacterial and pathogen exposure starts the moment the water stops moving. Call QCI Restoration at (508) 756-8800 to get the process started.
 
 ## Why Shrewsbury Properties See Sewage Backup Issues
 
@@ -39,7 +39,7 @@ After bulk removal, every affected surface, concrete slab, subfloor sheathing, f
 
 ## Reaching Shrewsbury from Auburn
 
-Quality Contracting is based in Auburn, which puts Shrewsbury a short drive east on Route 20 or north via Route 9 across the Kenneth F. Burns Memorial Bridge. Most of Shrewsbury's residential neighborhoods, including Edgemere and the streets fanning out from Dean Park, are accessible without navigating highway interchanges, which matters when a crew is loading equipment and coordinating with a homeowner at the same time. When you call (508) 756-8800, we'll confirm scheduling and give you an honest arrival window based on current crew availability.
+QCI Restoration is based in Auburn, which puts Shrewsbury a short drive east on Route 20 or north via Route 9 across the Kenneth F. Burns Memorial Bridge. Most of Shrewsbury's residential neighborhoods, including Edgemere and the streets fanning out from Dean Park, are accessible without navigating highway interchanges, which matters when a crew is loading equipment and coordinating with a homeowner at the same time. When you call (508) 756-8800, we'll confirm scheduling and give you an honest arrival window based on current crew availability.
 
 ## Insurance Coordination for Sewage Backup Claims in Shrewsbury
 
@@ -49,4 +49,4 @@ Sewage backup coverage is one of the more frequently misunderstood parts of a ho
 
 Shrewsbury runs its own electric utility, SELCO, which means power restoration timelines after a storm event don't always follow the same schedule as Eversource territory next door. For sewage backups that coincide with a power outage (a flooded sump pit that couldn't pump, for example), our crews carry generator-powered extraction and drying equipment so work doesn't stall waiting for utility restoration. It's a detail that matters more in Shrewsbury than in most surrounding towns.
 
-If sewage has reached your basement, crawl space, or lower level anywhere in Shrewsbury, ZIP codes 01545 or 01546, don't wait to see whether the smell fades on its own. Bacterial contamination doesn't resolve without intervention, and porous materials absorb pathogens quickly. Call Quality Contracting, Inc. at (508) 756-8800 to schedule an assessment and get a remediation plan in place.
+If sewage has reached your basement, crawl space, or lower level anywhere in Shrewsbury, ZIP codes 01545 or 01546, don't wait to see whether the smell fades on its own. Bacterial contamination doesn't resolve without intervention, and porous materials absorb pathogens quickly. Call QCI Restoration at (508) 756-8800 to schedule an assessment and get a remediation plan in place.

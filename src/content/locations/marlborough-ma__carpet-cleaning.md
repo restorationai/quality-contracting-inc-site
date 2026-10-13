@@ -1,6 +1,6 @@
 ---
 archetype: "service-area-service"
-title: "Carpet Cleaning in Marlborough, MA | Quality Contracting, Inc."
+title: "Carpet Cleaning in Marlborough, MA | QCI Restoration"
 h1: "Carpet Cleaning in Marlborough"
 meta_description: "Carpet cleaning in Marlborough, MA. Insurance billing accepted. Call (508) 756-8800."
 primary_keyword: "carpet cleaning marlborough"
@@ -38,4 +38,4 @@ We run out of Auburn, and the most direct way into Marlborough is up I-290 to I-
 
 One thing that catches homeowners off guard here: Marlborough's older carpeted homes near the city's original neighborhoods often have hardwood underneath that was never meant to stay wet for long. When carpet holds onto winter moisture longer than expected, that subfloor can start to cup or discolor before the carpet itself shows any sign of a problem. We check subfloor condition as part of a deep carpet cleaning visit in these homes, not as a separate charge, because catching it early is the difference between a cleaning job and a flooring repair.
 
-If your carpet has been holding onto a winter's worth of salt, grit, or an odor you can't quite place, professional carpet cleaning in Marlborough is worth scheduling before it sets in deeper. Call Quality Contracting, Inc. at (508) 756-8800 to get a cleaning scheduled, whether it's a single room, a whole house, or a commercial space along the 495 corridor.
+If your carpet has been holding onto a winter's worth of salt, grit, or an odor you can't quite place, professional carpet cleaning in Marlborough is worth scheduling before it sets in deeper. Call QCI Restoration at (508) 756-8800 to get a cleaning scheduled, whether it's a single room, a whole house, or a commercial space along the 495 corridor.

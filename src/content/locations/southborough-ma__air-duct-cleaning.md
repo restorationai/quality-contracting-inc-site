@@ -1,6 +1,6 @@
 ---
 archetype: "service-area-service"
-title: "Air Duct Cleaning in Southborough, MA | Quality Contracting, Inc."
+title: "Air Duct Cleaning in Southborough, MA | QCI Restoration"
 h1: "Air Duct Cleaning in Southborough"
 meta_description: "Air duct cleaning in Southborough, MA. Insurance billing accepted. Call (508) 756-8800."
 primary_keyword: "air duct cleaning southborough"
@@ -38,7 +38,7 @@ Dryer vent cleaning is often scheduled alongside duct cleaning. Dryer vents in o
 
 ## Getting to Southborough from Auburn
 
-Quality Contracting, Inc. is based in Auburn, and Southborough is a straightforward run east on the Massachusetts Turnpike (I-90). Depending on traffic, the drive typically puts our crew in town without a lengthy wait, we can give you a realistic arrival window when you call (508) 756-8800 to schedule. We serve the full town, from properties near the I-495 interchange on the eastern edge to neighborhoods closer to the Marlborough town line.
+QCI Restoration is based in Auburn, and Southborough is a straightforward run east on the Massachusetts Turnpike (I-90). Depending on traffic, the drive typically puts our crew in town without a lengthy wait, we can give you a realistic arrival window when you call (508) 756-8800 to schedule. We serve the full town, from properties near the I-495 interchange on the eastern edge to neighborhoods closer to the Marlborough town line.
 
 ## Local Note
 
@@ -50,4 +50,4 @@ Most homeowners notice an improvement in airflow and a reduction in the dust tha
 
 We recommend keeping a record of the cleaning date. For a typical Southborough home that runs forced air year-round, a cleaning interval of every three to five years is a reasonable baseline, though homes with pets, recent renovation work, or known moisture history may warrant more frequent attention.
 
-To schedule air duct cleaning in Southborough, call Quality Contracting, Inc. at **(508) 756-8800**. We'll walk you through what the inspection covers and give you a straight answer on what the job involves for your specific system.
+To schedule air duct cleaning in Southborough, call QCI Restoration at **(508) 756-8800**. We'll walk you through what the inspection covers and give you a straight answer on what the job involves for your specific system.

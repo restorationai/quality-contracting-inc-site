@@ -1,6 +1,6 @@
 ---
 archetype: "service-area-service"
-title: "Upholstery Cleaning in Westborough, MA | Quality Contracting, Inc."
+title: "Upholstery Cleaning in Westborough, MA | QCI Restoration"
 h1: "Upholstery Cleaning in Westborough"
 meta_description: "Upholstery cleaning in Westborough, MA. Insurance billing accepted. Call (508) 756-8800."
 primary_keyword: "upholstery cleaning westborough"
@@ -38,4 +38,4 @@ Westborough sits close enough to our Auburn base that scheduling a same-week app
 
 One detail that surprises homeowners here: town water in this part of Worcester County runs on the harder side, which means tap water used in DIY carpet-and-upholstery rental machines can leave a mineral film on fabric as it dries, especially on lighter-colored sofas. That film attracts dirt faster afterward, which is part of why a couch that was "just cleaned" with a rental unit can look dingy again within a month. We use treated water in our extraction equipment specifically to avoid that residue.
 
-If your sofa, sectional, or leather furniture in Westborough is holding onto odor, stains, or stiffness that a vacuum won't fix, call Quality Contracting, Inc. at (508) 756-8800. We'll walk through the fabric type, the stains you're dealing with, and what a realistic cleaning and drying timeline looks like for your piece before we ever step foot in your living room.
+If your sofa, sectional, or leather furniture in Westborough is holding onto odor, stains, or stiffness that a vacuum won't fix, call QCI Restoration at (508) 756-8800. We'll walk through the fabric type, the stains you're dealing with, and what a realistic cleaning and drying timeline looks like for your piece before we ever step foot in your living room.

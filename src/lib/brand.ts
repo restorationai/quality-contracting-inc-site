@@ -4,8 +4,8 @@
 
 export const brand = {
   slug: "quality-contracting-inc",
-  displayName: "Quality Contracting, Inc.",
-  shortName: "Quality Contracting, Inc.",
+  displayName: "QCI Restoration",
+  shortName: "QCI Restoration",
   legalName: "Quality Contracting, Inc.",
   // Registered DBA / trade name — filled by rename_site_sync.py the moment
   // the state approves the client's DBA filing (empty until then). When set,
@@ -89,7 +89,7 @@ export const brand = {
   tradeNoun: "restoration",
   specialistPhrase: "Damage Restoration Specialists",
   announcementSuffix: "24/7 Emergency Response",
-  homeAboutBlurb: "Quality Contracting, Inc. serves Central Massachusetts and Greater Worcester from its Auburn, MA headquarters. We specialize in rapid-response disaster restoration, handling everything from water and fire damage to biohazard cleanup and full reconstruction. When disaster strikes, our certified professionals are standing by 24/7 to return your property to its pre-loss condition quickly and safely.",
+  homeAboutBlurb: "QCI Restoration serves Central Massachusetts and Greater Worcester from its Auburn, MA headquarters. We specialize in rapid-response disaster restoration, handling everything from water and fire damage to biohazard cleanup and full reconstruction. When disaster strikes, our certified professionals are standing by 24/7 to return your property to its pre-loss condition quickly and safely.",
 } as const;
 
 export const entityId = `${brand.canonicalUrl}/#identity`;

@@ -1,6 +1,6 @@
 ---
 archetype: "service-area-service"
-title: "Emergency Water Damage Restoration in Marlborough, MA | Quality Contracting, Inc."
+title: "Emergency Water Damage Restoration in Marlborough, MA | QCI Restoration"
 h1: "Emergency Water Damage Restoration in Marlborough"
 meta_description: "Emergency water damage restoration in Marlborough, MA. Insurance billing accepted. Call (508) 756-8800."
 primary_keyword: "water damage restoration marlborough"
@@ -42,4 +42,4 @@ Most homeowners policies in Massachusetts cover sudden and accidental water dama
 
 A detail that surprises a lot of homeowners: Marlborough's mix of mid-century foundations and newer additions means the same house can have two completely different drainage conditions, an original fieldstone cellar with no vapor barrier next to a poured-concrete addition with a sump system. When we're diagnosing a basement flood, we check both sides separately instead of assuming the fix for one half applies to the whole space.
 
-If water is spreading through your Marlborough home right now, stop it at the source if you safely can, then call Quality Contracting, Inc. at (508) 756-8800. We'll walk you through what to expect on-site and get extraction and drying started before the damage reaches framing and finishes you can't simply mop up.
+If water is spreading through your Marlborough home right now, stop it at the source if you safely can, then call QCI Restoration at (508) 756-8800. We'll walk you through what to expect on-site and get extraction and drying started before the damage reaches framing and finishes you can't simply mop up.

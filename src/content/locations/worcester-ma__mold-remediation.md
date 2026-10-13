@@ -1,6 +1,6 @@
 ---
 archetype: "service-area-service"
-title: "Mold Remediation in Worcester, MA | Quality Contracting, Inc."
+title: "Mold Remediation in Worcester, MA | QCI Restoration"
 h1: "Mold Remediation in Worcester"
 meta_description: "Mold remediation in Worcester, MA. Insurance billing accepted. Call (508) 756-8800."
 primary_keyword: "mold remediation worcester"
@@ -40,7 +40,7 @@ Affected materials, drywall, insulation, sections of subfloor, are removed, doub
 
 ## Reaching Worcester from Auburn
 
-Quality Contracting, Inc. is based in Auburn, which puts the crew on Route 12 or I-290 and into most Worcester neighborhoods in well under 30 minutes under normal conditions. Main South, Webster Square, and the Canal District are all straightforward runs from the Auburn side of the city. Calls coming from the 01606 ZIP, Greendale and the northern end of Burncoat, are a quick shot up I-290 West to exit 20.
+QCI Restoration is based in Auburn, which puts the crew on Route 12 or I-290 and into most Worcester neighborhoods in well under 30 minutes under normal conditions. Main South, Webster Square, and the Canal District are all straightforward runs from the Auburn side of the city. Calls coming from the 01606 ZIP, Greendale and the northern end of Burncoat, are a quick shot up I-290 West to exit 20.
 
 When you call (508) 756-8800, you'll speak with someone who can schedule a same-day or next-day assessment depending on current workload. Getting eyes on the problem quickly is the most important step, every day of delay in a warm, humid basement is another day the colony expands.
 
@@ -54,4 +54,4 @@ For multi-family properties, we also coordinate directly with property managers 
 
 One thing that catches homeowners off guard in Worcester's older neighborhoods: plaster walls absorb and release moisture much more slowly than modern drywall. After a leak is stopped and remediation is complete, plaster substrates can read elevated on a moisture meter for weeks even when the mold risk is resolved. We account for this in our drying documentation, extended monitoring intervals rather than a single post-remediation reading, so that a slow moisture release from century-old plaster doesn't get misread as an ongoing problem or, worse, get missed entirely because someone closed out the job too early.
 
-If you're dealing with visible mold growth, a persistent musty odor, or the aftermath of a burst pipe or ice-dam leak anywhere in Worcester, call Quality Contracting, Inc. at (508) 756-8800. A prompt assessment is the fastest way to understand what you're dealing with and what it will take to resolve it.
+If you're dealing with visible mold growth, a persistent musty odor, or the aftermath of a burst pipe or ice-dam leak anywhere in Worcester, call QCI Restoration at (508) 756-8800. A prompt assessment is the fastest way to understand what you're dealing with and what it will take to resolve it.

@@ -1,6 +1,6 @@
 ---
 archetype: "service-area"
-title: "Restoration Services in Ware, MA | Quality Contracting, Inc."
+title: "Restoration Services in Ware, MA | QCI Restoration"
 h1: "Restoration Services in Ware"
 meta_description: "Serving Ware, MA with water, fire, mold, and storm damage restoration. Experienced team. Call (508) 756-8800."
 primary_keyword: "restoration services ware"
@@ -19,7 +19,7 @@ state: "MA"
 primary: false
 rendered: true
 ---
-Quality Contracting, Inc. handles water damage, fire and smoke damage, mold remediation, and storm cleanup for homes and businesses throughout Ware, Massachusetts. Whether a pipe has failed in a Main Street triple-decker or storm runoff has backed up into a Ware River-adjacent basement, we document the loss, start mitigation, and work directly with your insurance carrier so the paperwork doesn't stall the drying.
+QCI Restoration handles water damage, fire and smoke damage, mold remediation, and storm cleanup for homes and businesses throughout Ware, Massachusetts. Whether a pipe has failed in a Main Street triple-decker or storm runoff has backed up into a Ware River-adjacent basement, we document the loss, start mitigation, and work directly with your insurance carrier so the paperwork doesn't stall the drying.
 
 ## Restoration emergencies common in Ware
 
@@ -47,4 +47,4 @@ Much of Ware's housing dates to the mill era, roughly the late 1800s through the
 
 The ground near the Ware River tends to hold moisture longer than the higher, rockier parcels elsewhere in town, which affects how fast a wet basement actually dries out. Structural repairs and any rebuild work after a major loss go through the Town of Ware's building department, and projects follow the Massachusetts State Building Code. Flood-zone rules apply to parcels closest to the river, which can affect how a damaged structure is permitted to be rebuilt.
 
-If water, fire, smoke, or storm damage has hit your Ware property, call Quality Contracting, Inc. at (508) 756-8800. We'll walk the damage with you, explain what the drying or rebuild process actually involves, and get the insurance documentation moving from day one.
+If water, fire, smoke, or storm damage has hit your Ware property, call QCI Restoration at (508) 756-8800. We'll walk the damage with you, explain what the drying or rebuild process actually involves, and get the insurance documentation moving from day one.

@@ -1,6 +1,6 @@
 ---
 archetype: "service-area-service"
-title: "Emergency Water Damage Restoration in Shrewsbury, MA | Quality Contracting, Inc."
+title: "Emergency Water Damage Restoration in Shrewsbury, MA | QCI Restoration"
 h1: "Emergency Water Damage Restoration in Shrewsbury"
 meta_description: "Emergency water damage restoration in Shrewsbury, MA. Insurance billing accepted. Call (508) 756-8800."
 primary_keyword: "water damage restoration shrewsbury"
@@ -23,7 +23,7 @@ rendered: true
 <!-- emergency-open -->
 **Water damage emergency in Shrewsbury? Call now for emergency service.** Our crew responds fast to stop the water and start drying your property.
 
-Shrewsbury's lakefront geography creates a water damage risk profile that's easy to underestimate until you're standing in a flooded basement. Homes along the Lake Quinsigamond shoreline sit close to the water table, and when a pipe bursts or a sump pump fails during a nor'easter, the groundwater doesn't need much invitation to follow. Quality Contracting, Inc. responds to water damage calls across Shrewsbury's 01545 and 01546 ZIP codes, from the postwar capes near Edgemere to the newer subdivisions off the Route 9 corridor, with the equipment and process to stop the damage before it compounds.
+Shrewsbury's lakefront geography creates a water damage risk profile that's easy to underestimate until you're standing in a flooded basement. Homes along the Lake Quinsigamond shoreline sit close to the water table, and when a pipe bursts or a sump pump fails during a nor'easter, the groundwater doesn't need much invitation to follow. QCI Restoration responds to water damage calls across Shrewsbury's 01545 and 01546 ZIP codes, from the postwar capes near Edgemere to the newer subdivisions off the Route 9 corridor, with the equipment and process to stop the damage before it compounds.
 
 ## Why Shrewsbury Properties See More Water Damage Than You'd Expect
 
@@ -47,7 +47,7 @@ When we arrive on-site, the first priority is stopping active water movement, sh
 
 ## Reaching Shrewsbury from Auburn
 
-Quality Contracting's base in Auburn puts Shrewsbury within a short drive via Route 20 east or the Route 9 corridor depending on traffic. For calls in the Edgemere area or near Dean Park, Route 9 east is typically the faster approach. Calls in the White City area or along the lake tend to route more efficiently via Route 20 to Route 140 north. When you call (508) 756-8800, we'll give you an honest estimate of when we can be on-site based on current conditions, not a number pulled from a script.
+QCI Restoration's base in Auburn puts Shrewsbury within a short drive via Route 20 east or the Route 9 corridor depending on traffic. For calls in the Edgemere area or near Dean Park, Route 9 east is typically the faster approach. Calls in the White City area or along the lake tend to route more efficiently via Route 20 to Route 140 north. When you call (508) 756-8800, we'll give you an honest estimate of when we can be on-site based on current conditions, not a number pulled from a script.
 
 ## Shrewsbury Insurance Coordination
 
@@ -59,4 +59,4 @@ Shrewsbury homeowners near the lake should also be aware that standard policies 
 
 Shrewsbury runs its own electric utility, SELCO, rather than drawing from Eversource like most surrounding towns. That matters during extended outages after a storm: SELCO's restoration timeline and outage map are separate from the regional grid status, so a homeowner in the 01545 ZIP who loses power to their sump pump may be waiting on a different repair crew than their neighbor in Worcester County. If your sump failed during a SELCO outage and water entered the basement, document the outage time from SELCO's records, that timestamp can support your insurance claim by establishing that the failure was utility-caused rather than equipment neglect.
 
-Water is already moving through your structure. Call Quality Contracting, Inc. at **(508) 756-8800** to schedule an assessment, the sooner moisture levels are mapped, the more material can be saved rather than replaced.
+Water is already moving through your structure. Call QCI Restoration at **(508) 756-8800** to schedule an assessment, the sooner moisture levels are mapped, the more material can be saved rather than replaced.

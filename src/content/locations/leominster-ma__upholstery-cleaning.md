@@ -1,6 +1,6 @@
 ---
 archetype: "service-area-service"
-title: "Upholstery Cleaning in Leominster, MA | Quality Contracting, Inc."
+title: "Upholstery Cleaning in Leominster, MA | QCI Restoration"
 h1: "Upholstery Cleaning in Leominster"
 meta_description: "Upholstery cleaning in Leominster, MA. Insurance billing accepted. Call (508) 756-8800."
 primary_keyword: "upholstery cleaning leominster"
@@ -44,4 +44,4 @@ Our crews cover Leominster as part of the regular Worcester County service area 
 
 One thing we watch for specifically in Leominster: a lot of the city's older triple-decker and cape-style homes still run steam or hot-water radiator heat, and pieces pushed up against or near a radiator develop a dry, brittle feel on the fabric facing the heat source long before the rest of the piece shows wear. If your sofa or chair sits against a radiator wall, we treat that section a little differently during cleaning to avoid over-drying fibers that are already stressed from years of heat exposure.
 
-If your sofa is holding onto winter wood-smoke, years of everyday use, or just needs a deep clean before the humid stretch of summer sets in, call Quality Contracting, Inc. at (508) 756-8800 to schedule upholstery cleaning for your Leominster home.
+If your sofa is holding onto winter wood-smoke, years of everyday use, or just needs a deep clean before the humid stretch of summer sets in, call QCI Restoration at (508) 756-8800 to schedule upholstery cleaning for your Leominster home.

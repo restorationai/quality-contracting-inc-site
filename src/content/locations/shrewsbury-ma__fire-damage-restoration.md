@@ -1,6 +1,6 @@
 ---
 archetype: "service-area-service"
-title: "Emergency Fire Damage Restoration in Shrewsbury, MA | Quality Contracting, Inc."
+title: "Emergency Fire Damage Restoration in Shrewsbury, MA | QCI Restoration"
 h1: "Emergency Fire Damage Restoration in Shrewsbury"
 meta_description: "Emergency fire damage restoration in Shrewsbury, MA. Insurance billing accepted. Call (508) 756-8800."
 primary_keyword: "fire damage restoration shrewsbury"
@@ -39,7 +39,7 @@ From there, the process moves through controlled demolition of unsalvageable mat
 
 ## Reaching Shrewsbury from Auburn
 
-Quality Contracting, Inc. operates out of Auburn, which puts Shrewsbury well within our primary service area. The most direct route runs east on Route 20 and connects to Route 9 into Shrewsbury's Town Center, a straightforward drive under normal conditions. Depending on traffic on the Route 9 corridor, particularly near the White City Shopping Center interchange, we plan our routing accordingly to avoid unnecessary delays. When you call (508) 756-8800, our team will confirm scheduling and give you a realistic arrival window based on current conditions.
+QCI Restoration operates out of Auburn, which puts Shrewsbury well within our primary service area. The most direct route runs east on Route 20 and connects to Route 9 into Shrewsbury's Town Center, a straightforward drive under normal conditions. Depending on traffic on the Route 9 corridor, particularly near the White City Shopping Center interchange, we plan our routing accordingly to avoid unnecessary delays. When you call (508) 756-8800, our team will confirm scheduling and give you a realistic arrival window based on current conditions.
 
 ## Shrewsbury Insurance Coordination
 
@@ -49,4 +49,4 @@ Fire claims in Shrewsbury typically involve both the property insurer and, for o
 
 Shrewsbury's postwar capes and ranches were commonly built with knob-and-tube wiring that was later buried under blown-in insulation during energy-efficiency upgrades, a combination that's long been flagged as a fire risk and one that insurers increasingly scrutinize after a loss. If a fire investigation points to electrical origin in a home with this configuration, expect your adjuster to request documentation of the wiring condition in unaffected areas before closing the claim. We flag this proactively during our assessment so there are no surprises mid-project.
 
-If you're dealing with fire or smoke damage at a property in Shrewsbury, whether it's a lakefront home off 01545, a commercial space along Route 9, or a mid-century ranch in the White City area, call Quality Contracting, Inc. at (508) 756-8800. We'll walk through what the damage actually involves, what the restoration process looks like for your specific structure, and what to expect at each stage so you're not navigating this blind.
+If you're dealing with fire or smoke damage at a property in Shrewsbury, whether it's a lakefront home off 01545, a commercial space along Route 9, or a mid-century ranch in the White City area, call QCI Restoration at (508) 756-8800. We'll walk through what the damage actually involves, what the restoration process looks like for your specific structure, and what to expect at each stage so you're not navigating this blind.

@@ -1,6 +1,6 @@
 ---
 archetype: "service-area-service"
-title: "Air Duct Cleaning in Weston, MA | Quality Contracting, Inc."
+title: "Air Duct Cleaning in Weston, MA | QCI Restoration"
 h1: "Air Duct Cleaning in Weston"
 meta_description: "Air duct cleaning in Weston, MA. Insurance billing accepted. Call (508) 756-8800."
 primary_keyword: "air duct cleaning weston"
@@ -38,7 +38,7 @@ Dryer vent cleaning is often added at the same visit. Weston's older homes frequ
 
 ## Getting to Weston from Auburn
 
-Quality Contracting, Inc. operates out of Auburn, MA, and Weston is a straightforward drive east, typically via the Massachusetts Turnpike (I-90) to Route 128/I-95, then north to the Weston exits. The route is well-traveled and doesn't involve the surface-road congestion that can slow response in some closer-in suburbs. Scheduling a service window is the best way to confirm timing; call (508) 756-8800 to arrange an appointment that works for your household.
+QCI Restoration operates out of Auburn, MA, and Weston is a straightforward drive east, typically via the Massachusetts Turnpike (I-90) to Route 128/I-95, then north to the Weston exits. The route is well-traveled and doesn't involve the surface-road congestion that can slow response in some closer-in suburbs. Scheduling a service window is the best way to confirm timing; call (508) 756-8800 to arrange an appointment that works for your household.
 
 ## Local Note
 

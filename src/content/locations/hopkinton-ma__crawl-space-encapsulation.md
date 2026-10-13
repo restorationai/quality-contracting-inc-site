@@ -1,6 +1,6 @@
 ---
 archetype: "service-area-service"
-title: "Crawl Space Encapsulation in Hopkinton, MA | Quality Contracting, Inc."
+title: "Crawl Space Encapsulation in Hopkinton, MA | QCI Restoration"
 h1: "Crawl Space Encapsulation in Hopkinton"
 meta_description: "Crawl space encapsulation in Hopkinton, MA. Insurance billing accepted. Call (508) 756-8800."
 primary_keyword: "crawl space encapsulation hopkinton"
@@ -46,4 +46,4 @@ Hopkinton is also an active permitting town. Depending on the scope of work, par
 
 Hopkinton's position as the Boston Marathon starting line brings a lot of attention to the town center, but the neighborhoods that spread out along Main Street and toward the Milford line include a significant number of homes on lots that were subdivided from larger agricultural parcels. Those properties often have older drainage patterns, dry wells, French drains, and grading designed around long-gone outbuildings, that no longer function as intended. When a crawl space in one of those homes shows recurring moisture even after a previous encapsulation attempt, the culprit is frequently a failed or undersized exterior drain that's directing roof and surface runoff toward the foundation rather than away from it. Addressing that grading or drainage issue before or alongside encapsulation is what separates a lasting fix from a repeat service call.
 
-If moisture in your crawl space has been a recurring issue, or if you're buying or selling a Hopkinton home and a home inspector has flagged the crawl space, call Quality Contracting, Inc. at (508) 756-8800 to schedule an assessment. The crew works out of Auburn and covers Hopkinton regularly, a conversation about what's happening under your home costs nothing.
+If moisture in your crawl space has been a recurring issue, or if you're buying or selling a Hopkinton home and a home inspector has flagged the crawl space, call QCI Restoration at (508) 756-8800 to schedule an assessment. The crew works out of Auburn and covers Hopkinton regularly, a conversation about what's happening under your home costs nothing.

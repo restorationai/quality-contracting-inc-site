@@ -1,6 +1,6 @@
 ---
 archetype: "service-area-service"
-title: "Carpet Cleaning in Bellingham, MA | Quality Contracting, Inc."
+title: "Carpet Cleaning in Bellingham, MA | QCI Restoration"
 h1: "Carpet Cleaning in Bellingham"
 meta_description: "Carpet cleaning in Bellingham, MA. Insurance billing accepted. Call (508) 756-8800."
 primary_keyword: "carpet cleaning bellingham"
@@ -38,4 +38,4 @@ Offices and retail spaces along the business corridors near Bellingham's town ce
 
 One thing that catches a lot of Bellingham homeowners off guard: carpet directly over a slab-on-grade foundation, common in the town's ranch-style homes, can trap condensation between the pad and the concrete during Massachusetts' humid stretches even when the house feels dry inside. We check moisture at the slab level with a meter before finishing a job in these homes, because treating the carpet surface without addressing that trapped moisture just invites the same mildew smell back within a month.
 
-If your Bellingham carpet is holding onto stains, odor, or that flattened look no amount of vacuuming fixes, a proper hot water extraction cleaning resets it the right way. Call Quality Contracting, Inc. at (508) 756-8800 to get carpet cleaning scheduled for your Bellingham home or business.
+If your Bellingham carpet is holding onto stains, odor, or that flattened look no amount of vacuuming fixes, a proper hot water extraction cleaning resets it the right way. Call QCI Restoration at (508) 756-8800 to get carpet cleaning scheduled for your Bellingham home or business.

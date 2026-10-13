@@ -1,6 +1,6 @@
 ---
 archetype: "service-area-service"
-title: "Upholstery Cleaning in Whitinsville, MA | Quality Contracting, Inc."
+title: "Upholstery Cleaning in Whitinsville, MA | QCI Restoration"
 h1: "Upholstery Cleaning in Whitinsville"
 meta_description: "Upholstery cleaning in Whitinsville, MA. Insurance billing accepted. Call (508) 756-8800."
 primary_keyword: "upholstery cleaning whitinsville"
@@ -20,7 +20,7 @@ state: "MA"
 service_display: "Upholstery Cleaning"
 rendered: true
 ---
-**Looking for upholstery cleaning in Whitinsville that actually gets rid of the musty smell, not just the surface dust?** The Blackstone Valley's damp river-bottom air works its way into fabric fibers faster than most homeowners expect, and a sofa that looks clean can still be holding onto moisture, pet dander, or mill-town soot from decades of use. Quality Contracting, Inc. cleans sofas, sectionals, dining chairs, and leather pieces throughout Whitinsville using methods matched to the fabric, not a one-size approach.
+**Looking for upholstery cleaning in Whitinsville that actually gets rid of the musty smell, not just the surface dust?** The Blackstone Valley's damp river-bottom air works its way into fabric fibers faster than most homeowners expect, and a sofa that looks clean can still be holding onto moisture, pet dander, or mill-town soot from decades of use. QCI Restoration cleans sofas, sectionals, dining chairs, and leather pieces throughout Whitinsville using methods matched to the fabric, not a one-size approach.
 
 ## Why Whitinsville Homes See More Upholstery Wear and Odor Buildup
 
@@ -38,4 +38,4 @@ Most calls we get fall into two camps: families with kids or pets who need regul
 
 One thing that catches a lot of Whitinsville homeowners off guard: furniture placed against exterior walls in the older mill-village houses, especially ones that haven't been re-insulated, tends to run cooler and collect more condensation than furniture on interior walls. We see it most on sofas backed up against the outer wall of a front parlor. It's worth checking behind and under those pieces periodically, because upholstery in that spot can develop odor or mild mildew well before it's visible on the cushion surface, and catching it early makes the cleaning far more straightforward.
 
-If your upholstery in Whitinsville is holding onto odor, stains, or that flat mildew smell that won't shake loose, give Quality Contracting, Inc. a call at (508) 756-8800. We'll walk through the piece with you, explain which method fits the fabric, and get it cleaned without putting the furniture at risk.
+If your upholstery in Whitinsville is holding onto odor, stains, or that flat mildew smell that won't shake loose, give QCI Restoration a call at (508) 756-8800. We'll walk through the piece with you, explain which method fits the fabric, and get it cleaned without putting the furniture at risk.

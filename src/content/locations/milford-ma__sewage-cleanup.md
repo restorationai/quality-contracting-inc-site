@@ -1,6 +1,6 @@
 ---
 archetype: "service-area-service"
-title: "Emergency Sewage Cleanup and Sanitization in Milford, MA | Quality Contracting, Inc."
+title: "Emergency Sewage Cleanup and Sanitization in Milford, MA | QCI Restoration"
 h1: "Emergency Sewage Cleanup and Sanitization in Milford"
 meta_description: "Emergency sewage cleanup and sanitization in Milford, MA. Insurance billing accepted. Call (508) 756-8800."
 primary_keyword: "sewage cleanup and sanitization milford"
@@ -38,4 +38,4 @@ Our base is in Auburn, a short run up Route 20 and then down through Route 16 in
 
 Milford's older triple-deckers and converted mill housing near downtown often share a single main sewer lateral feeding multiple units, so a backup in one unit can actually originate from a blockage serving the whole building. When we get a call from one of these properties, we check with neighboring units early in the process, because treating only the reporting unit's plumbing can miss the actual source and the problem resurfaces within days.
 
-If sewage has backed up into your Milford home or business, do not run water through affected fixtures or attempt to clean it up with standard household products. Call Quality Contracting, Inc. at (508) 756-8800 and we will walk you through what to do before a crew arrives to begin extraction and sanitization.
+If sewage has backed up into your Milford home or business, do not run water through affected fixtures or attempt to clean it up with standard household products. Call QCI Restoration at (508) 756-8800 and we will walk you through what to do before a crew arrives to begin extraction and sanitization.

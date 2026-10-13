@@ -1,6 +1,6 @@
 ---
 archetype: "service-area-service"
-title: "Upholstery Cleaning in Northborough, MA | Quality Contracting, Inc."
+title: "Upholstery Cleaning in Northborough, MA | QCI Restoration"
 h1: "Upholstery Cleaning in Northborough"
 meta_description: "Upholstery cleaning in Northborough, MA. Insurance billing accepted. Call (508) 756-8800."
 primary_keyword: "upholstery cleaning northborough"
@@ -42,4 +42,4 @@ We use truck-mounted hot water extraction for most fabric upholstery, which pull
 
 Homes in Northborough with active wood-burning fireplaces often show a faint gray haze on the arms and headrest of furniture positioned nearby, even in rooms that look clean at a glance. That's fine soot, not surface dust, and it needs a cleaning approach that lifts the particle rather than grinding it deeper into the fabric weave, which is part of why we always inspect a piece in its actual room setting before deciding on a method.
 
-If your upholstery in Northborough is holding onto winter grit, woodsmoke residue, or just years of everyday use, call Quality Contracting, Inc. at (508) 756-8800 to get fabric and leather furniture cleaned properly, without the guesswork of a rental machine or a generic household cleaner.
+If your upholstery in Northborough is holding onto winter grit, woodsmoke residue, or just years of everyday use, call QCI Restoration at (508) 756-8800 to get fabric and leather furniture cleaned properly, without the guesswork of a rental machine or a generic household cleaner.

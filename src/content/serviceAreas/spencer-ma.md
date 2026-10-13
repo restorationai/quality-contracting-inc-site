@@ -1,6 +1,6 @@
 ---
 archetype: "service-area"
-title: "Restoration Services in Spencer, MA | Quality Contracting, Inc."
+title: "Restoration Services in Spencer, MA | QCI Restoration"
 h1: "Restoration Services in Spencer"
 meta_description: "Serving Spencer, MA with water, fire, mold, and storm damage restoration. Experienced team. Call (508) 756-8800."
 primary_keyword: "restoration services spencer"
@@ -19,7 +19,7 @@ state: "MA"
 primary: false
 rendered: true
 ---
-Quality Contracting, Inc. handles water damage, fire and smoke damage, mold remediation, storm damage, and reconstruction for homeowners and property managers in Spencer. Our crews work directly with insurance carriers to document the loss, stabilize the property, and rebuild what the water, fire, or storm took apart, so Spencer property owners are not left managing contractors, adjusters, and drying equipment on their own while trying to figure out what to do next.
+QCI Restoration handles water damage, fire and smoke damage, mold remediation, storm damage, and reconstruction for homeowners and property managers in Spencer. Our crews work directly with insurance carriers to document the loss, stabilize the property, and rebuild what the water, fire, or storm took apart, so Spencer property owners are not left managing contractors, adjusters, and drying equipment on their own while trying to figure out what to do next.
 
 ## Restoration emergencies common in Spencer
 
@@ -43,4 +43,4 @@ Our crews run out of Auburn, a short drive west on Route 9 into Spencer, with Ro
 
 Much of Spencer's housing stock dates to the 1800s and early 1900s, with wood-frame construction, fieldstone or poured concrete basement foundations, and plumbing that has often been updated in stages, meaning a single house can mix older galvanized or cast iron with newer copper or PEX. That mix matters during a water loss because older galvanized lines corrode from the inside and fail without warning, while cast iron drain lines can hold a slow leak behind a wall for months. Homes built before the 1980s may also contain asbestos in old flooring, pipe insulation, or plaster, which changes how a demolition scope has to be handled. Structural repairs and rebuilds in Spencer fall under the Massachusetts State Building Code, and the town's building department is the authority for permits tied to framing, foundation, or load-bearing repair work, something we factor into the timeline on larger reconstruction jobs.
 
-If water, fire, or storm damage has hit your Spencer property, call Quality Contracting, Inc. at (508) 756-8800. We will walk the damage with you, explain what the drying or rebuild process actually involves, and start documenting the loss for your insurance carrier from the first visit.
+If water, fire, or storm damage has hit your Spencer property, call QCI Restoration at (508) 756-8800. We will walk the damage with you, explain what the drying or rebuild process actually involves, and start documenting the loss for your insurance carrier from the first visit.

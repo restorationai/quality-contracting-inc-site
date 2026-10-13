@@ -1,6 +1,6 @@
 ---
 archetype: "service-area"
-title: "Restoration Services in Leominster, MA | Quality Contracting, Inc."
+title: "Restoration Services in Leominster, MA | QCI Restoration"
 h1: "Restoration Services in Leominster"
 meta_description: "Serving Leominster, MA with water, fire, mold, and storm damage restoration. Experienced team. Call (508) 756-8800."
 primary_keyword: "restoration services leominster"
@@ -19,7 +19,7 @@ state: "MA"
 primary: false
 rendered: true
 ---
-Quality Contracting, Inc. handles water damage, fire and smoke damage, mold remediation, and storm cleanup for homeowners and property managers throughout Leominster. Our crews work directly from Auburn, documenting the loss for insurance, drying and rebuilding structures to the IICRC S500 standard, and keeping property owners informed through a process that's usually unfamiliar and stressful. Whether it's a failed sump pump in a basement or a chimney fire that's left soot through a multi-level home, the goal is the same: stop the damage from spreading and get the property back to pre-loss condition.
+QCI Restoration handles water damage, fire and smoke damage, mold remediation, and storm cleanup for homeowners and property managers throughout Leominster. Our crews work directly from Auburn, documenting the loss for insurance, drying and rebuilding structures to the IICRC S500 standard, and keeping property owners informed through a process that's usually unfamiliar and stressful. Whether it's a failed sump pump in a basement or a chimney fire that's left soot through a multi-level home, the goal is the same: stop the damage from spreading and get the property back to pre-loss condition.
 
 ## Restoration emergencies common in Leominster
 
@@ -43,4 +43,4 @@ Auburn to Leominster is a straightforward run up I-290 and Route 2, putting most
 
 Much of Leominster's housing was built during its industrial growth period in the late 1800s and early 1900s, with dense triple-deckers and wood-frame single-family homes featuring full basements rather than slabs or crawlspaces. That means plumbing is often a mix of original cast iron drain lines and galvanized supply pipe that has been partially updated to copper or PEX over the decades, and galvanized pipe nearing the end of its service life is a frequent source of slow leaks that go undetected inside wall cavities. Homes from this era may also contain asbestos-containing materials in old insulation, flooring, or siding, and lead paint is common on pre-1978 trim and plaster, both of which affect how a restoration scope is planned and executed. Structural repairs and rebuilds are permitted through the City of Leominster's building department under the Massachusetts State Building Code, and any work touching electrical, plumbing, or structural framing typically requires a permit and inspection before it's closed up.
 
-If water is spreading across a basement floor, smoke has settled into a home's furnishings, or a storm has opened up the roof, call Quality Contracting, Inc. at (508) 756-8800. We'll talk through what's happening, get a crew scheduled, and start the paperwork your insurance carrier will need.
+If water is spreading across a basement floor, smoke has settled into a home's furnishings, or a storm has opened up the roof, call QCI Restoration at (508) 756-8800. We'll talk through what's happening, get a crew scheduled, and start the paperwork your insurance carrier will need.

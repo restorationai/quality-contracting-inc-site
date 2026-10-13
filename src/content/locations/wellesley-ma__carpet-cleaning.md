@@ -1,6 +1,6 @@
 ---
 archetype: "service-area-service"
-title: "Carpet Cleaning in Wellesley, MA | Quality Contracting, Inc."
+title: "Carpet Cleaning in Wellesley, MA | QCI Restoration"
 h1: "Carpet Cleaning in Wellesley"
 meta_description: "Carpet cleaning in Wellesley, MA. Insurance billing accepted. Call (508) 756-8800."
 primary_keyword: "carpet cleaning wellesley"
@@ -20,7 +20,7 @@ state: "MA"
 service_display: "Carpet Cleaning"
 rendered: true
 ---
-**Carpet cleaning in Wellesley is rarely a one-size-fits-all job.** Between the wool runners in early twentieth century colonials and the high-traffic conference room carpet in office buildings along Route 9, Wellesley's housing and commercial stock calls for different pre-treatment, different moisture control, and different drying expectations depending on the address. Quality Contracting, Inc. works both ends of that range, from a single staircase runner to a full floor of commercial carpet tile.
+**Carpet cleaning in Wellesley is rarely a one-size-fits-all job.** Between the wool runners in early twentieth century colonials and the high-traffic conference room carpet in office buildings along Route 9, Wellesley's housing and commercial stock calls for different pre-treatment, different moisture control, and different drying expectations depending on the address. QCI Restoration works both ends of that range, from a single staircase runner to a full floor of commercial carpet tile.
 
 ## Why Wellesley Properties See Carpet Issues
 
@@ -42,4 +42,4 @@ For most residential carpet we use truck-mounted hot water extraction, which pul
 
 Many of Wellesley's older homes, particularly those built in the early 1900s near Wellesley College, still have their original wool stair runners installed when the house was built. Standard hot-water extraction settings that work fine on a synthetic living room carpet can over-wet a wool runner's jute backing and cause it to shrink or brown at the edges. On those runners we switch to a low-moisture encapsulation pass instead of full extraction, which cleans effectively without pushing excess water into a backing material that wasn't designed to handle it.
 
-If your carpet in Wellesley is holding onto winter salt stains, basement dampness, or just years of regular traffic, Quality Contracting, Inc. can walk through the space, identify what the fiber actually needs, and schedule the cleaning around your household or office hours. Call (508) 756-8800 to set up a time.
+If your carpet in Wellesley is holding onto winter salt stains, basement dampness, or just years of regular traffic, QCI Restoration can walk through the space, identify what the fiber actually needs, and schedule the cleaning around your household or office hours. Call (508) 756-8800 to set up a time.

@@ -1,6 +1,6 @@
 ---
 archetype: "service-area"
-title: "Restoration Services in East Brookfield, MA | Quality Contracting, Inc."
+title: "Restoration Services in East Brookfield, MA | QCI Restoration"
 h1: "Restoration Services in East Brookfield"
 meta_description: "Serving East Brookfield, MA with water, fire, mold, and storm damage restoration. Experienced team. Call (508) 756-8800."
 primary_keyword: "restoration services east brookfield"
@@ -19,7 +19,7 @@ state: "MA"
 primary: false
 rendered: true
 ---
-Quality Contracting, Inc. handles water damage, fire and smoke damage, mold remediation, and storm-related restoration for homes and small commercial properties throughout East Brookfield. Our crews work out of Auburn and cover this stretch of Worcester County regularly, which means we're familiar with the older housing stock, the lake-adjacent lots, and the seasonal drainage issues that shape how a loss behaves here before we ever walk in the door.
+QCI Restoration handles water damage, fire and smoke damage, mold remediation, and storm-related restoration for homes and small commercial properties throughout East Brookfield. Our crews work out of Auburn and cover this stretch of Worcester County regularly, which means we're familiar with the older housing stock, the lake-adjacent lots, and the seasonal drainage issues that shape how a loss behaves here before we ever walk in the door.
 
 ## Restoration emergencies common in East Brookfield
 
@@ -45,4 +45,4 @@ Much of East Brookfield's housing dates from the early-to-mid 20th century, with
 
 Worcester County's glacial till soils drain unevenly, and low-lying lots near wetlands or waterways can carry a seasonally high water table that pushes against foundation walls in spring. Structural repairs and any rebuild work after a loss go through the town's local building department and fall under the Massachusetts State Building Code, so permitting is worth planning for early rather than after a scope is already underway, particularly for jobs that touch framing, electrical, or plumbing.
 
-If you're dealing with water, fire, or mold damage in East Brookfield, call Quality Contracting, Inc. at (508) 756-8800 to talk through what you're seeing and get a crew scheduled. The sooner a wet or fire-damaged structure gets assessed, the fewer secondary problems, mold chief among them, you'll be dealing with down the line.
+If you're dealing with water, fire, or mold damage in East Brookfield, call QCI Restoration at (508) 756-8800 to talk through what you're seeing and get a crew scheduled. The sooner a wet or fire-damaged structure gets assessed, the fewer secondary problems, mold chief among them, you'll be dealing with down the line.

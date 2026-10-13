@@ -1,6 +1,6 @@
 ---
 archetype: "service-area-service"
-title: "Carpet Cleaning in Ware, MA | Quality Contracting, Inc."
+title: "Carpet Cleaning in Ware, MA | QCI Restoration"
 h1: "Carpet Cleaning in Ware"
 meta_description: "Carpet cleaning in Ware, MA. Insurance billing accepted. Call (508) 756-8800."
 primary_keyword: "carpet cleaning ware"
@@ -42,4 +42,4 @@ We're based in Auburn, and the route out to Ware runs largely along Route 9 thro
 
 One thing that catches people off guard in Ware: carpet that looks dry on the surface after a cleaning can still be damp against an original wood subfloor for a day or two longer than carpet over modern plywood, simply because older board subfloors absorb and release moisture more slowly. We account for that in drying recommendations so homeowners aren't surprised by a lingering must smell that isn't actually mold, just a subfloor still releasing moisture.
 
-If your carpet in Ware is holding onto odor, well-water staining, or ground-in winter grit, a proper hot water extraction can reset it without the guesswork of a rental machine. Call Quality Contracting, Inc. at (508) 756-8800 to get a cleaning scheduled around your home's actual carpet and subfloor conditions, not a generic routine.
+If your carpet in Ware is holding onto odor, well-water staining, or ground-in winter grit, a proper hot water extraction can reset it without the guesswork of a rental machine. Call QCI Restoration at (508) 756-8800 to get a cleaning scheduled around your home's actual carpet and subfloor conditions, not a generic routine.

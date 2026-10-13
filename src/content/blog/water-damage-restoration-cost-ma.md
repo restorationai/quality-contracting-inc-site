@@ -20,7 +20,7 @@ rendered: true
 ---
 **TL;DR:** In Massachusetts, water damage restoration typically costs $1,500 to $15,000 for most residential losses. Small, clean-water incidents (a failed supply line, a dishwasher overflow) run $1,500 to $4,000. Larger losses involving sewage, flooding, or structural materials push into the $8,000 to $15,000 range or higher. The single biggest cost driver is how long the water sat before mitigation started, every hour matters.
 
-If you just discovered water in your Auburn home and you're trying to figure out what this is going to cost before you call anyone, this guide gives you realistic numbers. These are industry-typical ranges for central Massachusetts, not quotes, not guarantees. Every loss is different, and Quality Contracting, Inc. provides a written scope before any work begins.
+If you just discovered water in your Auburn home and you're trying to figure out what this is going to cost before you call anyone, this guide gives you realistic numbers. These are industry-typical ranges for central Massachusetts, not quotes, not guarantees. Every loss is different, and QCI Restoration provides a written scope before any work begins.
 
 ## How Much Does Water Damage Restoration Cost in Massachusetts?
 
@@ -63,7 +63,7 @@ Most standard Massachusetts homeowners policies cover sudden, accidental water d
 
 **Not covered under most HO-3 policies:** gradual leaks (a slow drip under a sink that rotted the cabinet over six months), flooding from surface water or storm surge (that requires a separate NFIP or private flood policy through [FEMA's National Flood Insurance Program](https://www.fema.gov/flood-insurance)), and sewer backup unless you purchased an endorsement.
 
-**What documentation protects your claim:** photos and video of the damage before any work starts, a written moisture map from the restoration contractor, daily drying logs, and a final clearance report. Quality Contracting, Inc. generates this documentation as part of every job, it's what adjusters need to approve the full scope.
+**What documentation protects your claim:** photos and video of the damage before any work starts, a written moisture map from the restoration contractor, daily drying logs, and a final clearance report. QCI Restoration generates this documentation as part of every job, it's what adjusters need to approve the full scope.
 
 Your deductible applies before insurance pays. Massachusetts deductibles on homeowners policies commonly run $1,000 to $2,500, so smaller losses may be better handled out of pocket to protect your claims history. For larger losses, filing is almost always the right call.
 
@@ -97,10 +97,10 @@ Document everything with photos and video before moving anything. Call your insu
 
 For a full walkthrough of the first 24 hours, see [what to do in the first 24 hours after water damage](/blog/what-to-do-first-24-hours-water-damage/).
 
-Quality Contracting, Inc. serves Auburn, Worcester, Shrewsbury, Westborough, and surrounding communities across central Massachusetts. Their team handles water damage restoration, sewage cleanup, mold remediation, and the full scope of post-loss reconstruction. Request a written scope before any work begins, that document protects you with your insurer and ensures there are no surprises on the final invoice. Call (508) 756-8800 to schedule a moisture assessment.
+QCI Restoration serves Auburn, Worcester, Shrewsbury, Westborough, and surrounding communities across central Massachusetts. Their team handles water damage restoration, sewage cleanup, mold remediation, and the full scope of post-loss reconstruction. Request a written scope before any work begins, that document protects you with your insurer and ensures there are no surprises on the final invoice. Call (508) 756-8800 to schedule a moisture assessment.
 
 ---
 
-**About Quality Contracting, Inc.**
+**About QCI Restoration**
 
-Quality Contracting, Inc. is a restoration and contracting company based at 211 Southbridge Street in Auburn, Massachusetts, serving homeowners and property managers across Worcester County and the MetroWest region. Their services include water damage restoration, storm damage restoration, fire damage restoration, mold remediation, sewage cleanup, biohazard cleanup, emergency board-up and tarping, contents restoration, air duct cleaning, and crawl space encapsulation. Quality Contracting, Inc. provides written scopes before work begins and generates the drying documentation and moisture logs that insurance adjusters require for claim approval. Reach them at (508) 756-8800 or info@qualitycontracting.us.
+QCI Restoration is a restoration and contracting company based at 211 Southbridge Street in Auburn, Massachusetts, serving homeowners and property managers across Worcester County and the MetroWest region. Their services include water damage restoration, storm damage restoration, fire damage restoration, mold remediation, sewage cleanup, biohazard cleanup, emergency board-up and tarping, contents restoration, air duct cleaning, and crawl space encapsulation. QCI Restoration provides written scopes before work begins and generates the drying documentation and moisture logs that insurance adjusters require for claim approval. Reach them at (508) 756-8800 or info@qualitycontracting.us.

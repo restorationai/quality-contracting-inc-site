@@ -1,6 +1,6 @@
 ---
 archetype: "service-area-service"
-title: "Upholstery Cleaning in Franklin Town, MA | Quality Contracting, Inc."
+title: "Upholstery Cleaning in Franklin Town, MA | QCI Restoration"
 h1: "Upholstery Cleaning in Franklin Town"
 meta_description: "Upholstery cleaning in Franklin Town, MA. Insurance billing accepted. Call (508) 756-8800."
 primary_keyword: "upholstery cleaning franklin town"
@@ -44,4 +44,4 @@ For sofa cleaning, couch cleaning, and fabric upholstery cleaning, we rely on ho
 
 One thing we watch for in Franklin Town living rooms: furniture positioned near baseboard heaters or radiators often has one side of the fabric drier and more brittle than the rest from years of heat exposure, which changes how the material reacts to steam cleaning. We adjust technique and drying time on that side rather than treating the whole piece the same way.
 
-If your sofa is holding onto a musty smell, showing ground-in traffic patterns, or your leather chair has started to feel stiff at the arms and seams, it's worth having it looked at before the damage becomes permanent. Quality Contracting, Inc. serves Franklin Town from our Auburn location, and we can walk you through what your specific piece needs, fabric, leather, or a mix of both, before we start any work. Call (508) 756-8800 to schedule upholstery cleaning for your Franklin Town home.
+If your sofa is holding onto a musty smell, showing ground-in traffic patterns, or your leather chair has started to feel stiff at the arms and seams, it's worth having it looked at before the damage becomes permanent. QCI Restoration serves Franklin Town from our Auburn location, and we can walk you through what your specific piece needs, fabric, leather, or a mix of both, before we start any work. Call (508) 756-8800 to schedule upholstery cleaning for your Franklin Town home.

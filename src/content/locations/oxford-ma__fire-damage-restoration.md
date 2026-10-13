@@ -1,6 +1,6 @@
 ---
 archetype: "service-area-service"
-title: "Emergency Fire Damage Restoration in Oxford, MA | Quality Contracting, Inc."
+title: "Emergency Fire Damage Restoration in Oxford, MA | QCI Restoration"
 h1: "Emergency Fire Damage Restoration in Oxford"
 meta_description: "Emergency fire damage restoration in Oxford, MA. Insurance billing accepted. Call (508) 756-8800."
 primary_keyword: "fire damage restoration oxford"
@@ -23,7 +23,7 @@ rendered: true
 <!-- emergency-open -->
 **Fire damage emergency in Oxford? Call now for emergency service.** Our crew responds fast to secure the property and start the recovery.
 
-Oxford, MA sits in a part of Worcester County where older housing stock, wood-frame construction, and oil-heat systems create a particular set of challenges after a house fire. When smoke and char work their way into balloon-framed walls or century-old plaster ceilings, the damage spreads farther and faster than it does in newer builds. Quality Contracting, Inc. responds to fire and smoke restoration calls throughout Oxford, bringing the kind of structured, methodical process that older New England homes genuinely require.
+Oxford, MA sits in a part of Worcester County where older housing stock, wood-frame construction, and oil-heat systems create a particular set of challenges after a house fire. When smoke and char work their way into balloon-framed walls or century-old plaster ceilings, the damage spreads farther and faster than it does in newer builds. QCI Restoration responds to fire and smoke restoration calls throughout Oxford, bringing the kind of structured, methodical process that older New England homes genuinely require.
 
 ## Why Oxford Properties Face Distinct Fire Damage Challenges
 
@@ -45,7 +45,7 @@ Content and material removal, controlled demolition of unsalvageable materials, 
 
 ## Reaching Oxford from Auburn
 
-Quality Contracting, Inc. is based in Auburn, which sits directly adjacent to Oxford along Route 20. The drive to Oxford's town center is short and straightforward, with Route 12 providing a direct southern corridor into town. That proximity means we are not routing crews from the far side of Worcester County when you call.
+QCI Restoration is based in Auburn, which sits directly adjacent to Oxford along Route 20. The drive to Oxford's town center is short and straightforward, with Route 12 providing a direct southern corridor into town. That proximity means we are not routing crews from the far side of Worcester County when you call.
 
 For properties on Oxford's eastern side, Route 56 connects cleanly from Auburn, keeping travel time predictable even during morning or evening commuter traffic on I-395.
 
@@ -61,4 +61,4 @@ We bill most major carriers directly and can communicate with your adjuster thro
 
 Oxford's older homes frequently have plaster-and-lath interior walls rather than drywall, and that distinction matters after a fire. Plaster is dense and relatively non-porous on its surface, but the wood lath behind it absorbs smoke odor deeply. Surface cleaning alone will not eliminate the smell. Effective odor treatment in these homes requires getting neutralizing agents into the wall cavity, either through injection or controlled access points, rather than treating only what is visible. It is a detail that makes a real difference in whether a restored room smells clean six months later or starts to off-gas odor when the heat comes on in the fall.
 
-If you are dealing with fire or smoke damage in Oxford, call Quality Contracting, Inc. at (508) 756-8800. We will walk through what happened, explain what the restoration process looks like for your specific home, and get the work moving so you are not living with the smell and uncertainty any longer than necessary.
+If you are dealing with fire or smoke damage in Oxford, call QCI Restoration at (508) 756-8800. We will walk through what happened, explain what the restoration process looks like for your specific home, and get the work moving so you are not living with the smell and uncertainty any longer than necessary.

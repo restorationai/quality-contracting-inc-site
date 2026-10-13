@@ -1,6 +1,6 @@
 ---
 archetype: "service-area"
-title: "Restoration Services in Fiskdale, MA | Quality Contracting, Inc."
+title: "Restoration Services in Fiskdale, MA | QCI Restoration"
 h1: "Restoration Services in Fiskdale"
 meta_description: "Serving Fiskdale, MA with water, fire, mold, and storm damage restoration. Experienced team. Call (508) 756-8800."
 primary_keyword: "restoration services fiskdale"
@@ -19,7 +19,7 @@ state: "MA"
 primary: false
 rendered: true
 ---
-Quality Contracting, Inc. handles water damage, fire and smoke damage, mold remediation, and storm recovery for homes and businesses throughout Fiskdale, the village that makes up the eastern side of Sturbridge in Worcester County. We work directly with property owners and the insurance carriers behind their claims, documenting losses and scoping repairs so the paperwork moves as fast as the drying equipment does.
+QCI Restoration handles water damage, fire and smoke damage, mold remediation, and storm recovery for homes and businesses throughout Fiskdale, the village that makes up the eastern side of Sturbridge in Worcester County. We work directly with property owners and the insurance carriers behind their claims, documenting losses and scoping repairs so the paperwork moves as fast as the drying equipment does.
 
 ## Restoration emergencies common in Fiskdale
 
@@ -43,4 +43,4 @@ Fiskdale sits roughly 20 minutes from our Auburn headquarters via I-90 and Route
 
 Much of Fiskdale's housing stock dates from the 19th and early-to-mid 20th century, mixed with newer construction further from the village center. Older homes commonly sit on fieldstone or poured concrete basements and carry a mix of plumbing vintages, from galvanized steel to copper, with some still showing knob-and-tube wiring or asbestos-wrapped pipe insulation that a restoration scope has to account for before demolition begins. Properties nearer Sturbridge's lakes and wetland areas tend to have a higher seasonal water table, which shows up as hydrostatic pressure against basement walls and foundation footings after sustained rain or snowmelt. For structural repairs or rebuild work following a loss, permits are handled through the Town of Sturbridge building department, and the scope of work usually determines whether a permit is triggered at all.
 
-If water is spreading across a Fiskdale basement floor, smoke has settled into your walls, or a storm has opened up your roof, call Quality Contracting, Inc. at (508) 756-8800. We'll walk through what's happening, get a crew scheduled, and start the documentation your insurance carrier is going to need.
+If water is spreading across a Fiskdale basement floor, smoke has settled into your walls, or a storm has opened up your roof, call QCI Restoration at (508) 756-8800. We'll walk through what's happening, get a crew scheduled, and start the documentation your insurance carrier is going to need.

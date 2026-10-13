@@ -2,7 +2,7 @@
 archetype: "blog-post"
 title: "Case Study: What a Demolition Phase Looks Like When It Goes Right"
 h1: "Case Study: What a Demolition Phase Looks Like When It Goes Right"
-meta_description: "A Quality Contracting review describes a demolition crew's professionalism and safety on a large restoration job. Here's what that phase actually involves."
+meta_description: "A QCI Restoration review describes a demolition crew's professionalism and safety on a large restoration job. Here's what that phase actually involves."
 primary_keyword: ""
 secondary_keywords: []
 search_intent: "commercial"
@@ -13,7 +13,7 @@ generated_at: "2026-09-29T22:26:13Z"
 manual_override: false
 internal_links: ["/services/general-contracting/", "/services/water-damage-restoration/", "/services/fire-damage-restoration/", "/contact/", "/about/"]
 breadcrumb: [{"name": "Home", "url": "/"}, {"name": "Blog", "url": "/blog/"}, {"name": "Case Study: What a Demolition Phase Looks Like When It Goes Right"}]
-faq: [{"question": "What happens during the demolition phase of a large restoration project?", "answer": "The demolition phase is when damaged materials, drywall, flooring, insulation, and sometimes framing, are removed to expose the full extent of the damage. Crews also protect unaffected areas with containment barriers and remove debris daily so the site stays safe and livable."}, {"question": "How long does the demolition phase typically take on a large-loss job?", "answer": "It depends on the size of the loss and how much of the structure is affected, but a single room might take a few days while a whole-floor or whole-house demo can run one to three weeks. The timeline usually becomes clearer once the crew opens the walls and sees what's actually behind them."}, {"question": "Do I need to hire a separate contractor for the rebuild after demolition?", "answer": "Not with Quality Contracting, Inc.'s One Call Does It All approach. The same team that handles demolition carries the project into framing, drywall, and finish work, so you're not re-explaining the job to a new contractor or coordinating separate schedules."}, {"question": "What should I expect from a demolition crew while I'm still living in the home?", "answer": "Expect daily containment and clean-up, clear communication about what's being removed and why, and a crew that respects the parts of the home you're still using. A well-run demo phase should feel disruptive but organized, not chaotic."}, {"question": "Does insurance typically cover the demolition phase separately from the rebuild?", "answer": "Most policies bundle demolition and reconstruction costs under the same claim once a covered loss like a burst pipe or fire is established, but documentation matters. A written scope and photo record from the demo phase helps support the reconstruction estimate with the adjuster."}]
+faq: [{"question": "What happens during the demolition phase of a large restoration project?", "answer": "The demolition phase is when damaged materials, drywall, flooring, insulation, and sometimes framing, are removed to expose the full extent of the damage. Crews also protect unaffected areas with containment barriers and remove debris daily so the site stays safe and livable."}, {"question": "How long does the demolition phase typically take on a large-loss job?", "answer": "It depends on the size of the loss and how much of the structure is affected, but a single room might take a few days while a whole-floor or whole-house demo can run one to three weeks. The timeline usually becomes clearer once the crew opens the walls and sees what's actually behind them."}, {"question": "Do I need to hire a separate contractor for the rebuild after demolition?", "answer": "Not with QCI Restoration's One Call Does It All approach. The same team that handles demolition carries the project into framing, drywall, and finish work, so you're not re-explaining the job to a new contractor or coordinating separate schedules."}, {"question": "What should I expect from a demolition crew while I'm still living in the home?", "answer": "Expect daily containment and clean-up, clear communication about what's being removed and why, and a crew that respects the parts of the home you're still using. A well-run demo phase should feel disruptive but organized, not chaotic."}, {"question": "Does insurance typically cover the demolition phase separately from the rebuild?", "answer": "Most policies bundle demolition and reconstruction costs under the same claim once a covered loss like a burst pipe or fire is established, but documentation matters. A written scope and photo record from the demo phase helps support the reconstruction estimate with the adjuster."}]
 published_at: "2026-09-29"
 services: []
 rendered: true
@@ -40,7 +40,7 @@ On a project of any real size, that discipline has to repeat daily for weeks, no
 
 Denise's review points to something specific: demolition is rarely the whole project, it's the phase that has to happen before reconstruction can start. On a large loss, the same company that handles the teardown typically needs to carry the file into framing, drywall, flooring, and finish work, because the reconstruction plan depends on exactly what the demo crew found once the walls opened up.
 
-This is the practical case for **One Call Does It All**: one phone call to Quality Contracting, Inc. covers the entire loss from A to Z, emergency mitigation, water and fire cleanup, plumbing, and the complete rebuild, so a homeowner isn't handing off a file to a second contractor who has to relearn the job from scratch. Denise wanting the same crew and the same company back for the next phase is exactly what that model is built to deliver.
+This is the practical case for **One Call Does It All**: one phone call to QCI Restoration covers the entire loss from A to Z, emergency mitigation, water and fire cleanup, plumbing, and the complete rebuild, so a homeowner isn't handing off a file to a second contractor who has to relearn the job from scratch. Denise wanting the same crew and the same company back for the next phase is exactly what that model is built to deliver.
 
 ## What this means if you're facing a similar project
 
@@ -48,7 +48,7 @@ If you're staring down a demolition phase on your own home, the process usually 
 
 If your project is large enough to need a dedicated demo phase, ask upfront whether the same company will carry the job through reconstruction. Coordinating that yourself across separate contractors adds time and risk to a project that's already disruptive.
 
-Quality Contracting, Inc. serves Auburn and surrounding Massachusetts communities including Worcester, Shrewsbury, Westborough, and Framingham. If your project involves water damage, fire damage, or storm damage that's headed toward a demolition and rebuild, request a project assessment and get a written scope before work begins.
+QCI Restoration serves Auburn and surrounding Massachusetts communities including Worcester, Shrewsbury, Westborough, and Framingham. If your project involves water damage, fire damage, or storm damage that's headed toward a demolition and rebuild, request a project assessment and get a written scope before work begins.
 
 ## FAQ
 
@@ -59,7 +59,7 @@ The demolition phase is when damaged materials, drywall, flooring, insulation, a
 It depends on the size of the loss and how much of the structure is affected, but a single room might take a few days while a whole-floor or whole-house demo can run one to three weeks. The timeline usually becomes clearer once the crew opens the walls and sees what's actually behind them.
 
 **Do I need to hire a separate contractor for the rebuild after demolition?**
-Not with Quality Contracting, Inc.'s One Call Does It All approach. The same team that handles demolition carries the project into framing, drywall, and finish work, so you're not re-explaining the job to a new contractor or coordinating separate schedules.
+Not with QCI Restoration's One Call Does It All approach. The same team that handles demolition carries the project into framing, drywall, and finish work, so you're not re-explaining the job to a new contractor or coordinating separate schedules.
 
 **What should I expect from a demolition crew while I'm still living in the home?**
 Expect daily containment and clean-up, clear communication about what's being removed and why, and a crew that respects the parts of the home you're still using. A well-run demo phase should feel disruptive but organized, not chaotic.

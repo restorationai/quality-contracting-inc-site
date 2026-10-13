@@ -1,6 +1,6 @@
 ---
 archetype: "service-area-service"
-title: "Roofing Installation and Replacement in Oxford, MA | Quality Contracting, Inc."
+title: "Roofing Installation and Replacement in Oxford, MA | QCI Restoration"
 h1: "Roofing Installation and Replacement in Oxford"
 meta_description: "Roofing installation and replacement in Oxford, MA. Insurance billing accepted. Call (508) 756-8800."
 primary_keyword: "roofing installation and replacement oxford"
@@ -20,7 +20,7 @@ state: "MA"
 service_display: "Roofing Installation and Replacement"
 rendered: true
 ---
-Oxford, MA sits in a climate band where winters bring heavy snow loads, freeze-thaw cycling through March and April, and nor'easters that can strip flashing and lift shingles before a homeowner notices anything is wrong from the ground. If your roof is showing its age, or if last winter left you with ice dams and water stains on interior ceilings, the question is rarely whether to replace it but when. Quality Contracting, Inc. serves Oxford and the surrounding towns from its Auburn base, handling full roofing installations and replacements for residential properties across the area.
+Oxford, MA sits in a climate band where winters bring heavy snow loads, freeze-thaw cycling through March and April, and nor'easters that can strip flashing and lift shingles before a homeowner notices anything is wrong from the ground. If your roof is showing its age, or if last winter left you with ice dams and water stains on interior ceilings, the question is rarely whether to replace it but when. QCI Restoration serves Oxford and the surrounding towns from its Auburn base, handling full roofing installations and replacements for residential properties across the area.
 
 ## Why Oxford Properties See Roofing Wear Faster Than You Might Expect
 
@@ -40,10 +40,10 @@ Flashing at chimneys, skylights, and sidewalls is replaced, not reused. Reusing 
 
 ## Reaching Oxford from Auburn
 
-Quality Contracting's Auburn location puts Oxford within a short drive via Route 12 south. For properties on the western side of town, the approach through Webster Street keeps travel time minimal. For jobs on the eastern or northern edges of Oxford, Route 20 to Route 56 is typically the cleaner run depending on time of day. The proximity means crews arrive with material staged on the truck rather than making mid-job supply runs, which keeps your project on schedule.
+QCI Restoration's Auburn location puts Oxford within a short drive via Route 12 south. For properties on the western side of town, the approach through Webster Street keeps travel time minimal. For jobs on the eastern or northern edges of Oxford, Route 20 to Route 56 is typically the cleaner run depending on time of day. The proximity means crews arrive with material staged on the truck rather than making mid-job supply runs, which keeps your project on schedule.
 
 ## Local Note
 
 Oxford has a notable number of cape-style homes built in the 1940s and 1950s where the roof pitch changes at the knee wall, creating a low-slope section just above the first-floor ceiling. That transition zone is exactly where ice dams cause the most interior damage, and it is also where installers sometimes shortcut the membrane application because the geometry is awkward. If your home has that cape profile, ask specifically how the contractor handles the break in pitch. The answer tells you a lot about whether they have actually worked on Oxford homes or are just showing up with a price.
 
-If your roof has reached the end of its service life, or if last winter left you with questions you have been putting off, call Quality Contracting, Inc. at (508) 756-8800. We cover Oxford and the surrounding Worcester County communities, and we can schedule an inspection to give you a clear picture of what the deck looks like and what a replacement will actually involve.
+If your roof has reached the end of its service life, or if last winter left you with questions you have been putting off, call QCI Restoration at (508) 756-8800. We cover Oxford and the surrounding Worcester County communities, and we can schedule an inspection to give you a clear picture of what the deck looks like and what a replacement will actually involve.

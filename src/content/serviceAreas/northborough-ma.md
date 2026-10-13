@@ -1,6 +1,6 @@
 ---
 archetype: "service-area"
-title: "Restoration Services in Northborough, MA | Quality Contracting, Inc."
+title: "Restoration Services in Northborough, MA | QCI Restoration"
 h1: "Restoration Services in Northborough"
 meta_description: "Serving Northborough, MA with water, fire, mold, and storm damage restoration. Experienced team. Call (508) 756-8800."
 primary_keyword: "restoration services northborough"
@@ -19,7 +19,7 @@ state: "MA"
 primary: false
 rendered: true
 ---
-Quality Contracting, Inc. handles water damage, fire and smoke damage, mold remediation, and storm and biohazard cleanup for homeowners and property managers throughout Northborough. We work from a Auburn, MA base just down Route 20, which means a fast response whether the call is a burst pipe in an older colonial near the town center or storm damage to a newer home off I-290. Our crews document the loss, stabilize the structure, and work directly with most major insurance carriers so the paperwork isn't left entirely on your shoulders.
+QCI Restoration handles water damage, fire and smoke damage, mold remediation, and storm and biohazard cleanup for homeowners and property managers throughout Northborough. We work from a Auburn, MA base just down Route 20, which means a fast response whether the call is a burst pipe in an older colonial near the town center or storm damage to a newer home off I-290. Our crews document the loss, stabilize the structure, and work directly with most major insurance carriers so the paperwork isn't left entirely on your shoulders.
 
 ## Restoration emergencies common in Northborough
 
@@ -45,4 +45,4 @@ From our Auburn headquarters, Northborough is a straightforward run east along R
 
 Much of Northborough's housing dates from two distinct eras: colonial and farmhouse construction near the historic center, and mid-century through 1970s colonial and ranch development further out, with newer construction along the commercial corridors. Older homes commonly have fieldstone or early poured concrete foundations and full basements, built below the Massachusetts frost line, which means water intrusion tends to travel along footings and framing rather than pooling on a slab. Pre-1980s homes may carry galvanized supply lines, cast iron drain stacks, and materials like asbestos pipe wrap or lead paint that a restoration scope has to identify and handle carefully before demolition or drying work begins. Structural repairs and rebuilds fall under the Massachusetts State Building Code, with permits issued through the Northborough Building Department, and any work touching structural framing, electrical, or plumbing systems generally requires a permit and inspection before it's closed back up.
 
-If water, fire, or storm damage has hit your Northborough property, call Quality Contracting, Inc. at (508) 756-8800. We'll walk the property, document what we find for your insurance carrier, and get a drying or repair plan moving.
+If water, fire, or storm damage has hit your Northborough property, call QCI Restoration at (508) 756-8800. We'll walk the property, document what we find for your insurance carrier, and get a drying or repair plan moving.

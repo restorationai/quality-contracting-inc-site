@@ -87,10 +87,10 @@ Once the water is stopped:
 - Call a restoration contractor to get a moisture assessment scheduled
 - Notify your landlord and insurer in writing
 
-For Massachusetts tenants dealing with water damage in a rental, Quality Contracting, Inc. handles the full scope: emergency water extraction, structural drying to the IICRC S500 standard, mold prevention, and the rebuild if walls or flooring need to come out. One Call Does It All means you do not have to coordinate a plumber, a dryer, and a contractor separately. Call (508) 756-8800 to schedule a moisture assessment.
+For Massachusetts tenants dealing with water damage in a rental, QCI Restoration handles the full scope: emergency water extraction, structural drying to the IICRC S500 standard, mold prevention, and the rebuild if walls or flooring need to come out. One Call Does It All means you do not have to coordinate a plumber, a dryer, and a contractor separately. Call (508) 756-8800 to schedule a moisture assessment.
 
 ---
 
-**About Quality Contracting, Inc.**
+**About QCI Restoration**
 
-Quality Contracting, Inc. is a full-service restoration and contracting company based in Auburn, MA, serving Worcester, Framingham, and surrounding Central Massachusetts communities. Their certified crews handle water damage restoration, mold remediation, fire damage restoration, sewage cleanup, and complete reconstruction, so property owners and tenants work with one company from the first call through the final walkthrough. Reach them at (508) 756-8800 or qualitycontracting.us.
+QCI Restoration is a full-service restoration and contracting company based in Auburn, MA, serving Worcester, Framingham, and surrounding Central Massachusetts communities. Their certified crews handle water damage restoration, mold remediation, fire damage restoration, sewage cleanup, and complete reconstruction, so property owners and tenants work with one company from the first call through the final walkthrough. Reach them at (508) 756-8800 or qualitycontracting.us.

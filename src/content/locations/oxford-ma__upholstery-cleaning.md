@@ -1,6 +1,6 @@
 ---
 archetype: "service-area-service"
-title: "Upholstery Cleaning in Oxford, MA | Quality Contracting, Inc."
+title: "Upholstery Cleaning in Oxford, MA | QCI Restoration"
 h1: "Upholstery Cleaning in Oxford"
 meta_description: "Upholstery cleaning in Oxford, MA. Insurance billing accepted. Call (508) 756-8800."
 primary_keyword: "upholstery cleaning oxford"
@@ -38,4 +38,4 @@ Our crews run out of Auburn, and Oxford is a short trip down the Route 12 corrid
 
 One pattern we run into often in this part of Worcester County: homes heated with wood or pellet stoves tend to have upholstery that looks clean but carries a smoke odor that only becomes obvious once guests sit down or a window stays closed for a few days. Steam and standard shampooing rarely resolve that smell because it's trapped in the foam, not just the fabric surface, so we treat those jobs with an odor-neutralizing step built into the extraction process rather than tacking on a spray afterward.
 
-If your sofa, sectional, or leather chair in Oxford is holding onto odor, looking dull, or just hasn't been deep cleaned in a while, give Quality Contracting, Inc. a call at (508) 756-8800. We'll walk through fabric type, condition, and timeline with you before we ever show up, so there are no surprises the day of the appointment.
+If your sofa, sectional, or leather chair in Oxford is holding onto odor, looking dull, or just hasn't been deep cleaned in a while, give QCI Restoration a call at (508) 756-8800. We'll walk through fabric type, condition, and timeline with you before we ever show up, so there are no surprises the day of the appointment.

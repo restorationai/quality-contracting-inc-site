@@ -1,6 +1,6 @@
 ---
 archetype: "service-area-service"
-title: "Mold Remediation in Bellingham, MA | Quality Contracting, Inc."
+title: "Mold Remediation in Bellingham, MA | QCI Restoration"
 h1: "Mold Remediation in Bellingham"
 meta_description: "Mold remediation in Bellingham, MA. Insurance billing accepted. Call (508) 756-8800."
 primary_keyword: "mold remediation bellingham"
@@ -38,4 +38,4 @@ We're based in Auburn, with a straightforward run out to Bellingham along 495 be
 
 A lot of Bellingham's older basements were finished in the 1980s and 90s with paneling fastened directly to furring strips against the foundation wall, with no vapor barrier behind it. That assembly traps moisture against the concrete, so even a basement that feels dry to the touch can be hiding mold growth on the backside of the paneling and inside the furring strip cavities. When we're called out for a musty smell with no obvious leak, that wall assembly is one of the first things we check, because pulling a single panel often tells us more than an hour of air testing.
 
-If your Bellingham property has a mold problem you can smell before you can see, don't wait on it to resolve itself. Call Quality Contracting, Inc. at (508) 756-8800 to get a remediation plan started, whether the issue is a damp basement near Depot Street or a slow attic leak on the other side of town.
+If your Bellingham property has a mold problem you can smell before you can see, don't wait on it to resolve itself. Call QCI Restoration at (508) 756-8800 to get a remediation plan started, whether the issue is a damp basement near Depot Street or a slow attic leak on the other side of town.

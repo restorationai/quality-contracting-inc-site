@@ -1,6 +1,6 @@
 ---
 archetype: "service-area-service"
-title: "Emergency Water Damage Restoration in East Brookfield, MA | Quality Contracting, Inc."
+title: "Emergency Water Damage Restoration in East Brookfield, MA | QCI Restoration"
 h1: "Emergency Water Damage Restoration in East Brookfield"
 meta_description: "Emergency water damage restoration in East Brookfield, MA. Insurance billing accepted. Call (508) 756-8800."
 primary_keyword: "water damage restoration east brookfield"
@@ -38,4 +38,4 @@ We run out of Auburn, which puts us a straightforward drive up Route 20 and Rout
 
 A detail that catches a lot of homeowners off guard: when a home is on a private well and the pump or pressure tank is what failed, we treat any standing water near that equipment as a potential contamination source until we know otherwise, since well systems don't have the same backflow protections municipal water does. We also check crawlspace vapor barriers on older East Brookfield homes before closing out a drying job, because a torn or missing barrier will let ground moisture creep right back in and undo the work within weeks.
 
-If you're standing over wet flooring or watching a stain spread across a ceiling right now, don't wait on it. Quality Contracting, Inc. handles water removal, extraction, and structural drying for East Brookfield homes and can talk you through what to shut off and protect while help is on the way. Call (508) 756-8800 to get started.
+If you're standing over wet flooring or watching a stain spread across a ceiling right now, don't wait on it. QCI Restoration handles water removal, extraction, and structural drying for East Brookfield homes and can talk you through what to shut off and protect while help is on the way. Call (508) 756-8800 to get started.

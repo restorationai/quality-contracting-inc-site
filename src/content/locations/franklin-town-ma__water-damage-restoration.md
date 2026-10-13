@@ -1,6 +1,6 @@
 ---
 archetype: "service-area-service"
-title: "Emergency Water Damage Restoration in Franklin Town, MA | Quality Contracting, Inc."
+title: "Emergency Water Damage Restoration in Franklin Town, MA | QCI Restoration"
 h1: "Emergency Water Damage Restoration in Franklin Town"
 meta_description: "Emergency water damage restoration in Franklin Town, MA. Insurance billing accepted. Call (508) 756-8800."
 primary_keyword: "water damage restoration franklin town"
@@ -42,4 +42,4 @@ Most water damage claims in this area come down to documenting the source and th
 
 A lot of Franklin Town basements were finished out gradually over decades rather than built that way originally, which means the drywall, insulation, and flooring underneath weren't always installed with a moisture barrier between them and the slab. When we pull baseboards or cut access points for drying, we're often finding an extra layer of older material behind the newer finish, which changes how long full drying actually takes compared to a basement finished all at once to current code.
 
-If water is moving through your home or business in Franklin Town right now, the material decisions made in the first few hours, what gets pulled out versus dried in place, matter more than almost anything that happens afterward. Call Quality Contracting, Inc. at (508) 756-8800 and we'll walk you through what to do before equipment is even on site.
+If water is moving through your home or business in Franklin Town right now, the material decisions made in the first few hours, what gets pulled out versus dried in place, matter more than almost anything that happens afterward. Call QCI Restoration at (508) 756-8800 and we'll walk you through what to do before equipment is even on site.

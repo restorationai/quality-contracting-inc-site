@@ -1,6 +1,6 @@
 ---
 archetype: "service-area-service"
-title: "Emergency Storm Damage Restoration in Ware, MA | Quality Contracting, Inc."
+title: "Emergency Storm Damage Restoration in Ware, MA | QCI Restoration"
 h1: "Emergency Storm Damage Restoration in Ware"
 meta_description: "Emergency storm damage restoration in Ware, MA. Insurance billing accepted. Call (508) 756-8800."
 primary_keyword: "storm damage restoration ware"
@@ -40,4 +40,4 @@ Our crews travel west out of Auburn along Route 9 to reach Ware, a route that al
 
 One thing that catches new crews off guard in Ware: several of the older mill buildings and converted multi-family properties near the river have flat or low-slope roof sections tucked behind a pitched front facade, a common retrofit from decades of additions. Those flat sections pond water fast in a heavy storm and are often the first place a leak starts, even when the visible pitched roof out front looks untouched. We check those hidden sections first on any pre-1950s property, because that's usually where the real damage is.
 
-If a storm has left your roof open, a tree through your fence line, or water rising in the basement, the fastest way to limit the damage is to get a crew on-site before the next round of weather moves through. Quality Contracting handles storm damage restoration throughout Ware, from the first tarp and extraction to the final repair, and we document the loss along the way so your insurance claim has what it needs from day one. Call (508) 756-8800 to get a crew started.
+If a storm has left your roof open, a tree through your fence line, or water rising in the basement, the fastest way to limit the damage is to get a crew on-site before the next round of weather moves through. QCI Restoration handles storm damage restoration throughout Ware, from the first tarp and extraction to the final repair, and we document the loss along the way so your insurance claim has what it needs from day one. Call (508) 756-8800 to get a crew started.

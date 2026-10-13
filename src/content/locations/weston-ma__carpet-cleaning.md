@@ -1,6 +1,6 @@
 ---
 archetype: "service-area-service"
-title: "Carpet Cleaning in Weston, MA | Quality Contracting, Inc."
+title: "Carpet Cleaning in Weston, MA | QCI Restoration"
 h1: "Carpet Cleaning in Weston"
 meta_description: "Carpet cleaning in Weston, MA. Insurance billing accepted. Call (508) 756-8800."
 primary_keyword: "carpet cleaning weston"
@@ -42,4 +42,4 @@ For residential jobs we use truck-mounted hot water extraction for deep cleaning
 
 One thing we watch for in Weston specifically: homes with finished lower levels built into a slope, common on the town's rolling terrain, often have carpet directly over concrete with little or no vapor barrier. Even a cleaning job done correctly can trap moisture against that slab if we don't adjust drying time and airflow afterward, so we treat below-grade carpet differently than a carpeted room on the main floor, slower extraction passes, more aggressive air movement, and a longer dry window before furniture goes back.
 
-If your carpets in Weston are holding onto stains, pet odor, or just years of accumulated soil that vacuuming can't touch, call Quality Contracting, Inc. at (508) 756-8800 to schedule a cleaning that's matched to your home's age, fiber type, and layout, not a one-size approach.
+If your carpets in Weston are holding onto stains, pet odor, or just years of accumulated soil that vacuuming can't touch, call QCI Restoration at (508) 756-8800 to schedule a cleaning that's matched to your home's age, fiber type, and layout, not a one-size approach.

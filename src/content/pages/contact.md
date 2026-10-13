@@ -1,7 +1,7 @@
 ---
 archetype: "contact"
-title: "Contact Quality Contracting, Inc. | Restoration in Auburn"
-h1: "Contact Quality Contracting, Inc."
+title: "Contact QCI Restoration | Restoration in Auburn"
+h1: "Contact QCI Restoration"
 meta_description: "Call (508) 756-8800 for restoration services in Auburn and surrounding areas. Direct insurance billing."
 primary_keyword: "quality contracting, inc. contact"
 secondary_keywords: ["restoration company contact"]
@@ -27,4 +27,4 @@ If you're planning ahead, requesting a damage assessment, asking about a reconst
 
 ## Where we're located
 
-Quality Contracting, Inc. is based at **211 Southbridge Street, Auburn, MA 01501**, in the heart of Central Massachusetts. From that location we serve Worcester, Shrewsbury, and the corridor east toward Boston, including Westborough, Southborough, Hopkinton, Framingham, Natick, Wellesley, Needham, Newton, and Weston, among others, with crews responding across a 50 mile radius of Auburn. Central Mass homes tend to be older construction, and we're familiar with the materials and building styles common to the region, from triple-deckers in Worcester's Main South neighborhood to cape-style homes in the surrounding towns.
+QCI Restoration is based at **211 Southbridge Street, Auburn, MA 01501**, in the heart of Central Massachusetts. From that location we serve Worcester, Shrewsbury, and the corridor east toward Boston, including Westborough, Southborough, Hopkinton, Framingham, Natick, Wellesley, Needham, Newton, and Weston, among others, with crews responding across a 50 mile radius of Auburn. Central Mass homes tend to be older construction, and we're familiar with the materials and building styles common to the region, from triple-deckers in Worcester's Main South neighborhood to cape-style homes in the surrounding towns.

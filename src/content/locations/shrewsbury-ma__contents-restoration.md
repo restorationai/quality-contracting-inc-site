@@ -1,6 +1,6 @@
 ---
 archetype: "service-area-service"
-title: "Contents Restoration and Storage in Shrewsbury, MA | Quality Contracting, Inc."
+title: "Contents Restoration and Storage in Shrewsbury, MA | QCI Restoration"
 h1: "Contents Restoration and Storage in Shrewsbury"
 meta_description: "Contents restoration and storage in Shrewsbury, MA. Insurance billing accepted. Call (508) 756-8800."
 primary_keyword: "contents restoration and storage shrewsbury"
@@ -38,7 +38,7 @@ Once the structure is dried, repaired, and cleared, belongings are returned in t
 
 ## Reaching Shrewsbury from Auburn
 
-Quality Contracting, Inc. is based in Auburn, which puts Shrewsbury within a short drive via Route 20 east or up I-290 through Worcester to Route 9 and into Shrewsbury's Town Center. The Route 9 Kenneth F. Burns bridge crossing from Worcester is the direct access point for jobs on the side of town near the lake. Call (508) 756-8800 to schedule an assessment, the team can give you an honest arrival estimate based on current conditions and job queue.
+QCI Restoration is based in Auburn, which puts Shrewsbury within a short drive via Route 20 east or up I-290 through Worcester to Route 9 and into Shrewsbury's Town Center. The Route 9 Kenneth F. Burns bridge crossing from Worcester is the direct access point for jobs on the side of town near the lake. Call (508) 756-8800 to schedule an assessment, the team can give you an honest arrival estimate based on current conditions and job queue.
 
 ## Shrewsbury Insurance Coordination
 
@@ -48,4 +48,4 @@ Most homeowner policies in the 01545 ZIP code area cover contents losses under t
 
 One thing that comes up repeatedly on Shrewsbury jobs, particularly in the older ranches and split-levels near the White City area: SELCO, the town's municipal electric utility, runs on a different outage and restoration schedule than National Grid or Eversource. When a water loss or fire knocks out power, SELCO's crew responds independently, and the timeline for restoring power affects how quickly dehumidification equipment can be staged inside the home. On jobs where SELCO power is out, the contents pack-out often needs to happen before drying equipment can even be set up, which changes the sequencing of the whole job. Knowing that ahead of time means the crew arrives with the right plan rather than improvising on-site.
 
-If your home or business in Shrewsbury has suffered water, fire, or smoke damage, the condition of your belongings doesn't have to be a secondary concern. Call Quality Contracting, Inc. at (508) 756-8800 to schedule a contents assessment, the sooner items are properly packed out and treated, the better the restoration outcome.
+If your home or business in Shrewsbury has suffered water, fire, or smoke damage, the condition of your belongings doesn't have to be a secondary concern. Call QCI Restoration at (508) 756-8800 to schedule a contents assessment, the sooner items are properly packed out and treated, the better the restoration outcome.

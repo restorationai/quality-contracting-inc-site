@@ -1,6 +1,6 @@
 ---
 archetype: "service-area-service"
-title: "Renovations, Remodels and General Contracting in Needham, MA | Quality Contracting, Inc."
+title: "Renovations, Remodels and General Contracting in Needham, MA | QCI Restoration"
 h1: "Renovations, Remodels and General Contracting in Needham"
 meta_description: "Renovations, remodels and general contracting in Needham, MA. Insurance billing accepted. Call (508) 756-8800."
 primary_keyword: "renovations, remodels and general contracting needham"
@@ -20,7 +20,7 @@ state: "MA"
 service_display: "Renovations, Remodels and General Contracting"
 rendered: true
 ---
-Renovating a home in Needham usually means working around something the original builder never anticipated: a 1920s plaster ceiling, a knob-and-tube circuit feeding the kitchen, or a foundation that was never meant to carry a second-story addition. Quality Contracting, Inc. handles renovations, remodels, and general contracting across Needham with that older housing stock in mind, whether the project is a planned kitchen update or a rebuild that starts after water or fire damage.
+Renovating a home in Needham usually means working around something the original builder never anticipated: a 1920s plaster ceiling, a knob-and-tube circuit feeding the kitchen, or a foundation that was never meant to carry a second-story addition. QCI Restoration handles renovations, remodels, and general contracting across Needham with that older housing stock in mind, whether the project is a planned kitchen update or a rebuild that starts after water or fire damage.
 
 ## Why Needham Properties See Renovation Complications
 
@@ -42,4 +42,4 @@ Post-damage rebuilds in Needham almost always involve two parallel tracks: the i
 
 Needham's older housing stock, much of it built with post-and-beam or balloon framing before 1950, means that even a straightforward kitchen remodel often uncovers knob-and-tube wiring or undersized ceiling joists once we open the walls. We build a contingency line into most quotes before the permit is even pulled, because on this housing stock, finding nothing unexpected is the exception rather than the rule.
 
-If you're planning a kitchen remodel, a bathroom update, or a full rebuild after damage to a Needham property, Quality Contracting, Inc. can walk the site, explain what the permitting process will actually require here, and put together a scope that accounts for what's likely behind the walls. Call (508) 756-8800 to get a walkthrough scheduled.
+If you're planning a kitchen remodel, a bathroom update, or a full rebuild after damage to a Needham property, QCI Restoration can walk the site, explain what the permitting process will actually require here, and put together a scope that accounts for what's likely behind the walls. Call (508) 756-8800 to get a walkthrough scheduled.

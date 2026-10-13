@@ -1,6 +1,6 @@
 ---
 archetype: "service-area-service"
-title: "Upholstery Cleaning in Wellesley, MA | Quality Contracting, Inc."
+title: "Upholstery Cleaning in Wellesley, MA | QCI Restoration"
 h1: "Upholstery Cleaning in Wellesley"
 meta_description: "Upholstery cleaning in Wellesley, MA. Insurance billing accepted. Call (508) 756-8800."
 primary_keyword: "upholstery cleaning wellesley"
@@ -20,7 +20,7 @@ state: "MA"
 service_display: "Upholstery Cleaning"
 rendered: true
 ---
-**Upholstery holding onto smoke, pet odor, or years of everyday use in your Wellesley home?** A sofa in a sunlit Wellesley Square-area living room takes a different kind of abuse than one in a basement rec room, and cleaning it well means understanding that difference before a single tool touches the fabric. Quality Contracting, Inc. cleans sofas, sectionals, dining chairs, and leather pieces throughout Wellesley, matching the method to the material instead of running every job through the same wand and solution.
+**Upholstery holding onto smoke, pet odor, or years of everyday use in your Wellesley home?** A sofa in a sunlit Wellesley Square-area living room takes a different kind of abuse than one in a basement rec room, and cleaning it well means understanding that difference before a single tool touches the fabric. QCI Restoration cleans sofas, sectionals, dining chairs, and leather pieces throughout Wellesley, matching the method to the material instead of running every job through the same wand and solution.
 
 ## Why Wellesley Homes See Distinct Upholstery Wear
 
@@ -42,4 +42,4 @@ Leather furniture shows up often in Wellesley's home offices and dens, and it ne
 
 One pattern we see often in Wellesley: homes near Route 9 and the town's older neighborhoods tend to have original hardwood floors under area rugs in formal living rooms, which means we're careful about moisture migration during extraction, wet upholstery legs or skirting resting directly on wood can leave rings or cause the finish to cloud if we don't use furniture blocks and moisture barriers during the cleaning and drying process.
 
-If your sofa, sectional, or leather furniture in Wellesley needs more than a surface wipe-down, call Quality Contracting, Inc. at (508) 756-8800 to schedule an upholstery cleaning visit. We'll assess the fabric or leather on-site, walk you through the process before we start, and leave the piece groomed and ready to use again.
+If your sofa, sectional, or leather furniture in Wellesley needs more than a surface wipe-down, call QCI Restoration at (508) 756-8800 to schedule an upholstery cleaning visit. We'll assess the fabric or leather on-site, walk you through the process before we start, and leave the piece groomed and ready to use again.

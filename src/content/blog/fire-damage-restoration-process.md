@@ -65,7 +65,7 @@ A professional restoration crew brings:
 - **Industrial dehumidifiers and moisture meters** to address water damage from firefighting before mold takes hold
 - **Structural drying documentation** that satisfies insurance adjusters and gives you a written record of what was done
 
-For fire and smoke damage restoration in the Auburn area, Quality Contracting, Inc. can be reached at (508) 756-8800. Getting a professional assessment early, even if you are not sure whether you will hire anyone, helps you understand the full scope before you commit to any approach.
+For fire and smoke damage restoration in the Auburn area, QCI Restoration can be reached at (508) 756-8800. Getting a professional assessment early, even if you are not sure whether you will hire anyone, helps you understand the full scope before you commit to any approach.
 
 ## The Full Restoration Timeline: What to Expect
 
@@ -85,4 +85,4 @@ Restoration after a significant fire typically unfolds in phases, and the timeli
 
 Fire damage is one of the more complex losses a homeowner can face, partly because the visible damage and the hidden damage rarely match, and partly because the decisions made in the first 48 hours have an outsized effect on the final outcome. If you are dealing with a recent fire or trying to understand what a restoration contractor should actually be doing on your property, the information here should give you a clearer picture of what a thorough process looks like.
 
-If you are in the Auburn, MA area and need a professional assessment of fire or smoke damage, call Quality Contracting, Inc. at (508) 756-8800. An honest scope of the damage, even before you have decided anything, is the most useful first step.
+If you are in the Auburn, MA area and need a professional assessment of fire or smoke damage, call QCI Restoration at (508) 756-8800. An honest scope of the damage, even before you have decided anything, is the most useful first step.

@@ -1,6 +1,6 @@
 ---
 archetype: "service-area-service"
-title: "Air Duct Cleaning in Newton, MA | Quality Contracting, Inc."
+title: "Air Duct Cleaning in Newton, MA | QCI Restoration"
 h1: "Air Duct Cleaning in Newton"
 meta_description: "Air duct cleaning in Newton, MA. Insurance billing accepted. Call (508) 756-8800."
 primary_keyword: "air duct cleaning newton"
@@ -38,7 +38,7 @@ Dryer vent cleaning is part of the same visit if you want it. Newton's taller, m
 
 ## Reaching Newton from Auburn
 
-Quality Contracting's base in Auburn puts Newton roughly 30 to 40 minutes out via the Mass Pike (I-90), depending on time of day. The eastern villages, Chestnut Hill, Newton Corner, and West Newton, are the quickest to reach; Waban and Newton Highlands, toward the Needham line, add a few minutes. When you call (508) 756-8800 to schedule, the team can give you a realistic arrival window based on current conditions and crew availability.
+QCI Restoration's base in Auburn puts Newton roughly 30 to 40 minutes out via the Mass Pike (I-90), depending on time of day. The eastern villages, Chestnut Hill, Newton Corner, and West Newton, are the quickest to reach; Waban and Newton Highlands, toward the Needham line, add a few minutes. When you call (508) 756-8800 to schedule, the team can give you a realistic arrival window based on current conditions and crew availability.
 
 ## Local Note
 
@@ -46,4 +46,4 @@ One thing that comes up specifically in Newton's denser village centers, particu
 
 If your home in Newton has been converted or subdivided at any point, mention it when you call. It changes how we scope the job and what equipment configuration makes sense.
 
-When air quality matters, and in Newton's older homes, it usually does, a thorough duct cleaning is one of the higher-return maintenance investments you can make before heating season. Call Quality Contracting at (508) 756-8800 to schedule a duct inspection and cleaning for your Newton property.
+When air quality matters, and in Newton's older homes, it usually does, a thorough duct cleaning is one of the higher-return maintenance investments you can make before heating season. Call QCI Restoration at (508) 756-8800 to schedule a duct inspection and cleaning for your Newton property.

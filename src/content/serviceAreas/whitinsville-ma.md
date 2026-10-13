@@ -1,6 +1,6 @@
 ---
 archetype: "service-area"
-title: "Restoration Services in Whitinsville, MA | Quality Contracting, Inc."
+title: "Restoration Services in Whitinsville, MA | QCI Restoration"
 h1: "Restoration Services in Whitinsville"
 meta_description: "Serving Whitinsville, MA with water, fire, mold, and storm damage restoration. Experienced team. Call (508) 756-8800."
 primary_keyword: "restoration services whitinsville"
@@ -19,7 +19,7 @@ state: "MA"
 primary: false
 rendered: true
 ---
-Quality Contracting, Inc. handles water damage, fire and smoke damage, mold remediation, and storm cleanup for homes and businesses in Whitinsville, the historic mill village that makes up the commercial and residential core of Northbridge, Massachusetts. Whether it's a burst supply line in a century-old triple-decker or a basement taking on water after a Mumford River rise, we scope the loss, document it for your insurance carrier, and get the drying or repair work moving.
+QCI Restoration handles water damage, fire and smoke damage, mold remediation, and storm cleanup for homes and businesses in Whitinsville, the historic mill village that makes up the commercial and residential core of Northbridge, Massachusetts. Whether it's a burst supply line in a century-old triple-decker or a basement taking on water after a Mumford River rise, we scope the loss, document it for your insurance carrier, and get the drying or repair work moving.
 
 ## Restoration emergencies common in Whitinsville
 
@@ -39,4 +39,4 @@ Most of Whitinsville's housing dates to the mill village's growth period in the 
 
 The village sits along the Mumford River, and homes near the water or on lower-lying streets can see a higher water table and slower basement drainage than newer construction elsewhere in Northbridge. Permits for structural repair or rebuild work in Whitinsville are issued through the Town of Northbridge's building department, since Whitinsville is a village within the town rather than a separately incorporated municipality, and work falls under the Massachusetts State Building Code.
 
-If water, fire, or mold has hit your Whitinsville property, call Quality Contracting, Inc. at (508) 756-8800. We'll walk through what you're dealing with, explain the next steps, and get a crew scheduled to start the work.
+If water, fire, or mold has hit your Whitinsville property, call QCI Restoration at (508) 756-8800. We'll walk through what you're dealing with, explain the next steps, and get a crew scheduled to start the work.

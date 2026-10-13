@@ -1,6 +1,6 @@
 ---
 archetype: "service-area-service"
-title: "Roofing Installation and Replacement in Shrewsbury, MA | Quality Contracting, Inc."
+title: "Roofing Installation and Replacement in Shrewsbury, MA | QCI Restoration"
 h1: "Roofing Installation and Replacement in Shrewsbury"
 meta_description: "Roofing installation and replacement in Shrewsbury, MA. Insurance billing accepted. Call (508) 756-8800."
 primary_keyword: "roofing installation and replacement shrewsbury"
@@ -20,7 +20,7 @@ state: "MA"
 service_display: "Roofing Installation and Replacement"
 rendered: true
 ---
-Shrewsbury sits at an elevation that catches the full force of nor'easters rolling in off the Atlantic, and the town's mix of mid-century colonials and newer subdivisions means rooflines take a beating from ice dams, wind-lifted shingles, and freeze-thaw cycles that can crack ridge caps before February is over. If you've noticed granule loss in the gutters or daylight showing at the eaves, the window between a manageable replacement and a structural repair is shorter than most homeowners expect. Quality Contracting, Inc. handles roofing installation and replacement for Shrewsbury properties, working from our Auburn base just a short drive west on Route 20.
+Shrewsbury sits at an elevation that catches the full force of nor'easters rolling in off the Atlantic, and the town's mix of mid-century colonials and newer subdivisions means rooflines take a beating from ice dams, wind-lifted shingles, and freeze-thaw cycles that can crack ridge caps before February is over. If you've noticed granule loss in the gutters or daylight showing at the eaves, the window between a manageable replacement and a structural repair is shorter than most homeowners expect. QCI Restoration handles roofing installation and replacement for Shrewsbury properties, working from our Auburn base just a short drive west on Route 20.
 
 ## Why Shrewsbury Roofs Wear Out Faster Than You'd Expect
 
@@ -38,7 +38,7 @@ We coordinate directly with the town of Shrewsbury's building department for per
 
 ## Reaching Shrewsbury from Auburn
 
-Quality Contracting, Inc. is based in Auburn, which puts us on the western edge of Shrewsbury's commute. Route 20 connects the two towns directly, and Route 9 offers an alternate corridor depending on traffic. For most Shrewsbury addresses, our crew can be on-site for an initial assessment without a long scheduling delay. We serve the full town, including properties closer to the Westborough line on the eastern side, where the drive adds only a few minutes. Call (508) 756-8800 to schedule.
+QCI Restoration is based in Auburn, which puts us on the western edge of Shrewsbury's commute. Route 20 connects the two towns directly, and Route 9 offers an alternate corridor depending on traffic. For most Shrewsbury addresses, our crew can be on-site for an initial assessment without a long scheduling delay. We serve the full town, including properties closer to the Westborough line on the eastern side, where the drive adds only a few minutes. Call (508) 756-8800 to schedule.
 
 ## Local Note
 
@@ -46,4 +46,4 @@ Shrewsbury has a meaningful number of homes built during the postwar subdivision
 
 If you are unsure of your home's original construction method, the town's assessor records can often confirm the build year, which is a useful starting point before any roofing conversation.
 
-When your roof is showing its age or you have already found water inside, the right time to call is before the next storm season adds to the damage. Reach Quality Contracting, Inc. at (508) 756-8800 to schedule a roofing assessment for your Shrewsbury property.
+When your roof is showing its age or you have already found water inside, the right time to call is before the next storm season adds to the damage. Reach QCI Restoration at (508) 756-8800 to schedule a roofing assessment for your Shrewsbury property.

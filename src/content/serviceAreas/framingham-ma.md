@@ -1,6 +1,6 @@
 ---
 archetype: "service-area"
-title: "Restoration Services in Framingham, MA | Quality Contracting, Inc."
+title: "Restoration Services in Framingham, MA | QCI Restoration"
 h1: "Restoration Services in Framingham"
 meta_description: "Serving Framingham, MA with water, fire, mold, and storm damage restoration. Experienced team. Call (508) 756-8800."
 primary_keyword: "restoration services framingham"
@@ -19,7 +19,7 @@ state: "MA"
 primary: false
 rendered: true
 ---
-Quality Contracting, Inc. handles water damage, fire and smoke damage, mold remediation, and reconstruction for homeowners and property managers throughout Framingham. Dispatching from Auburn, we reach Framingham via Route 20 and the Mass Pike (I-90), putting us well within practical range for prompt scheduling on any size loss, from a burst pipe in a finished basement to smoke damage that has worked its way into a home's framing and HVAC system.
+QCI Restoration handles water damage, fire and smoke damage, mold remediation, and reconstruction for homeowners and property managers throughout Framingham. Dispatching from Auburn, we reach Framingham via Route 20 and the Mass Pike (I-90), putting us well within practical range for prompt scheduling on any size loss, from a burst pipe in a finished basement to smoke damage that has worked its way into a home's framing and HVAC system.
 
 ## Restoration emergencies common in Framingham
 
@@ -55,4 +55,4 @@ Framingham's housing stock spans a wide range of construction eras. The older ne
 
 Soils across the Framingham area include glacial till and areas of fill near former industrial and wetland sites, which can behave unpredictably against basement walls when saturated. Structural repairs and significant reconstruction in Framingham require permits through the city's Building Department; work that affects structural members, electrical, or plumbing will typically trigger inspections. Massachusetts follows the International Building Code as adopted at the state level, and any scope involving potential lead or asbestos disturbance must be handled by appropriately certified contractors.
 
-Quality Contracting, Inc. is ready to help you move from an active loss to a finished repair. Call (508) 756-8800 to describe what you are dealing with and get a clear next step.
+QCI Restoration is ready to help you move from an active loss to a finished repair. Call (508) 756-8800 to describe what you are dealing with and get a clear next step.

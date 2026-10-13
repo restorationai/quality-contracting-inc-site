@@ -1,6 +1,6 @@
 ---
 archetype: "service-area-service"
-title: "Carpet Cleaning in Northborough, MA | Quality Contracting, Inc."
+title: "Carpet Cleaning in Northborough, MA | QCI Restoration"
 h1: "Carpet Cleaning in Northborough"
 meta_description: "Carpet cleaning in Northborough, MA. Insurance billing accepted. Call (508) 756-8800."
 primary_keyword: "carpet cleaning northborough"
@@ -38,4 +38,4 @@ Our crews run out to Northborough from our Auburn base along Route 20, which kee
 
 A lot of Northborough homes draw water from private wells rather than municipal supply, and well water here often carries more dissolved iron and minerals than town water systems elsewhere in the state. That matters for carpet cleaning because rinse water used during extraction needs to be checked for mineral content. If it isn't, iron in the water can leave a faint rust-colored tint on light carpet once it dries, something that looks like a new stain but is really a water-quality issue. We test and adjust for it on well-water properties so clients aren't left wondering why a freshly cleaned carpet picked up discoloration overnight.
 
-If your carpet is holding onto winter salt stains, basement dampness, or just years of regular wear, a professional carpet cleaning can reset it without the guesswork of rental machines or spot treatments that only mask the problem. Call Quality Contracting, Inc. at (508) 756-8800 to get a Northborough appointment on the schedule.
+If your carpet is holding onto winter salt stains, basement dampness, or just years of regular wear, a professional carpet cleaning can reset it without the guesswork of rental machines or spot treatments that only mask the problem. Call QCI Restoration at (508) 756-8800 to get a Northborough appointment on the schedule.

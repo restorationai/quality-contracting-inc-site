@@ -1,6 +1,6 @@
 ---
 archetype: "service-area-service"
-title: "Upholstery Cleaning in Hopkinton, MA | Quality Contracting, Inc."
+title: "Upholstery Cleaning in Hopkinton, MA | QCI Restoration"
 h1: "Upholstery Cleaning in Hopkinton"
 meta_description: "Upholstery cleaning in Hopkinton, MA. Insurance billing accepted. Call (508) 756-8800."
 primary_keyword: "upholstery cleaning hopkinton"
@@ -38,4 +38,4 @@ Our crews come out from Auburn, typically running up Route 9 or the Mass Pike to
 
 One thing we watch for specifically in Hopkinton: homes near Lake Maspenock and the surrounding wetter, lower-lying parcels tend to run a few degrees more humid indoors during July and August, which slows down drying time on water-based upholstery cleaning. On those jobs we'll often recommend a lower-moisture method or add extra air movement afterward so cushions aren't sitting damp overnight, which is exactly the kind of condition that lets mildew odor set into foam padding if it's missed.
 
-If your sofa, sectional, or leather recliner is holding onto smoke smell, pet odor, or stains that a store-bought spot cleaner won't touch, it's worth having it cleaned properly rather than replaced. Quality Contracting, Inc. handles fabric and leather upholstery cleaning throughout Hopkinton, and a call to (508) 756-8800 gets you a straightforward answer on what your furniture actually needs before we schedule anything.
+If your sofa, sectional, or leather recliner is holding onto smoke smell, pet odor, or stains that a store-bought spot cleaner won't touch, it's worth having it cleaned properly rather than replaced. QCI Restoration handles fabric and leather upholstery cleaning throughout Hopkinton, and a call to (508) 756-8800 gets you a straightforward answer on what your furniture actually needs before we schedule anything.

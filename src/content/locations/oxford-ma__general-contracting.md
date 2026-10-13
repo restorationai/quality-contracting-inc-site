@@ -1,6 +1,6 @@
 ---
 archetype: "service-area-service"
-title: "Renovations, Remodels and General Contracting in Oxford, MA | Quality Contracting, Inc."
+title: "Renovations, Remodels and General Contracting in Oxford, MA | QCI Restoration"
 h1: "Renovations, Remodels and General Contracting in Oxford"
 meta_description: "Renovations, remodels and general contracting in Oxford, MA. Insurance billing accepted. Call (508) 756-8800."
 primary_keyword: "renovations, remodels and general contracting oxford"
@@ -20,7 +20,7 @@ state: "MA"
 service_display: "Renovations, Remodels and General Contracting"
 rendered: true
 ---
-Renovating a home in Oxford means working around what the house has already been through: decades of New England winters, additions bolted onto older framing, and in some cases a kitchen or bathroom that needs to be rebuilt after water or fire damage rather than simply updated by choice. Quality Contracting handles both tracks, planned remodels and post-damage rebuilds, with the same attention to what's actually inside the walls before we start pulling anything out.
+Renovating a home in Oxford means working around what the house has already been through: decades of New England winters, additions bolted onto older framing, and in some cases a kitchen or bathroom that needs to be rebuilt after water or fire damage rather than simply updated by choice. QCI Restoration handles both tracks, planned remodels and post-damage rebuilds, with the same attention to what's actually inside the walls before we start pulling anything out.
 
 ## Why Oxford Properties See Renovation and Rebuild Needs
 
@@ -42,4 +42,4 @@ Most renovation and rebuild work in Oxford requires permits through the town's b
 
 Oxford's older homes, particularly ones built before mid-century, often have additions that were framed and insulated to a different standard than the original structure. When we open up a wall for a kitchen or bath remodel in one of these homes, it's common to find the addition's insulation thinner or missing compared to the original section, which explains a lot of the temperature complaints homeowners mention before we even start. We flag it during the walkthrough so it can be addressed in the same scope instead of becoming a surprise change order later.
 
-Whether you're planning a kitchen remodel, rebuilding a bathroom after water damage, or taking on a larger renovation in an older Oxford home, Quality Contracting can walk the property, scope the work, and handle the permitting that comes with it. Call (508) 756-8800 to set up a site visit.
+Whether you're planning a kitchen remodel, rebuilding a bathroom after water damage, or taking on a larger renovation in an older Oxford home, QCI Restoration can walk the property, scope the work, and handle the permitting that comes with it. Call (508) 756-8800 to set up a site visit.

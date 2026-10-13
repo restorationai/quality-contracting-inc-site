@@ -74,7 +74,7 @@ Insurance adjusters look for evidence that you took reasonable steps to limit th
 Once you've documented the damage and called your insurer, here's roughly what happens:
 
 - **You file a First Notice of Loss (FNOL).** This is the initial call or online report. Give the facts; don't speculate about cause.
-- **An adjuster is assigned.** In a widespread weather event, adjusters can be backlogged for days. A professional restoration company that works with insurance carriers, like Quality Contracting, Inc. at (508) 756-8800, can often help you document the scope of damage in a format adjusters recognize, which speeds the process.
+- **An adjuster is assigned.** In a widespread weather event, adjusters can be backlogged for days. A professional restoration company that works with insurance carriers, like QCI Restoration at (508) 756-8800, can often help you document the scope of damage in a format adjusters recognize, which speeds the process.
 - **A scope of work and estimate are prepared.** The adjuster will produce their own estimate. You have the right to get an independent estimate. If the numbers differ significantly, most policies have an appraisal clause that lets both sides bring in a neutral party.
 - **Actual Cash Value vs. Replacement Cost Value.** This is where homeowners get surprised. ACV pays what your damaged materials are worth *today* (depreciated). RCV pays what it costs to replace them with new materials. Check your policy, if you have ACV coverage, a 15-year-old hardwood floor will be settled for far less than the cost to reinstall it.
 - **You receive a payment (minus your deductible).** If you have a mortgage, your lender may be listed as a co-payee on the check, which adds a step.
@@ -91,4 +91,4 @@ If you're dealing with more than a small, contained spill, a professional moistu
 
 ---
 
-If you're in the Auburn area and you're still not sure whether your damage is covered, or you need documentation for a claim, Quality Contracting, Inc. can walk through the damage with you and help you understand what you're dealing with. Call (508) 756-8800 to talk through your situation.
+If you're in the Auburn area and you're still not sure whether your damage is covered, or you need documentation for a claim, QCI Restoration can walk through the damage with you and help you understand what you're dealing with. Call (508) 756-8800 to talk through your situation.

@@ -1,6 +1,6 @@
 ---
 archetype: "service-area-service"
-title: "Carpet Cleaning in Worcester, MA | Quality Contracting, Inc."
+title: "Carpet Cleaning in Worcester, MA | QCI Restoration"
 h1: "Carpet Cleaning in Worcester"
 meta_description: "Carpet cleaning in Worcester, MA. Insurance billing accepted. Call (508) 756-8800."
 primary_keyword: "carpet cleaning worcester"
@@ -38,4 +38,4 @@ Our crews run out of Auburn, which borders Worcester directly, so getting into t
 
 In Worcester's triple-decker stock, carpet is frequently laid directly over original hardwood that the owner intends to refinish down the road, so we flag any pad deterioration or moisture staining we find during extraction rather than cleaning over it. That hardwood is often original to the building's early-1900s construction, and catching a failing pad early protects the floor underneath instead of letting trapped moisture sit against it through another humid summer.
 
-If carpet in your Worcester home or building is holding onto winter salt stains, pet odor, or a musty smell that air freshener hasn't solved, a proper hot water extraction gets at what's actually embedded in the fibers and pad, not just what's on the surface. Call Quality Contracting, Inc. at (508) 756-8800 to get a cleaning scheduled for your Worcester property.
+If carpet in your Worcester home or building is holding onto winter salt stains, pet odor, or a musty smell that air freshener hasn't solved, a proper hot water extraction gets at what's actually embedded in the fibers and pad, not just what's on the surface. Call QCI Restoration at (508) 756-8800 to get a cleaning scheduled for your Worcester property.

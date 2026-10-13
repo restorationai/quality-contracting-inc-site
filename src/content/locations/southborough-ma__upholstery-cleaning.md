@@ -1,6 +1,6 @@
 ---
 archetype: "service-area-service"
-title: "Upholstery Cleaning in Southborough, MA | Quality Contracting, Inc."
+title: "Upholstery Cleaning in Southborough, MA | QCI Restoration"
 h1: "Upholstery Cleaning in Southborough"
 meta_description: "Upholstery cleaning in Southborough, MA. Insurance billing accepted. Call (508) 756-8800."
 primary_keyword: "upholstery cleaning southborough"

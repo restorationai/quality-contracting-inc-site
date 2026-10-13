@@ -1,6 +1,6 @@
 ---
 archetype: "service-area-service"
-title: "Mold Remediation in Hopkinton, MA | Quality Contracting, Inc."
+title: "Mold Remediation in Hopkinton, MA | QCI Restoration"
 h1: "Mold Remediation in Hopkinton"
 meta_description: "Mold remediation in Hopkinton, MA. Insurance billing accepted. Call (508) 756-8800."
 primary_keyword: "mold remediation hopkinton"
@@ -40,7 +40,7 @@ Documentation throughout, moisture readings, photos, material removal logs, is p
 
 ## Reaching Hopkinton from Auburn
 
-Quality Contracting, Inc. is based in Auburn, which puts Hopkinton roughly 20 minutes away via Route 20 West or I-290 West to I-495 South, depending on traffic and which part of town the job is in. The eastern side of Hopkinton, closer to Ashland, is typically a straightforward run. Calls can be scheduled during business hours at (508) 756-8800.
+QCI Restoration is based in Auburn, which puts Hopkinton roughly 20 minutes away via Route 20 West or I-290 West to I-495 South, depending on traffic and which part of town the job is in. The eastern side of Hopkinton, closer to Ashland, is typically a straightforward run. Calls can be scheduled during business hours at (508) 756-8800.
 
 ## Hopkinton Insurance Coordination
 
@@ -50,4 +50,4 @@ Mold claims in Massachusetts can be complicated by policy language that distingu
 
 Hopkinton's older homes along the town center corridor frequently have attic ventilation details that were standard practice decades ago but are now understood to cause chronic moisture problems: ridge vents installed without corresponding soffit intake vents, or bathroom fans that terminate into the attic rather than through the roof deck. When mold appears in an attic here, it is often a ventilation problem masquerading as a roofing problem. Correcting the mold without correcting the airflow just restarts the clock. Any attic remediation in Hopkinton should include a ventilation audit as part of the scope, otherwise the same conditions that grew the mold the first time will still be present when the job is done.
 
-If you are seeing discoloration on ceiling drywall, a persistent musty smell in a finished basement, or visible growth near a foundation wall or crawl space hatch, call Quality Contracting, Inc. at (508) 756-8800 to schedule an assessment. Getting an accurate picture of what is actually present, and what is feeding it, is the only reliable starting point for mold remediation in Hopkinton.
+If you are seeing discoloration on ceiling drywall, a persistent musty smell in a finished basement, or visible growth near a foundation wall or crawl space hatch, call QCI Restoration at (508) 756-8800 to schedule an assessment. Getting an accurate picture of what is actually present, and what is feeding it, is the only reliable starting point for mold remediation in Hopkinton.

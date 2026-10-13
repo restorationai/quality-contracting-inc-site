@@ -1,6 +1,6 @@
 ---
 archetype: "service-area"
-title: "Restoration Services in Brookfield, MA | Quality Contracting, Inc."
+title: "Restoration Services in Brookfield, MA | QCI Restoration"
 h1: "Restoration Services in Brookfield"
 meta_description: "Serving Brookfield, MA with water, fire, mold, and storm damage restoration. Experienced team. Call (508) 756-8800."
 primary_keyword: "restoration services brookfield"
@@ -19,7 +19,7 @@ state: "MA"
 primary: false
 rendered: true
 ---
-Quality Contracting, Inc. handles water damage, fire and smoke cleanup, mold remediation, storm damage, and the reconstruction that follows for homeowners and property managers throughout Brookfield. We're based in Auburn, a short drive east on Route 9, and we scope the work, document it for your insurance carrier, and get the rebuild moving without a second contractor handoff.
+QCI Restoration handles water damage, fire and smoke cleanup, mold remediation, storm damage, and the reconstruction that follows for homeowners and property managers throughout Brookfield. We're based in Auburn, a short drive east on Route 9, and we scope the work, document it for your insurance carrier, and get the rebuild moving without a second contractor handoff.
 
 ## Restoration emergencies common in Brookfield
 
@@ -47,4 +47,4 @@ Much of Brookfield's housing dates to the 18th and 19th centuries, with wood-fra
 
 The area's rocky, glacial-till soil and proximity to the Quaboag River and ponds mean some lots hold water longer than others, which matters for grading and drainage work after a flood loss. Building permits for structural repair or rebuild go through the Town of Brookfield's building department, under the Massachusetts State Building Code, and any work touching pre-1978 painted surfaces needs to account for lead-safe practices.
 
-If water, fire, or storm damage has hit your Brookfield property, call Quality Contracting, Inc. at (508) 756-8800. We'll walk the property, document the damage for your insurance claim, and give you a straight plan for drying, cleanup, and rebuild.
+If water, fire, or storm damage has hit your Brookfield property, call QCI Restoration at (508) 756-8800. We'll walk the property, document the damage for your insurance claim, and give you a straight plan for drying, cleanup, and rebuild.

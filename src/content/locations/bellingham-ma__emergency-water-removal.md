@@ -1,6 +1,6 @@
 ---
 archetype: "service-area-service"
-title: "Emergency Water Removal & Cleanup in Bellingham, MA | Quality Contracting, Inc."
+title: "Emergency Water Removal & Cleanup in Bellingham, MA | QCI Restoration"
 h1: "Emergency Water Removal & Cleanup in Bellingham"
 meta_description: "Emergency water removal & cleanup in Bellingham, MA. Insurance billing accepted. Call (508) 756-8800."
 primary_keyword: "emergency water removal & cleanup bellingham"
@@ -44,4 +44,4 @@ Most homeowner's policies cover sudden water damage from a burst pipe or applian
 
 A detail that catches a lot of Bellingham homeowners off guard: homes built on the town's older fieldstone foundations often have gaps between stones that were never meant to be watertight in the first place, they relied on grading and gravity to keep water moving away from the house. Once that grading settles or a downspout gets redirected during landscaping work, water finds the path of least resistance straight through the foundation, which is why basement flooding in these homes can show up along one wall only, not all four.
 
-If your Bellingham basement, kitchen, or crawlspace has standing water right now, call Quality Contracting, Inc. at (508) 756-8800. The faster extraction starts, the less of your home's structure ends up on the demolition list instead of the drying list.
+If your Bellingham basement, kitchen, or crawlspace has standing water right now, call QCI Restoration at (508) 756-8800. The faster extraction starts, the less of your home's structure ends up on the demolition list instead of the drying list.

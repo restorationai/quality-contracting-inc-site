@@ -1,6 +1,6 @@
 ---
 archetype: "service-area-service"
-title: "Emergency Storm Damage Restoration in Newton, MA | Quality Contracting, Inc."
+title: "Emergency Storm Damage Restoration in Newton, MA | QCI Restoration"
 h1: "Emergency Storm Damage Restoration in Newton"
 meta_description: "Emergency storm damage restoration in Newton, MA. Insurance billing accepted. Call (508) 756-8800."
 primary_keyword: "storm damage restoration newton"
@@ -23,7 +23,7 @@ rendered: true
 <!-- emergency-open -->
 **Storm damage emergency in Newton? Call now for emergency service.** Our crew responds fast to secure the property and stop further damage.
 
-Newton sits in one of Massachusetts' most storm-exposed suburban corridors, where nor'easters rolling in off the Atlantic can drop a foot of wet snow overnight and summer thunderstorms routinely topple the mature oaks and maples that line the city's older residential streets. When a tree comes through a roof or a microburst peels back siding, the clock starts immediately, water follows the path of least resistance into wall cavities, attic insulation, and the plaster ceilings common in Newton's pre-war housing stock. Quality Contracting, Inc. responds to storm damage calls across Newton and coordinates the full scope of work from emergency board-up through structural repair.
+Newton sits in one of Massachusetts' most storm-exposed suburban corridors, where nor'easters rolling in off the Atlantic can drop a foot of wet snow overnight and summer thunderstorms routinely topple the mature oaks and maples that line the city's older residential streets. When a tree comes through a roof or a microburst peels back siding, the clock starts immediately, water follows the path of least resistance into wall cavities, attic insulation, and the plaster ceilings common in Newton's pre-war housing stock. QCI Restoration responds to storm damage calls across Newton and coordinates the full scope of work from emergency board-up through structural repair.
 
 ## Why Newton Properties See Significant Storm Damage
 
@@ -49,7 +49,7 @@ Once the scope is clear, the sequence typically runs:
 
 ## Reaching Newton from Auburn
 
-Quality Contracting, Inc. is based in Auburn, MA, which puts Newton roughly 30 to 40 minutes out via the Massachusetts Turnpike (I-90 East). We serve the full city, from the denser, older housing near Newton Centre and Newtonville to the larger lots and more recent construction on the western edges of the city. When you call (508) 756-8800, we'll confirm scheduling and give you a realistic arrival window based on current conditions.
+QCI Restoration is based in Auburn, MA, which puts Newton roughly 30 to 40 minutes out via the Massachusetts Turnpike (I-90 East). We serve the full city, from the denser, older housing near Newton Centre and Newtonville to the larger lots and more recent construction on the western edges of the city. When you call (508) 756-8800, we'll confirm scheduling and give you a realistic arrival window based on current conditions.
 
 ## Newton Insurance Coordination
 
@@ -61,4 +61,4 @@ If your policy includes code-upgrade coverage, permitted repairs in Newton that 
 
 Newton's older neighborhoods contain a notable number of homes with original slate roofing, and slate behaves very differently from asphalt shingles after storm damage. A few cracked or displaced slates do not mean the roof needs full replacement, slate roofs routinely last a century or more when the individual damaged pieces are replaced and the copper or lead flashings are maintained. Calling for a full tear-off on a repairable slate roof is both unnecessary and a loss of a durable, historically appropriate material. When we assess storm damage on a slate roof in Newton, we evaluate whether targeted repair is viable before recommending replacement.
 
-If storm damage has left your Newton home exposed or your interior wet, call Quality Contracting, Inc. at (508) 756-8800 to schedule an assessment. We handle the full process, from the first tarp to the last coat of paint, so you're not managing multiple contractors through a stressful claim.
+If storm damage has left your Newton home exposed or your interior wet, call QCI Restoration at (508) 756-8800 to schedule an assessment. We handle the full process, from the first tarp to the last coat of paint, so you're not managing multiple contractors through a stressful claim.

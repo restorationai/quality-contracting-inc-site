@@ -1,6 +1,6 @@
 ---
 archetype: "service-area"
-title: "Restoration Services in Hopedale, MA | Quality Contracting, Inc."
+title: "Restoration Services in Hopedale, MA | QCI Restoration"
 h1: "Restoration Services in Hopedale"
 meta_description: "Serving Hopedale, MA with water, fire, mold, and storm damage restoration. Experienced team. Call (508) 756-8800."
 primary_keyword: "restoration services hopedale"
@@ -19,7 +19,7 @@ state: "MA"
 primary: false
 rendered: true
 ---
-Quality Contracting, Inc. handles water damage, fire and smoke cleanup, mold remediation, storm response, and the reconstruction that follows, for homeowners and property managers throughout Hopedale, Massachusetts. We work directly with insurance carriers on documentation and scope, so a damaged basement or a burst supply line doesn't turn into a billing fight on top of everything else.
+QCI Restoration handles water damage, fire and smoke cleanup, mold remediation, storm response, and the reconstruction that follows, for homeowners and property managers throughout Hopedale, Massachusetts. We work directly with insurance carriers on documentation and scope, so a damaged basement or a burst supply line doesn't turn into a billing fight on top of everything else.
 
 ## Restoration emergencies common in Hopedale
 
@@ -45,4 +45,4 @@ Much of Hopedale's housing dates to the late 1800s and early 1900s, built as wor
 
 Massachusetts building code governs structural repair and rebuild work in Hopedale, and any reconstruction involving framing, electrical, or plumbing typically requires a permit through the town's building department before work starts. We handle that coordination as part of the reconstruction scope so homeowners aren't tracking down permits mid-repair.
 
-If water, fire, or storm damage has hit your Hopedale property, call Quality Contracting, Inc. at (508) 756-8800. We'll walk the property, document the damage for your insurance claim, and get the right equipment and crew on-site to stop the loss from getting worse.
+If water, fire, or storm damage has hit your Hopedale property, call QCI Restoration at (508) 756-8800. We'll walk the property, document the damage for your insurance claim, and get the right equipment and crew on-site to stop the loss from getting worse.

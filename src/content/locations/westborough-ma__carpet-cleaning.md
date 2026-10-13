@@ -1,6 +1,6 @@
 ---
 archetype: "service-area-service"
-title: "Carpet Cleaning in Westborough, MA | Quality Contracting, Inc."
+title: "Carpet Cleaning in Westborough, MA | QCI Restoration"
 h1: "Carpet Cleaning in Westborough"
 meta_description: "Carpet cleaning in Westborough, MA. Insurance billing accepted. Call (508) 756-8800."
 primary_keyword: "carpet cleaning westborough"

@@ -1,6 +1,6 @@
 ---
 archetype: "service-area-service"
-title: "Mold Remediation in Shrewsbury, MA | Quality Contracting, Inc."
+title: "Mold Remediation in Shrewsbury, MA | QCI Restoration"
 h1: "Mold Remediation in Shrewsbury"
 meta_description: "Mold remediation in Shrewsbury, MA. Insurance billing accepted. Call (508) 756-8800."
 primary_keyword: "mold remediation shrewsbury"
@@ -20,7 +20,7 @@ state: "MA"
 service_display: "Mold Remediation"
 rendered: true
 ---
-Shrewsbury's lakefront geography creates a mold problem that's easy to underestimate. Homes along the Lake Quinsigamond shoreline sit close to the water table year-round, and when a basement wall seeps or a sump pump fails, the moisture doesn't just dry on its own, it migrates into framing, insulation, and subfloor assemblies within 24 to 48 hours. Quality Contracting, Inc. handles mold remediation throughout Shrewsbury (01545 and 01546), working in the postwar capes and ranches that dominate neighborhoods like Edgemere as well as the newer subdivisions closer to the Route 9 corridor.
+Shrewsbury's lakefront geography creates a mold problem that's easy to underestimate. Homes along the Lake Quinsigamond shoreline sit close to the water table year-round, and when a basement wall seeps or a sump pump fails, the moisture doesn't just dry on its own, it migrates into framing, insulation, and subfloor assemblies within 24 to 48 hours. QCI Restoration handles mold remediation throughout Shrewsbury (01545 and 01546), working in the postwar capes and ranches that dominate neighborhoods like Edgemere as well as the newer subdivisions closer to the Route 9 corridor.
 
 ## Why Shrewsbury Properties See Mold Issues
 
@@ -40,7 +40,7 @@ After physical removal, affected structural surfaces are HEPA-vacuumed and treat
 
 ## Reaching Shrewsbury from Auburn
 
-Quality Contracting's Auburn headquarters puts Shrewsbury within easy reach via Route 20 east to Route 9, a straightforward run under normal traffic conditions. For properties near the White City Shopping Center or along the Lake Quinsigamond shoreline, Route 9 east across the Kenneth F. Burns Bridge is the most direct approach. Call us at (508) 756-8800 to schedule an assessment; we'll confirm availability and give you an honest arrival window based on current crew scheduling.
+QCI Restoration's Auburn headquarters puts Shrewsbury within easy reach via Route 20 east to Route 9, a straightforward run under normal traffic conditions. For properties near the White City Shopping Center or along the Lake Quinsigamond shoreline, Route 9 east across the Kenneth F. Burns Bridge is the most direct approach. Call us at (508) 756-8800 to schedule an assessment; we'll confirm availability and give you an honest arrival window based on current crew scheduling.
 
 ## Local Note: SELCO and Dehumidification Runtime
 
@@ -48,4 +48,4 @@ Shrewsbury runs its own municipal electric utility, SELCO (Shrewsbury Electric a
 
 If mold growth has reached into finished living spaces or you're dealing with a recurring moisture problem that keeps coming back after previous cleanup attempts, the underlying moisture source, not just the visible mold, is what needs to be addressed. Remediation without fixing the entry point is a temporary solution at best.
 
-Call Quality Contracting, Inc. at (508) 756-8800 to schedule a mold assessment for your Shrewsbury property. We'll document what we find, explain the scope clearly, and give you a written remediation plan before any work begins.
+Call QCI Restoration at (508) 756-8800 to schedule a mold assessment for your Shrewsbury property. We'll document what we find, explain the scope clearly, and give you a written remediation plan before any work begins.

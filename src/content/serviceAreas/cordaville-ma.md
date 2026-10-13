@@ -1,6 +1,6 @@
 ---
 archetype: "service-area"
-title: "Restoration Services in Cordaville, MA | Quality Contracting, Inc."
+title: "Restoration Services in Cordaville, MA | QCI Restoration"
 h1: "Restoration Services in Cordaville"
 meta_description: "Serving Cordaville, MA with water, fire, mold, and storm damage restoration. Experienced team. Call (508) 756-8800."
 primary_keyword: "restoration services cordaville"
@@ -12,14 +12,14 @@ generated_at: "2026-10-05T20:25:20.214288+00:00"
 manual_override: false
 internal_links: ["/service-areas/", "/contact/", "/service-areas/cordaville-ma/water-damage-restoration/", "/service-areas/auburn-ma/", "/service-areas/bellingham-ma/", "/service-areas/brookfield-ma/"]
 breadcrumb: [{"name": "Home", "url": "/"}, {"name": "Service Areas", "url": "/service-areas/"}, {"name": "Cordaville"}]
-faq: [{"question": "How quickly can you respond to a water damage call in Cordaville?", "answer": "We dispatch from our Auburn, MA location and travel to Cordaville via the Mass Pike corridor, so response is generally prompt during business hours. We don't promise a specific on-site time over the phone, but we'll give you a realistic estimate once we know the scope of the issue."}, {"question": "What restoration services does Quality Contracting, Inc. offer in Cordaville?", "answer": "We handle water damage and extraction, fire and smoke cleanup, mold remediation, and storm damage response including emergency board-up and tarping. Each job starts with an assessment so the scope matches what's actually happening in your home or building."}, {"question": "Does Cordaville's older housing stock affect how a restoration job is handled?", "answer": "Yes. Many homes in the area have plaster-and-lath walls, galvanized or early copper plumbing, and foundations prone to slow-seep moisture, all of which change how we approach drying, demolition, and material disposal compared to a newer build. We factor that in before we start any work, not after."}, {"question": "Will you work directly with my insurance company or property manager for a Cordaville property?", "answer": "We document the loss with photos and detailed notes and can communicate directly with your adjuster or property manager to keep the claims process moving. If you manage multiple units or buildings in the Cordaville area, we can coordinate scheduling across properties as needed."}]
+faq: [{"question": "How quickly can you respond to a water damage call in Cordaville?", "answer": "We dispatch from our Auburn, MA location and travel to Cordaville via the Mass Pike corridor, so response is generally prompt during business hours. We don't promise a specific on-site time over the phone, but we'll give you a realistic estimate once we know the scope of the issue."}, {"question": "What restoration services does QCI Restoration offer in Cordaville?", "answer": "We handle water damage and extraction, fire and smoke cleanup, mold remediation, and storm damage response including emergency board-up and tarping. Each job starts with an assessment so the scope matches what's actually happening in your home or building."}, {"question": "Does Cordaville's older housing stock affect how a restoration job is handled?", "answer": "Yes. Many homes in the area have plaster-and-lath walls, galvanized or early copper plumbing, and foundations prone to slow-seep moisture, all of which change how we approach drying, demolition, and material disposal compared to a newer build. We factor that in before we start any work, not after."}, {"question": "Will you work directly with my insurance company or property manager for a Cordaville property?", "answer": "We document the loss with photos and detailed notes and can communicate directly with your adjuster or property manager to keep the claims process moving. If you manage multiple units or buildings in the Cordaville area, we can coordinate scheduling across properties as needed."}]
 area_slug: "cordaville-ma"
 city: "Cordaville"
 state: "MA"
 primary: false
 rendered: true
 ---
-Quality Contracting, Inc. handles water damage, fire and smoke cleanup, mold remediation, and storm recovery for homeowners and property managers in Cordaville. Our crews work directly with your insurance carrier, document the loss thoroughly, and get materials drying or debris cleared so the property can get back to normal with as little disruption as possible.
+QCI Restoration handles water damage, fire and smoke cleanup, mold remediation, and storm recovery for homeowners and property managers in Cordaville. Our crews work directly with your insurance carrier, document the loss thoroughly, and get materials drying or debris cleared so the property can get back to normal with as little disruption as possible.
 
 ## Restoration emergencies common in Cordaville
 
@@ -45,4 +45,4 @@ Much of the housing stock in and around Cordaville dates to the mid-20th century
 
 The region's clay and glacial till soils drain slowly, which keeps foundation walls under sustained hydrostatic pressure during wet seasons and contributes to the slow-seep basement moisture that's common locally. Structural repairs and any rebuild work fall under the Massachusetts State Building Code, with permits issued through the local building department; work that touches load-bearing framing, electrical, or plumbing typically triggers a permit regardless of project size.
 
-If water, fire, smoke, or mold has already taken hold in your Cordaville home or building, don't wait for it to spread further into framing or finishes. Call Quality Contracting, Inc. at (508) 756-8800 to walk through what you're seeing and get a plan moving.
+If water, fire, smoke, or mold has already taken hold in your Cordaville home or building, don't wait for it to spread further into framing or finishes. Call QCI Restoration at (508) 756-8800 to walk through what you're seeing and get a plan moving.

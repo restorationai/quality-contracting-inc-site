@@ -1,6 +1,6 @@
 ---
 archetype: "service-area-service"
-title: "Carpet Cleaning in Newton, MA | Quality Contracting, Inc."
+title: "Carpet Cleaning in Newton, MA | QCI Restoration"
 h1: "Carpet Cleaning in Newton"
 meta_description: "Carpet cleaning in Newton, MA. Insurance billing accepted. Call (508) 756-8800."
 primary_keyword: "carpet cleaning newton"
@@ -20,7 +20,7 @@ state: "MA"
 service_display: "Carpet Cleaning"
 rendered: true
 ---
-Carpet in a Newton home built before 1960 behaves differently under a cleaning wand than carpet laid over a newer slab foundation across town. Many of Newton's older houses have original subfloors and horsehair padding still sitting under replacement carpet, and that older padding holds moisture far longer than modern synthetic pad. Add Massachusetts winters, where salt, sand, and slush get tracked in for months at a time, and carpet fiber takes a beating that a quick vacuum never fully resolves. Quality Contracting, Inc. cleans carpet for Newton homeowners and property managers who want the grit, salt residue, and seasonal buildup actually pulled out of the fiber, not just pushed around.
+Carpet in a Newton home built before 1960 behaves differently under a cleaning wand than carpet laid over a newer slab foundation across town. Many of Newton's older houses have original subfloors and horsehair padding still sitting under replacement carpet, and that older padding holds moisture far longer than modern synthetic pad. Add Massachusetts winters, where salt, sand, and slush get tracked in for months at a time, and carpet fiber takes a beating that a quick vacuum never fully resolves. QCI Restoration cleans carpet for Newton homeowners and property managers who want the grit, salt residue, and seasonal buildup actually pulled out of the fiber, not just pushed around.
 
 ## Why Newton Properties See Heavier Carpet Wear
 
@@ -38,4 +38,4 @@ Property managers overseeing apartment buildings, office suites, or condo common
 
 One pattern we see across Newton's older homes: carpet installed directly over original wood flooring, sometimes without any pad at all, which was a common cost-saving choice in mid-century renovations. That setup extracts cleanly but dries faster than carpet over modern pad, so we shorten dwell time and keep a closer eye on moisture readings to avoid driving water into the wood below. It's a small adjustment, but skipping it on an older Newton floor can mean cupping or staining in the boards underneath months after the carpet itself looks fine.
 
-If your carpet is holding onto winter salt stains, pet odor, or just years of foot traffic, Quality Contracting, Inc. can schedule a deep clean for your Newton home or building. Call (508) 756-8800 to set up a visit, and we'll walk the space with you before we start so you know exactly what the process will involve.
+If your carpet is holding onto winter salt stains, pet odor, or just years of foot traffic, QCI Restoration can schedule a deep clean for your Newton home or building. Call (508) 756-8800 to set up a visit, and we'll walk the space with you before we start so you know exactly what the process will involve.

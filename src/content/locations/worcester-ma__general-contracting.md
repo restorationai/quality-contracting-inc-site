@@ -1,6 +1,6 @@
 ---
 archetype: "service-area-service"
-title: "Renovations, Remodels and General Contracting in Worcester, MA | Quality Contracting, Inc."
+title: "Renovations, Remodels and General Contracting in Worcester, MA | QCI Restoration"
 h1: "Renovations, Remodels and General Contracting in Worcester"
 meta_description: "Renovations, remodels and general contracting in Worcester, MA. Insurance billing accepted. Call (508) 756-8800."
 primary_keyword: "renovations, remodels and general contracting worcester"
@@ -38,4 +38,4 @@ When a remodel follows a covered loss, documentation matters as much as the cons
 
 In a lot of Worcester's older triple-deckers, the plaster ceilings on the top floor were never insulated above them the way code would require today. When we open those ceilings for a kitchen or bath remodel, we're almost always finding minimal or settled insulation, which is worth addressing while the ceiling is already open rather than closing it back up and leaving an energy problem in place. It's a small addition to the scope that homeowners rarely ask for by name but are glad to have once a Worcester winter sets in.
 
-If you're planning a kitchen remodel, a bathroom overhaul, or a full rebuild after damage to a Worcester property, Quality Contracting, Inc. can walk the space with you and build a scope that matches what's actually behind the walls, not just what's on the surface. Call (508) 756-8800 from our Auburn office to get a project started.
+If you're planning a kitchen remodel, a bathroom overhaul, or a full rebuild after damage to a Worcester property, QCI Restoration can walk the space with you and build a scope that matches what's actually behind the walls, not just what's on the surface. Call (508) 756-8800 from our Auburn office to get a project started.

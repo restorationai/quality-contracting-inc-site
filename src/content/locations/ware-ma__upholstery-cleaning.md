@@ -1,6 +1,6 @@
 ---
 archetype: "service-area-service"
-title: "Upholstery Cleaning in Ware, MA | Quality Contracting, Inc."
+title: "Upholstery Cleaning in Ware, MA | QCI Restoration"
 h1: "Upholstery Cleaning in Ware"
 meta_description: "Upholstery cleaning in Ware, MA. Insurance billing accepted. Call (508) 756-8800."
 primary_keyword: "upholstery cleaning ware"
@@ -38,4 +38,4 @@ Our crews travel out from Auburn, usually along Route 9 or down through Route 32
 
 One thing that trips up a lot of out-of-town cleaning crews: homes close to the Ware River and the reservoir watershed hold onto ambient moisture longer than you'd expect for central Massachusetts, even on a dry-looking day. We've learned to run extra air movement on upholstery jobs in those areas so the fill inside cushions actually dries instead of just the surface fabric, which is what causes that faint mildew smell to show up a week later if it's skipped.
 
-If your sofa, sectional, or leather chair in Ware is holding onto winter soot, pet odor, or just years of daily use, call Quality Contracting, Inc. at (508) 756-8800 to get upholstery cleaning scheduled around your week, not a stranger's convenience.
+If your sofa, sectional, or leather chair in Ware is holding onto winter soot, pet odor, or just years of daily use, call QCI Restoration at (508) 756-8800 to get upholstery cleaning scheduled around your week, not a stranger's convenience.

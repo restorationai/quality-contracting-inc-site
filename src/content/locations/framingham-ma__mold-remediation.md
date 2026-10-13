@@ -1,6 +1,6 @@
 ---
 archetype: "service-area-service"
-title: "Mold Remediation in Framingham, MA | Quality Contracting, Inc."
+title: "Mold Remediation in Framingham, MA | QCI Restoration"
 h1: "Mold Remediation in Framingham"
 meta_description: "Mold remediation in Framingham, MA. Insurance billing accepted. Call (508) 756-8800."
 primary_keyword: "mold remediation framingham"
@@ -36,7 +36,7 @@ Once the scope is clear, containment goes up, plastic sheeting and negative air 
 
 ## Reaching Framingham from Auburn
 
-Quality Contracting, Inc. is based in Auburn, MA, which puts Framingham well within our regular service area. Route 20 connects Auburn to Framingham directly, and I-290 to the Mass Pike (I-90) provides a fast corridor when traffic allows. Framingham is a large town geographically, so travel time varies depending on where the property sits, reaching properties near the Framingham/Natick line on the south side differs from reaching addresses up near the Sudbury border. Call (508) 756-8800 to discuss scheduling and we'll give you a realistic arrival window based on current conditions.
+QCI Restoration is based in Auburn, MA, which puts Framingham well within our regular service area. Route 20 connects Auburn to Framingham directly, and I-290 to the Mass Pike (I-90) provides a fast corridor when traffic allows. Framingham is a large town geographically, so travel time varies depending on where the property sits, reaching properties near the Framingham/Natick line on the south side differs from reaching addresses up near the Sudbury border. Call (508) 756-8800 to discuss scheduling and we'll give you a realistic arrival window based on current conditions.
 
 ## Framingham Insurance & HOA Coordination
 
@@ -46,4 +46,4 @@ Mold claims in Massachusetts are handled inconsistently across carriers, some po
 
 Framingham has a significant inventory of homes built in the 1940s through 1960s that were constructed with minimal vapor barriers in the crawlspace or basement, a standard practice at the time that wasn't designed for today's understanding of moisture management. In these homes, the source of chronic mold in first-floor wall cavities is often not a plumbing leak at all, but ground moisture migrating upward through an unencapsulated crawlspace. If you're seeing recurring mold in a lower-level room and previous remediation hasn't held, the crawlspace is worth a close look before any further work begins.
 
-If mold is a concern at your Framingham property, the right move is an inspection before the problem spreads to adjacent materials. Call Quality Contracting, Inc. at (508) 756-8800 to schedule an assessment, the sooner the moisture source and affected area are identified, the more contained the remediation scope tends to be.
+If mold is a concern at your Framingham property, the right move is an inspection before the problem spreads to adjacent materials. Call QCI Restoration at (508) 756-8800 to schedule an assessment, the sooner the moisture source and affected area are identified, the more contained the remediation scope tends to be.

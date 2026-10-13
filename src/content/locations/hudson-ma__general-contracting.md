@@ -1,6 +1,6 @@
 ---
 archetype: "service-area-service"
-title: "Renovations, Remodels and General Contracting in Hudson, MA | Quality Contracting, Inc."
+title: "Renovations, Remodels and General Contracting in Hudson, MA | QCI Restoration"
 h1: "Renovations, Remodels and General Contracting in Hudson"
 meta_description: "Renovations, remodels and general contracting in Hudson, MA. Insurance billing accepted. Call (508) 756-8800."
 primary_keyword: "renovations, remodels and general contracting hudson"
@@ -22,7 +22,7 @@ rendered: true
 ---
 ## Renovations, Remodels and General Contracting in Hudson, MA
 
-Hudson's housing stock runs the gamut from converted mill worker cottages near the Assabet River to newer construction off Route 62, and that mix changes what a renovation actually involves. A kitchen gut job in a century-old frame house means dealing with balloon framing and knob-and-tube remnants before a single cabinet goes in; the same project in a 1990s build is mostly cosmetic. Quality Contracting, Inc. plans around that difference from the first walkthrough, whether the job is a straightforward remodel or a rebuild following fire or water damage.
+Hudson's housing stock runs the gamut from converted mill worker cottages near the Assabet River to newer construction off Route 62, and that mix changes what a renovation actually involves. A kitchen gut job in a century-old frame house means dealing with balloon framing and knob-and-tube remnants before a single cabinet goes in; the same project in a 1990s build is mostly cosmetic. QCI Restoration plans around that difference from the first walkthrough, whether the job is a straightforward remodel or a rebuild following fire or water damage.
 
 ### Why Hudson Homes Need a Tailored Approach
 
@@ -40,4 +40,4 @@ A post-damage rebuild in Hudson usually starts with an insurance scope that cove
 
 Homes close to the Assabet River corridor in Hudson often sit on shallower foundations or have basements that have taken on water at some point, even if there's no visible damage now. When we're remodeling a lower level or finishing a basement in that part of town, we check for old moisture staining on sill plates and joists before we frame anything new over it, because closing up a damp structural member behind fresh drywall is the kind of mistake that costs far more to fix later than it would have cost to catch upfront.
 
-If you're planning a kitchen remodel, a bathroom overhaul, or rebuilding after fire or water damage anywhere in Hudson, Quality Contracting, Inc. can walk the property, separate what's cosmetic from what's structural, and give you a scope that reflects what's actually behind your walls, not a generic estimate. Call (508) 756-8800 to set up a walkthrough.
+If you're planning a kitchen remodel, a bathroom overhaul, or rebuilding after fire or water damage anywhere in Hudson, QCI Restoration can walk the property, separate what's cosmetic from what's structural, and give you a scope that reflects what's actually behind your walls, not a generic estimate. Call (508) 756-8800 to set up a walkthrough.

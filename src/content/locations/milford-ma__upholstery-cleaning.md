@@ -1,6 +1,6 @@
 ---
 archetype: "service-area-service"
-title: "Upholstery Cleaning in Milford, MA | Quality Contracting, Inc."
+title: "Upholstery Cleaning in Milford, MA | QCI Restoration"
 h1: "Upholstery Cleaning in Milford"
 meta_description: "Upholstery cleaning in Milford, MA. Insurance billing accepted. Call (508) 756-8800."
 primary_keyword: "upholstery cleaning milford"

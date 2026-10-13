@@ -1,6 +1,6 @@
 ---
 archetype: "service-area-service"
-title: "Renovations, Remodels and General Contracting in Weston, MA | Quality Contracting, Inc."
+title: "Renovations, Remodels and General Contracting in Weston, MA | QCI Restoration"
 h1: "Renovations, Remodels and General Contracting in Weston"
 meta_description: "Renovations, remodels and general contracting in Weston, MA. Insurance billing accepted. Call (508) 756-8800."
 primary_keyword: "renovations, remodels and general contracting weston"
@@ -20,7 +20,7 @@ state: "MA"
 service_display: "Renovations, Remodels and General Contracting"
 rendered: true
 ---
-Renovating a home in Weston usually means working within the constraints of a large, older lot and a house that was likely built well before current codes existed. Whether you're opening up a kitchen in a 1930s colonial off Route 30, converting a tired basement into livable space, or rebuilding a section of a house after storm or water damage, the work has to respect both the structure's age and Weston's larger-lot residential character. Quality Contracting, Inc. handles renovations, remodels, and general contracting across Weston with that context built into the plan from day one.
+Renovating a home in Weston usually means working within the constraints of a large, older lot and a house that was likely built well before current codes existed. Whether you're opening up a kitchen in a 1930s colonial off Route 30, converting a tired basement into livable space, or rebuilding a section of a house after storm or water damage, the work has to respect both the structure's age and Weston's larger-lot residential character. QCI Restoration handles renovations, remodels, and general contracting across Weston with that context built into the plan from day one.
 
 ## Why Weston Properties Need a Different Renovation Approach
 
@@ -38,4 +38,4 @@ When a remodel is actually a rebuild, meaning a kitchen, bathroom, or finished b
 
 A good number of Weston's older homes were built with fieldstone or rubble foundations that were never intended to be fully finished living space. When a basement remodel or post-flood rebuild calls for finishing that space, we typically recommend an interior drainage and vapor barrier approach rather than simply framing directly against the stone, since moisture migrates through those foundations differently than it does through poured concrete. Skipping that step is one of the more common reasons a finished Weston basement develops problems a few years down the line.
 
-If you're planning a kitchen remodel, a bathroom update, or a full rebuild after damage to a Weston property, Quality Contracting, Inc. can walk the house with you and put together a scope that accounts for the home's age, the lot, and what the town's permitting process will actually require. Call (508) 756-8800 to set up a time to meet on site.
+If you're planning a kitchen remodel, a bathroom update, or a full rebuild after damage to a Weston property, QCI Restoration can walk the house with you and put together a scope that accounts for the home's age, the lot, and what the town's permitting process will actually require. Call (508) 756-8800 to set up a time to meet on site.

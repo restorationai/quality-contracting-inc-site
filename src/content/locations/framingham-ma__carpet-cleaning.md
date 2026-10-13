@@ -1,6 +1,6 @@
 ---
 archetype: "service-area-service"
-title: "Carpet Cleaning in Framingham, MA | Quality Contracting, Inc."
+title: "Carpet Cleaning in Framingham, MA | QCI Restoration"
 h1: "Carpet Cleaning in Framingham"
 meta_description: "Carpet cleaning in Framingham, MA. Insurance billing accepted. Call (508) 756-8800."
 primary_keyword: "carpet cleaning framingham"
@@ -38,4 +38,4 @@ Auburn to Framingham is a straight run up I-90, and that access lets us schedule
 
 One thing that catches homeowners off guard: carpet in Framingham's older homes, especially places with original plaster walls and minimal subfloor ventilation, dries slower than the same carpet would in newer construction. The plaster and tighter crawlspaces common in pre-1960s Framingham housing hold ambient humidity longer, so we often recommend a slightly lower water volume during extraction on these jobs and compensate with stronger air movement rather than pushing more moisture into carpet that's already slow to release it.
 
-If your carpet is holding onto winter grit, pet odor, or just looks tired after another MetroWest season, Quality Contracting can get it properly extracted and sanitized rather than just surface-cleaned. Call (508) 756-8800 to set up carpet cleaning for your Framingham home or business.
+If your carpet is holding onto winter grit, pet odor, or just looks tired after another MetroWest season, QCI Restoration can get it properly extracted and sanitized rather than just surface-cleaned. Call (508) 756-8800 to set up carpet cleaning for your Framingham home or business.

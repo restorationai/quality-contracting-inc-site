@@ -1,6 +1,6 @@
 ---
 archetype: "service-area"
-title: "Restoration Services in Rutland, MA | Quality Contracting, Inc."
+title: "Restoration Services in Rutland, MA | QCI Restoration"
 h1: "Restoration Services in Rutland"
 meta_description: "Serving Rutland, MA with water, fire, mold, and storm damage restoration. Experienced team. Call (508) 756-8800."
 primary_keyword: "restoration services rutland"
@@ -19,7 +19,7 @@ state: "MA"
 primary: false
 rendered: true
 ---
-Quality Contracting, Inc. handles water damage, fire damage, storm damage, and mold remediation for homeowners and property managers throughout Rutland, dispatching crews from our Auburn headquarters to stabilize a property, document the loss for insurance, and carry the job through reconstruction. For a rural Worcester County town where many homes sit on older foundations and private wells, that means working through site conditions a suburban crew might not see every day.
+QCI Restoration handles water damage, fire damage, storm damage, and mold remediation for homeowners and property managers throughout Rutland, dispatching crews from our Auburn headquarters to stabilize a property, document the loss for insurance, and carry the job through reconstruction. For a rural Worcester County town where many homes sit on older foundations and private wells, that means working through site conditions a suburban crew might not see every day.
 
 ## Restoration emergencies common in Rutland
 
@@ -45,4 +45,4 @@ Much of Rutland's housing stock dates to the 19th and early 20th century, with w
 
 Structural repair or rebuild work in Rutland falls under the Massachusetts State Building Code, with permits issued through the town's building department. Any project touching load-bearing framing, a roof structure, or a significant portion of a fire-damaged area will typically need a permit before work starts, which we factor into project timelines from the outset.
 
-If water is spreading across a basement floor, smoke has settled into a room, or a storm has opened up your roof, call Quality Contracting, Inc. at (508) 756-8800. We'll walk the property, document the damage for your insurance carrier, and lay out a scope before any work begins.
+If water is spreading across a basement floor, smoke has settled into a room, or a storm has opened up your roof, call QCI Restoration at (508) 756-8800. We'll walk the property, document the damage for your insurance carrier, and lay out a scope before any work begins.

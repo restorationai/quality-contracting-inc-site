@@ -1,6 +1,6 @@
 ---
 archetype: "service-area-service"
-title: "Renovations, Remodels and General Contracting in Newton, MA | Quality Contracting, Inc."
+title: "Renovations, Remodels and General Contracting in Newton, MA | QCI Restoration"
 h1: "Renovations, Remodels and General Contracting in Newton"
 meta_description: "Renovations, remodels and general contracting in Newton, MA. Insurance billing accepted. Call (508) 756-8800."
 primary_keyword: "renovations, remodels and general contracting newton"
@@ -20,7 +20,7 @@ state: "MA"
 service_display: "Renovations, Remodels and General Contracting"
 rendered: true
 ---
-Renovating a home in Newton means working around additions that were bolted onto colonial and Victorian-era frames decades before current energy and plumbing codes existed. Whether you're opening up a cramped 1920s kitchen, converting a single-bath layout for a growing family, or rebuilding a section of a home after water or fire damage, Quality Contracting, Inc. plans the work around what's actually inside Newton's walls, not just what's on the blueprint.
+Renovating a home in Newton means working around additions that were bolted onto colonial and Victorian-era frames decades before current energy and plumbing codes existed. Whether you're opening up a cramped 1920s kitchen, converting a single-bath layout for a growing family, or rebuilding a section of a home after water or fire damage, QCI Restoration plans the work around what's actually inside Newton's walls, not just what's on the blueprint.
 
 ## Why Newton Renovations Require a Different Approach
 
@@ -42,4 +42,4 @@ Newton's building department reviews renovation permits against the current Mass
 
 Homes in Newton's older sections often have plaster-and-lath walls over furring strips rather than solid framing, which changes how we approach anything involving new electrical runs or recessed lighting during a remodel. Fishing wire through a lath wall without cracking the plaster takes more time than running it through modern drywall, so we build that labor into the estimate up front rather than treating it as a surprise once demo starts.
 
-If your renovation, remodel, or rebuild project is in Newton, call Quality Contracting, Inc. at (508) 756-8800 to schedule a walkthrough. We travel from our Auburn office via the Massachusetts Turnpike for projects throughout the city, from full kitchen and bathroom remodels to rebuilding a section of a home after damage.
+If your renovation, remodel, or rebuild project is in Newton, call QCI Restoration at (508) 756-8800 to schedule a walkthrough. We travel from our Auburn office via the Massachusetts Turnpike for projects throughout the city, from full kitchen and bathroom remodels to rebuilding a section of a home after damage.

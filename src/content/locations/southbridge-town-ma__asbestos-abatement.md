@@ -1,6 +1,6 @@
 ---
 archetype: "service-area-service"
-title: "Asbestos Abatement in Southbridge Town, MA | Quality Contracting, Inc."
+title: "Asbestos Abatement in Southbridge Town, MA | QCI Restoration"
 h1: "Asbestos Abatement in Southbridge Town"
 meta_description: "Asbestos abatement in Southbridge Town, MA. Insurance billing accepted. Call (508) 756-8800."
 primary_keyword: "asbestos abatement southbridge town"
@@ -38,4 +38,4 @@ We run jobs in Southbridge Town regularly out of our Auburn office, heading down
 
 One thing we see often in Southbridge Town specifically: older multi-family buildings near the center of town were converted from mill-worker housing decades ago, and a lot of that conversion work covered original floor tile with newer flooring instead of removing it. If you're renovating one of these units and pulling up carpet or newer vinyl, there's a decent chance you'll hit a layer of 9x9 asbestos tile underneath that was never disclosed because it was simply covered over rather than abated. We test before we assume either layer is clean.
 
-If you've found suspect material during a renovation, or a home inspection flagged potential asbestos in a property you're buying in Southbridge Town, call Quality Contracting, Inc. at (508) 756-8800. We'll walk through testing, what removal actually involves for your specific material, and what to expect for timeline before any work starts.
+If you've found suspect material during a renovation, or a home inspection flagged potential asbestos in a property you're buying in Southbridge Town, call QCI Restoration at (508) 756-8800. We'll walk through testing, what removal actually involves for your specific material, and what to expect for timeline before any work starts.

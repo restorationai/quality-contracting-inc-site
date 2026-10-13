@@ -1,6 +1,6 @@
 ---
 archetype: "service-area-service"
-title: "Mold Remediation in Marlborough, MA | Quality Contracting, Inc."
+title: "Mold Remediation in Marlborough, MA | QCI Restoration"
 h1: "Mold Remediation in Marlborough"
 meta_description: "Mold remediation in Marlborough, MA. Insurance billing accepted. Call (508) 756-8800."
 primary_keyword: "mold remediation marlborough"
@@ -38,7 +38,7 @@ Documentation runs throughout the process: photos, moisture readings, and a writ
 
 ## Reaching Marlborough from Auburn
 
-Quality Contracting, Inc. is based in Auburn, and Marlborough is a straightforward drive east on Route 20. Depending on traffic through Northborough, the trip typically runs under 30 minutes. For properties on the eastern side of Marlborough closer to the Hudson line, the approach via I-290 to Route 85 is often faster. We schedule promptly and communicate arrival windows clearly so you're not left waiting without information.
+QCI Restoration is based in Auburn, and Marlborough is a straightforward drive east on Route 20. Depending on traffic through Northborough, the trip typically runs under 30 minutes. For properties on the eastern side of Marlborough closer to the Hudson line, the approach via I-290 to Route 85 is often faster. We schedule promptly and communicate arrival windows clearly so you're not left waiting without information.
 
 ## Marlborough Insurance Coordination
 
@@ -48,4 +48,4 @@ Mold claims in Massachusetts can be complicated by how the originating water los
 
 One pattern worth knowing in Marlborough: homes in the older residential sections of the city that have had previous basement waterproofing systems installed sometimes develop mold behind the drainage board or liner rather than on the visible interior wall face. The liner channels water away effectively, but if it traps humidity against the original block wall, the block and any remaining framing behind the liner can stay chronically damp. If you're seeing musty odors in a finished basement that has an existing interior drainage system, that concealed cavity is worth investigating before assuming the waterproofing solved the moisture problem entirely.
 
-If you're dealing with a mold concern in Marlborough, call Quality Contracting, Inc. at (508) 756-8800. We'll assess the situation honestly, explain what we find, and give you a clear path forward, whether that's a targeted cleanup or a more involved remediation and rebuild.
+If you're dealing with a mold concern in Marlborough, call QCI Restoration at (508) 756-8800. We'll assess the situation honestly, explain what we find, and give you a clear path forward, whether that's a targeted cleanup or a more involved remediation and rebuild.

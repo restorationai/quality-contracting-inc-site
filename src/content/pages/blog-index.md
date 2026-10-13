@@ -1,8 +1,8 @@
 ---
 archetype: "blog-index"
-title: "Restoration Blog | Quality Contracting, Inc."
+title: "Restoration Blog | QCI Restoration"
 h1: "Restoration Resources and Insights"
-meta_description: "Guides, checklists, and explainers from Quality Contracting, Inc. on water, fire, mold, and storm damage restoration."
+meta_description: "Guides, checklists, and explainers from QCI Restoration on water, fire, mold, and storm damage restoration."
 primary_keyword: "restoration blog auburn"
 secondary_keywords: ["restoration guides", "damage restoration tips", "restoration insights"]
 search_intent: "informational_browse"

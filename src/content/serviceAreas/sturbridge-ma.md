@@ -1,6 +1,6 @@
 ---
 archetype: "service-area"
-title: "Restoration Services in Sturbridge, MA | Quality Contracting, Inc."
+title: "Restoration Services in Sturbridge, MA | QCI Restoration"
 h1: "Restoration Services in Sturbridge"
 meta_description: "Serving Sturbridge, MA with water, fire, mold, and storm damage restoration. Experienced team. Call (508) 756-8800."
 primary_keyword: "restoration services sturbridge"
@@ -19,7 +19,7 @@ state: "MA"
 primary: false
 rendered: true
 ---
-Quality Contracting, Inc. handles water damage, fire and smoke damage, storm damage, and mold remediation for homes and businesses throughout Sturbridge, Massachusetts. Our crews work from a home base in Auburn, so we're familiar with the mix of antique farmhouses, lakefront cottages, and newer construction along the Route 20 corridor that makes up this part of Worcester County, and we scope every job to the building type we're actually standing in rather than a one-size-fits-all checklist.
+QCI Restoration handles water damage, fire and smoke damage, storm damage, and mold remediation for homes and businesses throughout Sturbridge, Massachusetts. Our crews work from a home base in Auburn, so we're familiar with the mix of antique farmhouses, lakefront cottages, and newer construction along the Route 20 corridor that makes up this part of Worcester County, and we scope every job to the building type we're actually standing in rather than a one-size-fits-all checklist.
 
 ## Restoration emergencies common in Sturbridge
 
@@ -45,4 +45,4 @@ Much of Sturbridge's housing stock dates from the colonial and early industrial 
 
 The soil across this part of Worcester County is largely glacial till over ledge, which drains unevenly and can push surface water toward foundations faster than it percolates away. Structural repairs and rebuilds fall under the Massachusetts State Building Code, with permits issued through the Sturbridge Building Department; work that touches load-bearing framing, egress, or a significant portion of the structure typically triggers a permit review before we can close up walls.
 
-If water, fire, or storm damage has hit your Sturbridge property, call Quality Contracting, Inc. at (508) 756-8800. We'll walk through what's going on, get a crew scheduled, and start documenting the loss so your insurance claim moves with the work instead of behind it.
+If water, fire, or storm damage has hit your Sturbridge property, call QCI Restoration at (508) 756-8800. We'll walk through what's going on, get a crew scheduled, and start documenting the loss so your insurance claim moves with the work instead of behind it.

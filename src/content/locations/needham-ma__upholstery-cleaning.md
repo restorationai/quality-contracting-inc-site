@@ -1,6 +1,6 @@
 ---
 archetype: "service-area-service"
-title: "Upholstery Cleaning in Needham, MA | Quality Contracting, Inc."
+title: "Upholstery Cleaning in Needham, MA | QCI Restoration"
 h1: "Upholstery Cleaning in Needham"
 meta_description: "Upholstery cleaning in Needham, MA. Insurance billing accepted. Call (508) 756-8800."
 primary_keyword: "upholstery cleaning needham"
@@ -42,4 +42,4 @@ Different fabrics need different tools, and guessing wrong is how upholstery get
 
 One thing we watch for specifically in Needham: a lot of the town's housing stock includes finished basements used as family rooms, and those spaces often run several degrees more humid than the floor above, even with a dehumidifier running. Upholstery stored down there, especially sectionals and leather recliners, tends to develop a faint mildew smell well before any visible staining shows up. If a piece has been in a Needham basement for more than a season without being cleaned, we usually recommend a full extraction rather than a spot treatment, because the odor is almost always deeper in the cushion fill than it looks from the surface.
 
-If your sofa, sectional, or leather chair in Needham is holding onto more than it should, whether that's a winter's worth of fireplace residue or basement humidity that won't quite air out, give Quality Contracting, Inc. a call at (508) 756-8800 to get upholstery cleaning scheduled before it turns into a fiber-level problem instead of a surface one.
+If your sofa, sectional, or leather chair in Needham is holding onto more than it should, whether that's a winter's worth of fireplace residue or basement humidity that won't quite air out, give QCI Restoration a call at (508) 756-8800 to get upholstery cleaning scheduled before it turns into a fiber-level problem instead of a surface one.

@@ -1,6 +1,6 @@
 ---
 archetype: "service-area-service"
-title: "Upholstery Cleaning in Maynard, MA | Quality Contracting, Inc."
+title: "Upholstery Cleaning in Maynard, MA | QCI Restoration"
 h1: "Upholstery Cleaning in Maynard"
 meta_description: "Upholstery cleaning in Maynard, MA. Insurance billing accepted. Call (508) 756-8800."
 primary_keyword: "upholstery cleaning maynard"
@@ -38,4 +38,4 @@ We travel out from our Auburn base along the I-90 and I-495 corridor to reach Mi
 
 One pattern we watch for in this area: homes that get closed up tight for the winter heating season and then opened back up in spring often have upholstery that smells fine in January but develops a faint mustiness by April. That's moisture that got trapped in the cushion fill over months of low airflow, not a new stain or spill. A deep extraction cleaning paired with genuinely drying the piece out, not just surface freshening, is usually what resolves it, and it's worth doing before hosting season starts rather than after guests have already noticed.
 
-If your sofa, sectional, or leather furniture in Maynard needs more than a quick vacuum, Quality Contracting, Inc. can walk through fabric type, soiling level, and timeline with you before any work starts. Call (508) 756-8800 to talk through what your upholstery needs and get on the schedule.
+If your sofa, sectional, or leather furniture in Maynard needs more than a quick vacuum, QCI Restoration can walk through fabric type, soiling level, and timeline with you before any work starts. Call (508) 756-8800 to talk through what your upholstery needs and get on the schedule.

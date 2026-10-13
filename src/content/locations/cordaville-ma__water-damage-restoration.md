@@ -1,6 +1,6 @@
 ---
 archetype: "service-area-service"
-title: "Emergency Water Damage Restoration in Cordaville, MA | Quality Contracting, Inc."
+title: "Emergency Water Damage Restoration in Cordaville, MA | QCI Restoration"
 h1: "Emergency Water Damage Restoration in Cordaville"
 meta_description: "Emergency water damage restoration in Cordaville, MA. Insurance billing accepted. Call (508) 756-8800."
 primary_keyword: "water damage restoration cordaville"
@@ -20,7 +20,7 @@ state: "MA"
 service_display: "Water Damage Restoration"
 rendered: true
 ---
-**Water damage emergency in Cordaville?** Call Quality Contracting now for emergency service at (508) 756-8800. Cordaville's mix of older New England construction and a high water table tied to the surrounding Sudbury River watershed means a burst pipe or failed sump pump can soak a basement far faster than homeowners expect, and the clock on mold growth starts within 24 to 48 hours of standing water.
+**Water damage emergency in Cordaville?** Call QCI Restoration now for emergency service at (508) 756-8800. Cordaville's mix of older New England construction and a high water table tied to the surrounding Sudbury River watershed means a burst pipe or failed sump pump can soak a basement far faster than homeowners expect, and the clock on mold growth starts within 24 to 48 hours of standing water.
 
 ## Why Cordaville Properties See Water Damage Issues
 
@@ -32,10 +32,10 @@ The first step on any call is finding where the water actually is, not just wher
 
 ## Reaching Cordaville from Auburn
 
-Quality Contracting is based in Auburn, with a straightforward run out toward Southborough and the Cordaville area along the regional corridor connecting Worcester County to the MetroWest towns. Because so much of Cordaville's housing stock sits on narrow lots with long driveways or shared access off older subdivision roads, we coordinate with homeowners ahead of arrival to confirm where equipment and drying units can be staged without blocking neighbors or tripping over septic lines, which are still common in this part of Southborough rather than municipal sewer.
+QCI Restoration is based in Auburn, with a straightforward run out toward Southborough and the Cordaville area along the regional corridor connecting Worcester County to the MetroWest towns. Because so much of Cordaville's housing stock sits on narrow lots with long driveways or shared access off older subdivision roads, we coordinate with homeowners ahead of arrival to confirm where equipment and drying units can be staged without blocking neighbors or tripping over septic lines, which are still common in this part of Southborough rather than municipal sewer.
 
 ## Local note
 
 One detail that matters in Cordaville specifically: a lot of basements here were finished decades ago with carpet glued directly to concrete rather than installed over a vapor barrier. That glue-down carpet traps water against the slab, so what looks like a quick clean-up often turns into a full tear-out once we pull back a corner and find the pad underneath has been wicking moisture for days. Catching that early saves homeowners from a secondary mold problem a few weeks down the line.
 
-If water is actively spreading through your Cordaville home right now, every hour matters more than the paperwork. Call Quality Contracting at (508) 756-8800 and we'll walk you through what to do before we arrive, then handle extraction, drying, and the insurance documentation so you're not managing a construction project on top of everything else.
+If water is actively spreading through your Cordaville home right now, every hour matters more than the paperwork. Call QCI Restoration at (508) 756-8800 and we'll walk you through what to do before we arrive, then handle extraction, drying, and the insurance documentation so you're not managing a construction project on top of everything else.

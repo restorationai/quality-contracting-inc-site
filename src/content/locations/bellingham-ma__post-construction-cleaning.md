@@ -1,6 +1,6 @@
 ---
 archetype: "service-area-service"
-title: "Post-Construction and Specialty Cleaning in Bellingham, MA | Quality Contracting, Inc."
+title: "Post-Construction and Specialty Cleaning in Bellingham, MA | QCI Restoration"
 h1: "Post-Construction and Specialty Cleaning in Bellingham"
 meta_description: "Post-construction and specialty cleaning in Bellingham, MA. Insurance billing accepted. Call (508) 756-8800."
 primary_keyword: "post-construction and specialty cleaning bellingham"
@@ -38,4 +38,4 @@ We schedule final cleans directly with the general contractor or homeowner so th
 
 A good number of Bellingham properties, particularly outside the areas served by municipal water, run on private wells. That matters for post-construction cleaning because well water leaves mineral scale on new fixtures, tile, and glass shower doors that's chemically different from the chlorination residue you'd fight in a home on town water. We adjust the cleaning solution accordingly on well-water properties instead of using a standard glass-and-chrome approach that can actually haze hard-water deposits rather than lift them.
 
-If you've got a renovation wrapping up in Bellingham, whether it's an addition near the town center or a new build off 495, call Quality Contracting, Inc. at (508) 756-8800 to get the final clean scheduled around your contractor's timeline, not after the fact.
+If you've got a renovation wrapping up in Bellingham, whether it's an addition near the town center or a new build off 495, call QCI Restoration at (508) 756-8800 to get the final clean scheduled around your contractor's timeline, not after the fact.

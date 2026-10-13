@@ -1,6 +1,6 @@
 ---
 archetype: "service-area-service"
-title: "Upholstery Cleaning in Bellingham, MA | Quality Contracting, Inc."
+title: "Upholstery Cleaning in Bellingham, MA | QCI Restoration"
 h1: "Upholstery Cleaning in Bellingham"
 meta_description: "Upholstery cleaning in Bellingham, MA. Insurance billing accepted. Call (508) 756-8800."
 primary_keyword: "upholstery cleaning bellingham"
@@ -42,4 +42,4 @@ We're based in Auburn and cover Bellingham as part of our regular service area a
 
 One thing we watch for specifically in this area: homes near the Charles River headwaters and the lower-lying parts of town tend to run a few points higher on ambient humidity than homes on higher ground, even within the same neighborhood. That difference doesn't sound like much, but it changes how long a cushion stays damp after cleaning, and it's part of why we adjust drying time and airflow setup on a room-by-room basis instead of using the same timeline for every job.
 
-If your sofa, sectional, or leather chair has been holding onto odor, stains, or that slightly stiff feel that comes with a New England winter, it's worth getting ahead of it before the fabric or leather takes more permanent damage. Call Quality Contracting, Inc. at (508) 756-8800 to schedule upholstery cleaning for your Bellingham home.
+If your sofa, sectional, or leather chair has been holding onto odor, stains, or that slightly stiff feel that comes with a New England winter, it's worth getting ahead of it before the fabric or leather takes more permanent damage. Call QCI Restoration at (508) 756-8800 to schedule upholstery cleaning for your Bellingham home.

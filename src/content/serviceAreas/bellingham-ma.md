@@ -1,6 +1,6 @@
 ---
 archetype: "service-area"
-title: "Restoration Services in Bellingham, MA | Quality Contracting, Inc."
+title: "Restoration Services in Bellingham, MA | QCI Restoration"
 h1: "Restoration Services in Bellingham"
 meta_description: "Serving Bellingham, MA with water, fire, mold, and storm damage restoration. Experienced team. Call (508) 756-8800."
 primary_keyword: "restoration services bellingham"
@@ -19,7 +19,7 @@ state: "MA"
 primary: false
 rendered: true
 ---
-Quality Contracting, Inc. handles water damage, fire and smoke damage, mold remediation, and storm-related repairs for homeowners and property managers throughout Bellingham, Massachusetts. From basement flooding after a nor'easter to a burst supply line in a finished lower level, our crews document the loss for your insurance carrier, extract water or remove damaged materials, and rebuild what needs rebuilding, all under one roof instead of juggling separate contractors.
+QCI Restoration handles water damage, fire and smoke damage, mold remediation, and storm-related repairs for homeowners and property managers throughout Bellingham, Massachusetts. From basement flooding after a nor'easter to a burst supply line in a finished lower level, our crews document the loss for your insurance carrier, extract water or remove damaged materials, and rebuild what needs rebuilding, all under one roof instead of juggling separate contractors.
 
 ## Restoration emergencies common in Bellingham
 
@@ -47,4 +47,4 @@ Much of Bellingham's housing dates from the mid-20th-century suburban growth tha
 
 New England's rocky, glacial-till soil drains unevenly, and basements built into that soil are prone to hydrostatic pressure and seepage during spring thaw or heavy rain, especially where grading has settled over the decades. Structural repairs, electrical work, and any rebuild following fire or water damage typically require a permit through Bellingham's local building department, with work inspected against the Massachusetts State Building Code.
 
-If you're dealing with standing water, smoke damage, or a mold problem in Bellingham, call Quality Contracting, Inc. at (508) 756-8800. We'll walk through what you're seeing, explain what happens next, and get a crew scheduled to assess the property.
+If you're dealing with standing water, smoke damage, or a mold problem in Bellingham, call QCI Restoration at (508) 756-8800. We'll walk through what you're seeing, explain what happens next, and get a crew scheduled to assess the property.

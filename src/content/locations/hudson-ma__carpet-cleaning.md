@@ -1,6 +1,6 @@
 ---
 archetype: "service-area-service"
-title: "Carpet Cleaning in Hudson, MA | Quality Contracting, Inc."
+title: "Carpet Cleaning in Hudson, MA | QCI Restoration"
 h1: "Carpet Cleaning in Hudson"
 meta_description: "Carpet cleaning in Hudson, MA. Insurance billing accepted. Call (508) 756-8800."
 primary_keyword: "carpet cleaning hudson"
@@ -20,7 +20,7 @@ state: "MA"
 service_display: "Carpet Cleaning"
 rendered: true
 ---
-**Carpet looking tired after a New England mud season in Hudson?** Between the Assabet River's humidity swings and the sand and salt that Hudson's winter road crews put down on Main Street and the side streets off Route 85, carpet in this town takes a different kind of beating than it does in a drier climate. Quality Contracting, Inc. cleans both residential and commercial carpet in Hudson, from colonial-era homes near the historic downtown to office suites in the town's old mill buildings.
+**Carpet looking tired after a New England mud season in Hudson?** Between the Assabet River's humidity swings and the sand and salt that Hudson's winter road crews put down on Main Street and the side streets off Route 85, carpet in this town takes a different kind of beating than it does in a drier climate. QCI Restoration cleans both residential and commercial carpet in Hudson, from colonial-era homes near the historic downtown to office suites in the town's old mill buildings.
 
 ## Why Hudson Carpet Wears and Stains Differently
 
@@ -42,4 +42,4 @@ We use hot water extraction as our primary method, which flushes deep soil and a
 
 One thing crews learn working in Hudson specifically: carpet installed in homes near the river valley, closer to the lower parts of town, tends to hold ambient moisture longer after cleaning than carpet on the higher ground near the town center. We factor that into drying time and air movement setup rather than using the same drying window for every address in town.
 
-Whether it's a living room that's seen a few New England winters of salt and mud or a commercial space in one of Hudson's repurposed mill buildings, Quality Contracting, Inc. brings the right equipment and process for the job. Call (508) 756-8800 to get carpet cleaning scheduled in Hudson.
+Whether it's a living room that's seen a few New England winters of salt and mud or a commercial space in one of Hudson's repurposed mill buildings, QCI Restoration brings the right equipment and process for the job. Call (508) 756-8800 to get carpet cleaning scheduled in Hudson.

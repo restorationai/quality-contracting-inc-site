@@ -1,6 +1,6 @@
 ---
 archetype: "service-area-service"
-title: "Upholstery Cleaning in Hudson, MA | Quality Contracting, Inc."
+title: "Upholstery Cleaning in Hudson, MA | QCI Restoration"
 h1: "Upholstery Cleaning in Hudson"
 meta_description: "Upholstery cleaning in Hudson, MA. Insurance billing accepted. Call (508) 756-8800."
 primary_keyword: "upholstery cleaning hudson"
@@ -38,4 +38,4 @@ Most calls split between two categories: families wanting a deep clean on a fabr
 
 A lot of the older homes we work in around Hudson still have original hardwood or narrow-plank flooring under the furniture, which means we're careful about moisture control during fabric cleaning so we're not introducing dampness to flooring that wasn't built to handle it. It's a small adjustment, but it's the difference between a couch that dries clean and a cleanup that creates a second problem on the floor underneath.
 
-If your sofa, sectional, or leather furniture in Hudson is holding onto stains, odor, or just looks worn down after another New England winter, give Quality Contracting, Inc. a call at (508) 756-8800. We'll walk through what your upholstery needs and get it looking, and feeling, like it should.
+If your sofa, sectional, or leather furniture in Hudson is holding onto stains, odor, or just looks worn down after another New England winter, give QCI Restoration a call at (508) 756-8800. We'll walk through what your upholstery needs and get it looking, and feeling, like it should.

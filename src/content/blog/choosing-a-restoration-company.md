@@ -85,4 +85,4 @@ For mold remediation specifically, a post-remediation verification (PRV) clearan
 
 ---
 
-If you're working through a water loss, fire cleanup, or mold situation in the Auburn area and want a straightforward conversation about scope and next steps, Quality Contracting, Inc. can be reached at **(508) 756-8800**. The goal of that call isn't to sell you anything, it's to help you understand what you're actually dealing with.
+If you're working through a water loss, fire cleanup, or mold situation in the Auburn area and want a straightforward conversation about scope and next steps, QCI Restoration can be reached at **(508) 756-8800**. The goal of that call isn't to sell you anything, it's to help you understand what you're actually dealing with.

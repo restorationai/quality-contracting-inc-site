@@ -1,6 +1,6 @@
 ---
 archetype: "service-area-service"
-title: "Air Duct Cleaning in Milford, MA | Quality Contracting, Inc."
+title: "Air Duct Cleaning in Milford, MA | QCI Restoration"
 h1: "Air Duct Cleaning in Milford"
 meta_description: "Air duct cleaning in Milford, MA. Insurance billing accepted. Call (508) 756-8800."
 primary_keyword: "air duct cleaning milford"
@@ -38,4 +38,4 @@ Our crews run out along the Route 20 and Route 16 corridor to reach Milford, whi
 
 A lot of Milford's older housing stock still has the original basement bulkhead and stone or brick foundation from the mill-town era, and ductwork run through those foundations often has gaps around the sill plate where it passes from the basement into the first floor. Those gaps let in basement dust, old insulation fragments, and sometimes evidence of rodent activity, which is why a full inspection before cleaning matters more in Milford's older homes than it does in newer subdivisions where duct runs are factory-sealed.
 
-If your furnace or AC has been circulating a stale smell through the house, or you've noticed dust resettling on surfaces within a day of cleaning, it's worth having the system looked at before it becomes a bigger air-quality issue. Call Quality Contracting, Inc. at (508) 756-8800 to schedule an air duct cleaning for your Milford home.
+If your furnace or AC has been circulating a stale smell through the house, or you've noticed dust resettling on surfaces within a day of cleaning, it's worth having the system looked at before it becomes a bigger air-quality issue. Call QCI Restoration at (508) 756-8800 to schedule an air duct cleaning for your Milford home.

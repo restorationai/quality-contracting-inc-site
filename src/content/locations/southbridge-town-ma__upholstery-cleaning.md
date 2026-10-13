@@ -1,6 +1,6 @@
 ---
 archetype: "service-area-service"
-title: "Upholstery Cleaning in Southbridge Town, MA | Quality Contracting, Inc."
+title: "Upholstery Cleaning in Southbridge Town, MA | QCI Restoration"
 h1: "Upholstery Cleaning in Southbridge Town"
 meta_description: "Upholstery cleaning in Southbridge Town, MA. Insurance billing accepted. Call (508) 756-8800."
 primary_keyword: "upholstery cleaning southbridge town"
@@ -20,7 +20,7 @@ state: "MA"
 service_display: "Upholstery Cleaning"
 rendered: true
 ---
-**Looking for upholstery cleaning in Southbridge Town?** Many of the homes and apartments here were built as mill worker housing a century ago, and that older furniture, radiator heat, and humid New England summers combine in ways that leave sofas and chairs looking tired faster than newer construction elsewhere. Quality Contracting, Inc. works with fabric and leather upholstery throughout the area, matching the cleaning method to the piece instead of running every job through the same steam wand.
+**Looking for upholstery cleaning in Southbridge Town?** Many of the homes and apartments here were built as mill worker housing a century ago, and that older furniture, radiator heat, and humid New England summers combine in ways that leave sofas and chairs looking tired faster than newer construction elsewhere. QCI Restoration works with fabric and leather upholstery throughout the area, matching the cleaning method to the piece instead of running every job through the same steam wand.
 
 ## Why Southbridge Town Furniture Wears Differently
 
@@ -38,4 +38,4 @@ A lot of the couches and chairs we clean in Southbridge Town have been in the sa
 
 Southbridge Town's position along the Quinebaug River valley means humidity lingers a little longer after a cleaning than it would in a drier inland town, so we build extra air movement into the drying step on fabric upholstery, especially in basement family rooms or first-floor living rooms with limited cross-ventilation. Skipping that step is how a freshly cleaned sofa ends up smelling musty again within a week.
 
-If your sofa, sectional, or leather chair is holding onto stains, odor, or just years of everyday wear, call Quality Contracting, Inc. at (508) 756-8800 to schedule upholstery cleaning suited to Southbridge Town's older housing stock and the humidity that comes with it.
+If your sofa, sectional, or leather chair is holding onto stains, odor, or just years of everyday wear, call QCI Restoration at (508) 756-8800 to schedule upholstery cleaning suited to Southbridge Town's older housing stock and the humidity that comes with it.

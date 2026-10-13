@@ -1,6 +1,6 @@
 ---
 archetype: "service-area-service"
-title: "Upholstery Cleaning in Palmer Town, MA | Quality Contracting, Inc."
+title: "Upholstery Cleaning in Palmer Town, MA | QCI Restoration"
 h1: "Upholstery Cleaning in Palmer Town"
 meta_description: "Upholstery cleaning in Palmer Town, MA. Insurance billing accepted. Call (508) 756-8800."
 primary_keyword: "upholstery cleaning palmer town"
@@ -38,4 +38,4 @@ Our crews come out of Auburn and typically take the Mass Pike west toward the Pa
 
 A lot of Palmer's housing stock sits close to the rail lines the town was originally built around, and furniture in those homes tends to pick up a fine layer of soot and dust that's easy to miss on darker upholstery fabrics until it's cleaned professionally and the contrast becomes obvious. Homeowners closer to these older residential blocks often tell us they didn't realize how much buildup had settled into the weave until they saw the difference on a lighter-colored cushion after cleaning.
 
-If your sofa, sectional, or leather furniture in Palmer is holding onto odor, dust, or visible wear, a proper cleaning does more than freshen the surface. Call Quality Contracting, Inc. at (508) 756-8800 to schedule upholstery cleaning suited to your fabric type and Palmer's seasonal humidity swings.
+If your sofa, sectional, or leather furniture in Palmer is holding onto odor, dust, or visible wear, a proper cleaning does more than freshen the surface. Call QCI Restoration at (508) 756-8800 to schedule upholstery cleaning suited to your fabric type and Palmer's seasonal humidity swings.

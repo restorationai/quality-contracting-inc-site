@@ -62,7 +62,7 @@ What trips people up is the deductible and the documentation. Massachusetts home
 
 One more thing worth knowing before you sign a contract: Massachusetts caps the upfront deposit a home improvement contractor can collect at one-third of the total contract price on jobs over $1,000, per the state's [Home Improvement Contractor rules](https://www.mass.gov/home-improvement-contractor-program). Any contractor asking for half or more down before work starts isn't following state guidance.
 
-Quality Contracting, Inc. writes a documented scope and works directly with the adjuster on the claim, so the insurance side and the rebuild side stay coordinated instead of becoming two separate fights.
+QCI Restoration writes a documented scope and works directly with the adjuster on the claim, so the insurance side and the rebuild side stay coordinated instead of becoming two separate fights.
 
 ## What actually happens during a fire restoration job?
 
@@ -78,12 +78,12 @@ A fire restoration job moves through mitigation first and reconstruction second,
 
 For a closer look at what that timeline looks like week by week, see [the fire damage restoration process explained](/blog/fire-damage-restoration-process/).
 
-A fire doesn't stay in its own lane; it drags in water damage, smoke odor, contents cleaning, and a full rebuild all at once. That's the whole point of Quality Contracting's **One Call Does It All** model: one phone call covers the board-up, the mitigation, the odor treatment, and the general contracting rebuild, so an Auburn homeowner isn't managing four separate vendors while also filing an insurance claim.
+A fire doesn't stay in its own lane; it drags in water damage, smoke odor, contents cleaning, and a full rebuild all at once. That's the whole point of QCI Restoration's **One Call Does It All** model: one phone call covers the board-up, the mitigation, the odor treatment, and the general contracting rebuild, so an Auburn homeowner isn't managing four separate vendors while also filing an insurance claim.
 
 ---
 
-**About Quality Contracting, Inc.**
+**About QCI Restoration**
 
-Quality Contracting, Inc. is rated 4.5 stars across 112 Google reviews and serves Auburn, Worcester, and the surrounding Central Massachusetts towns with 24/7 emergency response. Their technicians handle fire damage restoration, odor removal, contents restoration, and the full general contracting rebuild under one roof, so a fire loss moves from board-up to finished reconstruction without handing the job off between separate companies.
+QCI Restoration is rated 4.5 stars across 112 Google reviews and serves Auburn, Worcester, and the surrounding Central Massachusetts towns with 24/7 emergency response. Their technicians handle fire damage restoration, odor removal, contents restoration, and the full general contracting rebuild under one roof, so a fire loss moves from board-up to finished reconstruction without handing the job off between separate companies.
 
-**Need help now?** [Call Quality Contracting, Inc. at (508) 756-8800](tel:+15087568800).
+**Need help now?** [Call QCI Restoration at (508) 756-8800](tel:+15087568800).

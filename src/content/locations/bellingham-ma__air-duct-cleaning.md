@@ -1,6 +1,6 @@
 ---
 archetype: "service-area-service"
-title: "Air Duct Cleaning in Bellingham, MA | Quality Contracting, Inc."
+title: "Air Duct Cleaning in Bellingham, MA | QCI Restoration"
 h1: "Air Duct Cleaning in Bellingham"
 meta_description: "Air duct cleaning in Bellingham, MA. Insurance billing accepted. Call (508) 756-8800."
 primary_keyword: "air duct cleaning bellingham"

@@ -1,6 +1,6 @@
 ---
 archetype: "service-area-service"
-title: "Emergency Fire Damage Restoration in Framingham, MA | Quality Contracting, Inc."
+title: "Emergency Fire Damage Restoration in Framingham, MA | QCI Restoration"
 h1: "Emergency Fire Damage Restoration in Framingham"
 meta_description: "Emergency fire damage restoration in Framingham, MA. Insurance billing accepted. Call (508) 756-8800."
 primary_keyword: "fire damage restoration framingham"
@@ -41,7 +41,7 @@ Throughout, every affected material is photographed and documented in a format t
 
 ## Reaching Framingham from Auburn
 
-Quality Contracting, Inc. is based in Auburn, which puts Framingham roughly a straight shot east on the Massachusetts Turnpike (I-90). That route runs directly into the heart of the city, making access to neighborhoods along Route 9 and the older residential streets near downtown Framingham straightforward. For properties further north toward the Saxonville area or east toward the Natick line, Route 30 and Route 135 provide direct approaches without requiring navigation through downtown.
+QCI Restoration is based in Auburn, which puts Framingham roughly a straight shot east on the Massachusetts Turnpike (I-90). That route runs directly into the heart of the city, making access to neighborhoods along Route 9 and the older residential streets near downtown Framingham straightforward. For properties further north toward the Saxonville area or east toward the Natick line, Route 30 and Route 135 provide direct approaches without requiring navigation through downtown.
 
 When you call (508) 756-8800, the team can confirm scheduling and give you a realistic arrival window based on current conditions.
 
@@ -49,7 +49,7 @@ When you call (508) 756-8800, the team can confirm scheduling and give you a rea
 
 Fire losses in Massachusetts are covered under standard homeowners policies, but the scope of what gets approved, and how quickly, depends heavily on documentation. Carriers want to see photos of every affected surface, a written scope that distinguishes between smoke-damaged materials that can be cleaned and those that require replacement, and evidence that emergency services (board-up, tarping, water extraction from suppression) were performed promptly to prevent further loss.
 
-Quality Contracting documents losses with that standard in mind from the first hour on-site. We work directly with adjusters and can provide the line-item detail most carriers require before issuing an authorization. If your policy includes additional living expenses (ALE) coverage and the home is uninhabitable, we can also help you understand what documentation supports that portion of the claim.
+QCI Restoration documents losses with that standard in mind from the first hour on-site. We work directly with adjusters and can provide the line-item detail most carriers require before issuing an authorization. If your policy includes additional living expenses (ALE) coverage and the home is uninhabitable, we can also help you understand what documentation supports that portion of the claim.
 
 ## Local Note
 
@@ -57,4 +57,4 @@ Framingham's older neighborhoods include a meaningful number of homes with origi
 
 If your Framingham home was built before 1960, ask specifically about plaster-specific odor treatment when you call, it changes the scope and the timeline.
 
-Fire damage doesn't wait, and neither does the secondary damage that follows it. Call Quality Contracting, Inc. at **(508) 756-8800** to schedule an assessment for your Framingham property, the sooner the scope is documented, the cleaner the path to a full restoration.
+Fire damage doesn't wait, and neither does the secondary damage that follows it. Call QCI Restoration at **(508) 756-8800** to schedule an assessment for your Framingham property, the sooner the scope is documented, the cleaner the path to a full restoration.

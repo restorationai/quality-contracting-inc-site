@@ -1,6 +1,6 @@
 ---
 archetype: "service-area-service"
-title: "Upholstery Cleaning in Marlborough, MA | Quality Contracting, Inc."
+title: "Upholstery Cleaning in Marlborough, MA | QCI Restoration"
 h1: "Upholstery Cleaning in Marlborough"
 meta_description: "Upholstery cleaning in Marlborough, MA. Insurance billing accepted. Call (508) 756-8800."
 primary_keyword: "upholstery cleaning marlborough"
@@ -20,7 +20,7 @@ state: "MA"
 service_display: "Upholstery Cleaning"
 rendered: true
 ---
-**Furniture holding onto last winter's wood smoke, or a couch that never quite dried out after the dog's bath?** Marlborough's mix of older colonial-era homes and newer MetroWest builds means upholstery gets tested by a wider range of conditions than a single housing type usually produces, and steam cleaning that works on a 1990s sectional doesn't always suit a hundred-year-old wingback chair. Quality Contracting, Inc. cleans sofas, sectionals, dining chairs, and leather pieces throughout Marlborough with methods matched to the fabric in front of us, not a one-size routine.
+**Furniture holding onto last winter's wood smoke, or a couch that never quite dried out after the dog's bath?** Marlborough's mix of older colonial-era homes and newer MetroWest builds means upholstery gets tested by a wider range of conditions than a single housing type usually produces, and steam cleaning that works on a 1990s sectional doesn't always suit a hundred-year-old wingback chair. QCI Restoration cleans sofas, sectionals, dining chairs, and leather pieces throughout Marlborough with methods matched to the fabric in front of us, not a one-size routine.
 
 ## Why Marlborough Furniture Needs a Different Approach
 
@@ -40,4 +40,4 @@ We're based in Auburn, and the run into Marlborough typically follows Route 20 o
 
 A fair number of Marlborough homes built during the ranch and colonial boom of the 1960s through 1980s still have their original wool or wool-blend living room furniture, often reupholstered once or twice since. That older wool holds up well to hot water extraction but needs a slower drying cycle than synthetic fabric, since wool fibers release moisture gradually rather than all at once. We adjust drying time and airflow accordingly rather than treating it like a standard poly-blend sofa, which can leave the fibers feeling stiff or matted if rushed.
 
-If a couch, sectional, or set of dining chairs in your Marlborough home needs more than a surface vacuum, or a leather piece has started to feel dry and brittle after another New England winter, call Quality Contracting, Inc. at (508) 756-8800 to schedule a cleaning suited to the specific fabric and the house it's sitting in.
+If a couch, sectional, or set of dining chairs in your Marlborough home needs more than a surface vacuum, or a leather piece has started to feel dry and brittle after another New England winter, call QCI Restoration at (508) 756-8800 to schedule a cleaning suited to the specific fabric and the house it's sitting in.

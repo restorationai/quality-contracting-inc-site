@@ -1,6 +1,6 @@
 ---
 archetype: "service-area-service"
-title: "Upholstery Cleaning in Framingham, MA | Quality Contracting, Inc."
+title: "Upholstery Cleaning in Framingham, MA | QCI Restoration"
 h1: "Upholstery Cleaning in Framingham"
 meta_description: "Upholstery cleaning in Framingham, MA. Insurance billing accepted. Call (508) 756-8800."
 primary_keyword: "upholstery cleaning framingham"
@@ -20,7 +20,7 @@ state: "MA"
 service_display: "Upholstery Cleaning"
 rendered: true
 ---
-**Sofa cleaning in Framingham?** Between the humidity that settles into the MetroWest valley every summer and the sand and road salt that New England winters track across living room carpets and onto couch cushions, upholstery in this town works harder than most homeowners realize. If your fabric sofa smells musty after a damp August or your leather chair has gone dry and cracked from a dry winter with the heat running, Quality Contracting can get it cleaned and restored to something you'd actually want guests to sit on.
+**Sofa cleaning in Framingham?** Between the humidity that settles into the MetroWest valley every summer and the sand and road salt that New England winters track across living room carpets and onto couch cushions, upholstery in this town works harder than most homeowners realize. If your fabric sofa smells musty after a damp August or your leather chair has gone dry and cracked from a dry winter with the heat running, QCI Restoration can get it cleaned and restored to something you'd actually want guests to sit on.
 
 ## Why Framingham Upholstery Needs Special Attention
 
@@ -38,4 +38,4 @@ Our crews come out of Auburn and typically run Route 9 or the Mass Pike corridor
 
 One thing that catches Framingham homeowners off guard: furniture near south- or west-facing windows fades and dries out faster than pieces elsewhere in the same room, which means a leather sofa positioned to catch afternoon sun often needs conditioning more often than the loveseat across the room. We check for that kind of uneven wear before recommending a cleaning schedule, since treating the whole piece the same way when only half of it has sun exposure can leave the shaded half over-treated.
 
-If your upholstery has been holding onto a winter's worth of salt-tracked grit or a summer's worth of humidity, a professional cleaning does more than freshen the look. Call Quality Contracting at (508) 756-8800 to schedule sofa, couch, or leather upholstery cleaning for your Framingham home.
+If your upholstery has been holding onto a winter's worth of salt-tracked grit or a summer's worth of humidity, a professional cleaning does more than freshen the look. Call QCI Restoration at (508) 756-8800 to schedule sofa, couch, or leather upholstery cleaning for your Framingham home.

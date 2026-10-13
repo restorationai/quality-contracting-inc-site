@@ -1,6 +1,6 @@
 ---
 archetype: "service-area-service"
-title: "Upholstery Cleaning in Natick, MA | Quality Contracting, Inc."
+title: "Upholstery Cleaning in Natick, MA | QCI Restoration"
 h1: "Upholstery Cleaning in Natick"
 meta_description: "Upholstery cleaning in Natick, MA. Insurance billing accepted. Call (508) 756-8800."
 primary_keyword: "upholstery cleaning natick"
@@ -38,4 +38,4 @@ We run out of Auburn, which puts Natick within a straightforward run along Route
 
 One pattern we see often in Natick: homeowners near the lake or in lower-lying yards run dehumidifiers seasonally, and that changes how upholstery should be cleaned. Furniture in a room that's been dehumidified all summer holds less residual moisture to begin with, so it can handle a slightly wetter extraction method without a long dry time. Furniture in a closed-up guest room or finished basement, on the other hand, needs the lowest-moisture approach we've got, because there's nowhere for that humidity to go once we leave. We ask about the room before we ever touch the cushions.
 
-Whether it's a leather sofa that's picked up a dull, dry finish over a Natick winter or a fabric sectional that needs a real deep clean before guests arrive, Quality Contracting can walk through the fabric, the room, and the timeline with you before any cleaning starts. Call (508) 756-8800 to get a Natick upholstery cleaning appointment on the calendar.
+Whether it's a leather sofa that's picked up a dull, dry finish over a Natick winter or a fabric sectional that needs a real deep clean before guests arrive, QCI Restoration can walk through the fabric, the room, and the timeline with you before any cleaning starts. Call (508) 756-8800 to get a Natick upholstery cleaning appointment on the calendar.

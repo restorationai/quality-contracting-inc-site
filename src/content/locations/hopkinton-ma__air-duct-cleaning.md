@@ -1,6 +1,6 @@
 ---
 archetype: "service-area-service"
-title: "Air Duct Cleaning in Hopkinton, MA | Quality Contracting, Inc."
+title: "Air Duct Cleaning in Hopkinton, MA | QCI Restoration"
 h1: "Air Duct Cleaning in Hopkinton"
 meta_description: "Air duct cleaning in Hopkinton, MA. Insurance billing accepted. Call (508) 756-8800."
 primary_keyword: "air duct cleaning hopkinton"
@@ -36,10 +36,10 @@ If we find biological growth, heavy debris, or evidence of pest intrusion in the
 
 ## Reaching Hopkinton from Auburn
 
-Quality Contracting, Inc. is based in Auburn, which puts Hopkinton roughly a straightforward drive west along Route 9 or via I-90. The route is direct and doesn't require navigating metro Boston traffic, which means scheduling is predictable. When you call (508) 756-8800, the team can give you a clear arrival window based on current schedule rather than a vague range.
+QCI Restoration is based in Auburn, which puts Hopkinton roughly a straightforward drive west along Route 9 or via I-90. The route is direct and doesn't require navigating metro Boston traffic, which means scheduling is predictable. When you call (508) 756-8800, the team can give you a clear arrival window based on current schedule rather than a vague range.
 
 ## Local Note
 
 Hopkinton's older neighborhoods, particularly the areas closer to the town center along Main Street and the surrounding streets developed in the mid-1900s, frequently have duct systems that were retrofitted into homes originally built without central air. Those retrofit installations sometimes run ducts through uninsulated crawl spaces or along exterior walls, exposing the ductwork to significant temperature differentials. That thermal cycling causes duct joints to work loose over time, and loose joints mean conditioned air is escaping into wall cavities while unconditioned air is being drawn back in. It's worth asking a technician to check joint integrity while the system is open, it's a quick visual check that can explain both energy loss and air quality issues that cleaning alone won't fully solve.
 
-If your home in Hopkinton has been on your list for a duct cleaning, or if you've never had it done since moving in, call Quality Contracting, Inc. at (508) 756-8800 to schedule a visit. A cleaner duct system means the air your family breathes every day isn't carrying a season's worth of accumulated dust, and in a town where the heating season runs long, that matters.
+If your home in Hopkinton has been on your list for a duct cleaning, or if you've never had it done since moving in, call QCI Restoration at (508) 756-8800 to schedule a visit. A cleaner duct system means the air your family breathes every day isn't carrying a season's worth of accumulated dust, and in a town where the heating season runs long, that matters.

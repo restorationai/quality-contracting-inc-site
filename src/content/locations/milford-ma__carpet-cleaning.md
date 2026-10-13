@@ -1,6 +1,6 @@
 ---
 archetype: "service-area-service"
-title: "Carpet Cleaning in Milford, MA | Quality Contracting, Inc."
+title: "Carpet Cleaning in Milford, MA | QCI Restoration"
 h1: "Carpet Cleaning in Milford"
 meta_description: "Carpet cleaning in Milford, MA. Insurance billing accepted. Call (508) 756-8800."
 primary_keyword: "carpet cleaning milford"
@@ -42,4 +42,4 @@ For rental properties and small commercial spaces around Milford, carpet cleanin
 
 One thing that catches new homeowners off guard in Milford: because so many older homes here were built with granite foundations from the town's own quarries, basement humidity runs higher and more consistently than in homes on poured concrete. If there's carpet in a finished basement, we treat it as a higher-moisture zone by default and plan for longer extraction and drying time, even when the carpet looks dry on the surface.
 
-If your carpet in Milford is holding onto winter salt stains, basement dampness, or just years of regular wear, a proper deep clean does more than freshen the color, it extends the life of the carpet itself. Call Quality Contracting, Inc. at (508) 756-8800 to schedule carpet cleaning for your Milford home or business.
+If your carpet in Milford is holding onto winter salt stains, basement dampness, or just years of regular wear, a proper deep clean does more than freshen the color, it extends the life of the carpet itself. Call QCI Restoration at (508) 756-8800 to schedule carpet cleaning for your Milford home or business.

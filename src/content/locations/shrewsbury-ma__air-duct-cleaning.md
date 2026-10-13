@@ -1,6 +1,6 @@
 ---
 archetype: "service-area-service"
-title: "Air Duct Cleaning in Shrewsbury, MA | Quality Contracting, Inc."
+title: "Air Duct Cleaning in Shrewsbury, MA | QCI Restoration"
 h1: "Air Duct Cleaning in Shrewsbury"
 meta_description: "Air duct cleaning in Shrewsbury, MA. Insurance billing accepted. Call (508) 756-8800."
 primary_keyword: "air duct cleaning shrewsbury"
@@ -42,10 +42,10 @@ Dryer vent cleaning is frequently requested alongside duct work, and for good re
 
 ## Reaching Shrewsbury from Our Auburn Location
 
-Quality Contracting is based in Auburn, which puts us just a short drive from Shrewsbury via Route 20 east or up I-290 to Route 9 eastbound across the Kenneth F. Burns bridge. Scheduling is straightforward for properties throughout the 01545 ZIP code, from Town Center out to the lakefront neighborhoods. Call (508) 756-8800 during business hours to set up an appointment; we'll confirm a window that works around your schedule.
+QCI Restoration is based in Auburn, which puts us just a short drive from Shrewsbury via Route 20 east or up I-290 to Route 9 eastbound across the Kenneth F. Burns bridge. Scheduling is straightforward for properties throughout the 01545 ZIP code, from Town Center out to the lakefront neighborhoods. Call (508) 756-8800 during business hours to set up an appointment; we'll confirm a window that works around your schedule.
 
 ## Local Note: What Shrewsbury's Lakefront Homes Add to the Equation
 
 Homes with walk-out basements along the Lake Quinsigamond shoreline sit close to the water table, and that proximity shows up in ductwork in a specific way: return-air ducts that run through unconditioned basement spaces often pull in elevated relative humidity during spring thaw and summer months. Over time, that moisture promotes biofilm growth on duct liner surfaces, a problem that's less common in the drier basements of Shrewsbury's inland neighborhoods. When we work on lakefront properties in the 01545 area, we pay particular attention to the basement return runs and often recommend clients address basement humidity control alongside the duct cleaning, since a dehumidifier does more long-term good than repeated cleaning cycles alone.
 
-If your home in Shrewsbury is overdue for a duct inspection, or if you've noticed the system running harder than it used to, more dust on furniture, or unexplained allergy flare-ups indoors, call Quality Contracting, Inc. at (508) 756-8800. We'll take a look at what's actually in your system and give you a straight answer on what it needs.
+If your home in Shrewsbury is overdue for a duct inspection, or if you've noticed the system running harder than it used to, more dust on furniture, or unexplained allergy flare-ups indoors, call QCI Restoration at (508) 756-8800. We'll take a look at what's actually in your system and give you a straight answer on what it needs.

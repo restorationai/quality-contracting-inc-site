@@ -1,6 +1,6 @@
 ---
 archetype: "service-area-service"
-title: "Air Duct Cleaning in Needham, MA | Quality Contracting, Inc."
+title: "Air Duct Cleaning in Needham, MA | QCI Restoration"
 h1: "Air Duct Cleaning in Needham"
 meta_description: "Air duct cleaning in Needham, MA. Insurance billing accepted. Call (508) 756-8800."
 primary_keyword: "air duct cleaning needham"
@@ -38,7 +38,7 @@ Dryer vent cleaning is frequently added to the same visit. Needham's older homes
 
 ## Getting to Needham from Our Auburn Location
 
-Quality Contracting, Inc. is based in Auburn, MA, and Needham is a straightforward drive east, typically via Route 9 or I-90 depending on the time of day. We schedule Needham appointments and will confirm an arrival window when you call. For non-emergency duct cleaning, we coordinate a time that works around your schedule; there's no need to clear the whole day.
+QCI Restoration is based in Auburn, MA, and Needham is a straightforward drive east, typically via Route 9 or I-90 depending on the time of day. We schedule Needham appointments and will confirm an arrival window when you call. For non-emergency duct cleaning, we coordinate a time that works around your schedule; there's no need to clear the whole day.
 
 ## Local Note
 
@@ -48,4 +48,4 @@ One thing that comes up specifically in Needham's mid-century ranch and split-le
 
 A typical residential duct cleaning in Needham takes between two and four hours depending on system size, number of vents, and whether dryer vent cleaning is included. You'll want to be home or have someone present who can provide access to the furnace, all registers, and the dryer. We contain the work area and clean up before we leave, the process is dusty inside the ductwork, but it shouldn't leave your floors or walls worse than we found them. After the job, we walk you through what we found, including any areas of concern like damaged flex duct, disconnected joints, or signs of past moisture intrusion that may need a follow-up look.
 
-If you're ready to schedule or want to talk through what's typical for your home's age and system type, call Quality Contracting, Inc. at (508) 756-8800. A straightforward conversation about your Needham home's ductwork is the fastest way to figure out whether cleaning is overdue or whether something more specific needs attention.
+If you're ready to schedule or want to talk through what's typical for your home's age and system type, call QCI Restoration at (508) 756-8800. A straightforward conversation about your Needham home's ductwork is the fastest way to figure out whether cleaning is overdue or whether something more specific needs attention.

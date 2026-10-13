@@ -1,6 +1,6 @@
 ---
 archetype: "service-area-service"
-title: "Mold Remediation in Oxford, MA | Quality Contracting, Inc."
+title: "Mold Remediation in Oxford, MA | QCI Restoration"
 h1: "Mold Remediation in Oxford"
 meta_description: "Mold remediation in Oxford, MA. Insurance billing accepted. Call (508) 756-8800."
 primary_keyword: "mold remediation oxford"
@@ -20,7 +20,7 @@ state: "MA"
 service_display: "Mold Remediation"
 rendered: true
 ---
-Oxford, MA sits in a part of Worcester County where wet winters, clay-heavy soils, and a housing stock that leans heavily on mid-century construction create conditions that mold genuinely thrives in. When a basement seeps after a March thaw or a bathroom exhaust fan fails in a tightly insulated ranch, the window between a damp surface and an active mold colony can be shorter than most homeowners expect. Quality Contracting, Inc. handles mold remediation in Oxford with the same methodical process we use throughout the region, calibrated to what these specific homes actually look like inside.
+Oxford, MA sits in a part of Worcester County where wet winters, clay-heavy soils, and a housing stock that leans heavily on mid-century construction create conditions that mold genuinely thrives in. When a basement seeps after a March thaw or a bathroom exhaust fan fails in a tightly insulated ranch, the window between a damp surface and an active mold colony can be shorter than most homeowners expect. QCI Restoration handles mold remediation in Oxford with the same methodical process we use throughout the region, calibrated to what these specific homes actually look like inside.
 
 ## Why Oxford Properties See Mold Problems
 
@@ -38,7 +38,7 @@ We do not consider the job done when the visible mold is gone. Clearance comes a
 
 ## Reaching Oxford from Auburn
 
-Quality Contracting, Inc. is based in Auburn, which puts Oxford a short drive down Route 12 or via I-395. We serve the full town, from properties near the Oxford town center to homes in the more rural stretches toward Charlton and Dudley. When you call (508) 756-8800, we can give you a realistic arrival window based on current scheduling and the nature of the work.
+QCI Restoration is based in Auburn, which puts Oxford a short drive down Route 12 or via I-395. We serve the full town, from properties near the Oxford town center to homes in the more rural stretches toward Charlton and Dudley. When you call (508) 756-8800, we can give you a realistic arrival window based on current scheduling and the nature of the work.
 
 ## Oxford Insurance Coordination
 
@@ -48,4 +48,4 @@ Whether a mold issue traces back to a slow roof leak, a failed sump pump, or a p
 
 Oxford has a meaningful number of homes built in the 1950s and 1960s with concrete block foundation walls rather than poured concrete. Block foundations are more porous by nature, and in a wet year the mortar joints between blocks can wick moisture into a basement continuously even without any obvious crack or breach. We pay particular attention to block walls during assessment because mold growth on the interior face of a block foundation often indicates that the exterior drainage or waterproofing needs attention too. Remediating the mold without flagging that root cause would leave the homeowner in the same situation within a season or two.
 
-If your Oxford home has visible mold, a persistent musty odor, or a recent water event that was not fully dried out, call Quality Contracting, Inc. at (508) 756-8800. We will assess the situation honestly, explain what needs to happen, and get the work done so your home is a safe place to be again.
+If your Oxford home has visible mold, a persistent musty odor, or a recent water event that was not fully dried out, call QCI Restoration at (508) 756-8800. We will assess the situation honestly, explain what needs to happen, and get the work done so your home is a safe place to be again.

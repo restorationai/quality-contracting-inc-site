@@ -1,6 +1,6 @@
 ---
 archetype: "service-area-service"
-title: "Carpet Cleaning in Oxford, MA | Quality Contracting, Inc."
+title: "Carpet Cleaning in Oxford, MA | QCI Restoration"
 h1: "Carpet Cleaning in Oxford"
 meta_description: "Carpet cleaning in Oxford, MA. Insurance billing accepted. Call (508) 756-8800."
 primary_keyword: "carpet cleaning oxford"
@@ -42,4 +42,4 @@ Our crews come out of Auburn, a short drive down Route 12 into Oxford, which kee
 
 One thing we watch for in this part of Worcester County: homes near the French River and other low-lying pockets of town tend to run slightly more humid in finished basements, even when there's no visible water issue. That extra moisture in the air slows carpet drying time after a deep clean, so on those jobs we lean harder on air movers and schedule a bit more dry time before furniture goes back into place. It's a small adjustment, but skipping it is how carpet ends up smelling musty again within a week.
 
-If your carpet is holding onto winter grit, old stains, or just needs a real deep clean instead of a quick surface pass, call Quality Contracting, Inc. at (508) 756-8800. We serve Oxford homes and businesses out of our Auburn base and can talk through timing, pricing, and what your specific carpet and subfloor need before we ever show up.
+If your carpet is holding onto winter grit, old stains, or just needs a real deep clean instead of a quick surface pass, call QCI Restoration at (508) 756-8800. We serve Oxford homes and businesses out of our Auburn base and can talk through timing, pricing, and what your specific carpet and subfloor need before we ever show up.

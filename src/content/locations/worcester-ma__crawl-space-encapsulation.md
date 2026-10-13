@@ -1,6 +1,6 @@
 ---
 archetype: "service-area-service"
-title: "Crawl Space Encapsulation in Worcester, MA | Quality Contracting, Inc."
+title: "Crawl Space Encapsulation in Worcester, MA | QCI Restoration"
 h1: "Crawl Space Encapsulation in Worcester"
 meta_description: "Crawl space encapsulation in Worcester, MA. Insurance billing accepted. Call (508) 756-8800."
 primary_keyword: "crawl space encapsulation worcester"
@@ -42,7 +42,7 @@ Finally, the team does a post-installation humidity check and leaves documentati
 
 ## Reaching Worcester from Auburn
 
-Quality Contracting, Inc. is based in Auburn, which puts the crew roughly ten minutes from Worcester via Route 12 or I-290. Most of Worcester's ZIP codes, including 01602, 01603, and 01605, are a straightforward run up the highway. Neighborhoods closer to the city's eastern side, like Webster Square and the Canal District, add only a few minutes. Scheduling is handled by phone at (508) 756-8800; the team can typically get an assessment on the calendar within a few business days.
+QCI Restoration is based in Auburn, which puts the crew roughly ten minutes from Worcester via Route 12 or I-290. Most of Worcester's ZIP codes, including 01602, 01603, and 01605, are a straightforward run up the highway. Neighborhoods closer to the city's eastern side, like Webster Square and the Canal District, add only a few minutes. Scheduling is handled by phone at (508) 756-8800; the team can typically get an assessment on the calendar within a few business days.
 
 ## Local Note: What Worcester Crews Know About Vented Crawl Spaces
 
@@ -50,4 +50,4 @@ Older Worcester building permits often required foundation vents as a condition 
 
 If you're in a multi-unit building, common throughout Worcester's Main South and Greendale neighborhoods, encapsulation under one unit of a triple-decker can benefit the whole structure, since crawl space air doesn't respect unit boundaries. That's a conversation worth having with co-owners or a property manager before scheduling.
 
-If your Worcester home has a crawl space that smells damp, shows stained joists, or is driving up your heating costs, call Quality Contracting, Inc. at (508) 756-8800 to schedule an assessment. A sealed, dry crawl space is one of the most durable improvements you can make to a New England home, and in Worcester's climate, it pays for itself faster than most homeowners expect.
+If your Worcester home has a crawl space that smells damp, shows stained joists, or is driving up your heating costs, call QCI Restoration at (508) 756-8800 to schedule an assessment. A sealed, dry crawl space is one of the most durable improvements you can make to a New England home, and in Worcester's climate, it pays for itself faster than most homeowners expect.

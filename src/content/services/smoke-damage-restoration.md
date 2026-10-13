@@ -1,6 +1,6 @@
 ---
 archetype: "service-landing"
-title: "Emergency Smoke Damage Restoration in Auburn | Quality Contracting, Inc."
+title: "Emergency Smoke Damage Restoration in Auburn | QCI Restoration"
 h1: "Emergency Smoke Damage Restoration in Auburn"
 meta_description: "Emergency smoke damage restoration in Auburn and surrounding areas. Insurance billing accepted. Call (508) 756-8800."
 primary_keyword: "smoke damage restoration auburn"
@@ -12,7 +12,7 @@ generated_at: "2026-10-01T18:44:22.886688+00:00"
 manual_override: false
 internal_links: ["/services/", "/contact/", "/service-areas/bellingham-ma/", "/service-areas/east-douglas-ma/", "/service-areas/fiskdale-ma/", "/service-areas/framingham-ma/", "/service-areas/franklin-town-ma/", "/service-areas/hopkinton-ma/", "/service-areas/hudson-ma/", "/service-areas/leominster-ma/", "/service-areas/marlborough-ma/", "/service-areas/maynard-ma/", "/service-areas/milford-ma/", "/service-areas/natick-ma/", "/blog/fire-damage-restoration-process/"]
 breadcrumb: [{"name": "Home", "url": "/"}, {"name": "Services", "url": "/services/"}, {"name": "smoke-damage-restoration"}]
-faq: [{"question": "Does homeowners insurance cover smoke damage restoration?", "answer": "Yes, homeowners insurance typically covers smoke damage restoration when it results from a covered fire event, including smoke migration into unaffected rooms. Quality Contracting, Inc. works with all insurance carriers and handles the documentation and scope of work needed to support your claim."}, {"question": "What's the difference between protein soot and synthetic soot?", "answer": "Protein soot comes from kitchen or grease fires and leaves a thin, often barely visible film with a strong, persistent odor. Synthetic soot comes from burning plastics, furniture, or electronics and leaves a thicker, sticky black residue. Each requires a different cleaning agent, and using the wrong one can set the odor into surfaces instead of removing it."}, {"question": "Will my house still smell like smoke after cleanup?", "answer": "It shouldn't, if the odor source was actually removed rather than masked. Lingering smell after cleaning usually means residue is still trapped in ductwork, insulation, or subflooring, which is why HVAC inspection and duct cleaning are part of a thorough smoke damage response."}, {"question": "Do you need to clean the HVAC system after a fire?", "answer": "In most cases, yes. Ductwork recirculates smoke particles through the house every time the system runs, and skipping duct cleaning is one of the most common reasons smoke odor returns weeks after a cleanup appeared successful."}, {"question": "Can furniture and electronics be cleaned instead of replaced after smoke damage?", "answer": "Many items can be salvaged depending on the type of soot and how long it sat before cleaning began. Fabrics, electronics, and hard-surface belongings are typically assessed and cleaned separately from the structure, since contents often respond differently to treatment than drywall or flooring."}]
+faq: [{"question": "Does homeowners insurance cover smoke damage restoration?", "answer": "Yes, homeowners insurance typically covers smoke damage restoration when it results from a covered fire event, including smoke migration into unaffected rooms. QCI Restoration works with all insurance carriers and handles the documentation and scope of work needed to support your claim."}, {"question": "What's the difference between protein soot and synthetic soot?", "answer": "Protein soot comes from kitchen or grease fires and leaves a thin, often barely visible film with a strong, persistent odor. Synthetic soot comes from burning plastics, furniture, or electronics and leaves a thicker, sticky black residue. Each requires a different cleaning agent, and using the wrong one can set the odor into surfaces instead of removing it."}, {"question": "Will my house still smell like smoke after cleanup?", "answer": "It shouldn't, if the odor source was actually removed rather than masked. Lingering smell after cleaning usually means residue is still trapped in ductwork, insulation, or subflooring, which is why HVAC inspection and duct cleaning are part of a thorough smoke damage response."}, {"question": "Do you need to clean the HVAC system after a fire?", "answer": "In most cases, yes. Ductwork recirculates smoke particles through the house every time the system runs, and skipping duct cleaning is one of the most common reasons smoke odor returns weeks after a cleanup appeared successful."}, {"question": "Can furniture and electronics be cleaned instead of replaced after smoke damage?", "answer": "Many items can be salvaged depending on the type of soot and how long it sat before cleaning began. Fabrics, electronics, and hard-surface belongings are typically assessed and cleaned separately from the structure, since contents often respond differently to treatment than drywall or flooring."}]
 service_slug: "smoke-damage-restoration"
 service_display: "Smoke Damage Restoration"
 rendered: true
@@ -37,7 +37,7 @@ The most common mistake is treating smoke damage like a surface cleaning job and
 
 ## What does smoke damage restoration cost?
 
-Costs vary widely based on how far smoke traveled, whether soot is protein or synthetic, and whether HVAC and contents are involved. Every loss is different, which is why Quality Contracting, Inc. provides a written scope of work before any cleaning begins. Homeowners insurance typically covers smoke damage restoration when it results from a covered fire event, though policies differ on contents cleaning and odor remediation limits.
+Costs vary widely based on how far smoke traveled, whether soot is protein or synthetic, and whether HVAC and contents are involved. Every loss is different, which is why QCI Restoration provides a written scope of work before any cleaning begins. Homeowners insurance typically covers smoke damage restoration when it results from a covered fire event, though policies differ on contents cleaning and odor remediation limits.
 
 | Scenario | Typical range |
 |---|---|
@@ -53,6 +53,6 @@ Auburn's winters push more wood stoves, fireplaces, and space heaters into daily
 
 ## Service area
 
-Quality Contracting, Inc. handles smoke damage restoration for homes and businesses in Auburn and throughout the surrounding Worcester County communities.
+QCI Restoration handles smoke damage restoration for homes and businesses in Auburn and throughout the surrounding Worcester County communities.
 
 If your home still smells like smoke after a fire, waiting lets that residue bond deeper into your walls, floors, and belongings. Call (508) 756-8800 to begin smoke and soot removal before odor sets in permanently.

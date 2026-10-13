@@ -1,6 +1,6 @@
 ---
 archetype: "service-area-service"
-title: "Upholstery Cleaning in Worcester, MA | Quality Contracting, Inc."
+title: "Upholstery Cleaning in Worcester, MA | QCI Restoration"
 h1: "Upholstery Cleaning in Worcester"
 meta_description: "Upholstery cleaning in Worcester, MA. Insurance billing accepted. Call (508) 756-8800."
 primary_keyword: "upholstery cleaning worcester"
@@ -38,4 +38,4 @@ Our crews run out of Auburn, just southwest of the city, so most Worcester neigh
 
 One thing that catches people off guard: Worcester's hilly terrain (it's long been nicknamed the City of Seven Hills) means a lot of homes have south- or west-facing bay windows that get strong afternoon sun for much of the year. Furniture positioned near those windows fades and dries out faster than pieces on interior walls, so we sometimes recommend a slightly different cleaning and conditioning schedule for sun-exposed pieces versus furniture tucked into a back room or finished basement.
 
-If your sofa, sectional, or leather chair is holding onto winter odors, sun fade, or a stain that's been sitting since the last dinner party, it's worth getting it cleaned before it sets in permanently. Call Quality Contracting, Inc. at (508) 756-8800 to talk through what your upholstery needs and get on the schedule for cleaning in Worcester or the surrounding county.
+If your sofa, sectional, or leather chair is holding onto winter odors, sun fade, or a stain that's been sitting since the last dinner party, it's worth getting it cleaned before it sets in permanently. Call QCI Restoration at (508) 756-8800 to talk through what your upholstery needs and get on the schedule for cleaning in Worcester or the surrounding county.

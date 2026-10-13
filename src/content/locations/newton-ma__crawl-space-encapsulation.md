@@ -1,6 +1,6 @@
 ---
 archetype: "service-area-service"
-title: "Crawl Space Encapsulation in Newton, MA | Quality Contracting, Inc."
+title: "Crawl Space Encapsulation in Newton, MA | QCI Restoration"
 h1: "Crawl Space Encapsulation in Newton"
 meta_description: "Crawl space encapsulation in Newton, MA. Insurance billing accepted. Call (508) 756-8800."
 primary_keyword: "crawl space encapsulation newton"
@@ -47,10 +47,10 @@ Because Newton's older rubble-stone walls are irregular, sealing the liner to th
 
 ## Reaching Newton from Auburn
 
-Quality Contracting is based in Auburn, which puts Newton roughly 30 to 35 miles east via the Massachusetts Turnpike (I-90). That route runs directly into Newton, the Pike crosses the city before reaching the I-95 interchange, so access to most of Newton's neighborhoods is straightforward without navigating surface roads through multiple towns. For scheduling, call us at (508) 756-8800 to confirm availability and set a time that works.
+QCI Restoration is based in Auburn, which puts Newton roughly 30 to 35 miles east via the Massachusetts Turnpike (I-90). That route runs directly into Newton, the Pike crosses the city before reaching the I-95 interchange, so access to most of Newton's neighborhoods is straightforward without navigating surface roads through multiple towns. For scheduling, call us at (508) 756-8800 to confirm availability and set a time that works.
 
 ## Local Note
 
 One thing that comes up specifically in Newton's older neighborhoods: many homes have had their crawl spaces partially finished or partially converted over the decades, a concrete slab poured over part of the dirt floor, a partial height wall added to create a storage area, or a sump pit installed without a proper liner. These piecemeal modifications can create pockets where the vapor barrier cannot run continuously, and they require custom detailing to encapsulate correctly. If your home has any of these conditions, mention it when you call, it helps us bring the right materials on the first visit rather than making a second trip.
 
-If you're dealing with moisture, soft floors, or air quality concerns in a Newton home and you suspect the crawl space is involved, the right starting point is a direct inspection. Call Quality Contracting at **(508) 756-8800** to schedule an assessment, we'll tell you what's there and what it will take to fix it.
+If you're dealing with moisture, soft floors, or air quality concerns in a Newton home and you suspect the crawl space is involved, the right starting point is a direct inspection. Call QCI Restoration at **(508) 756-8800** to schedule an assessment, we'll tell you what's there and what it will take to fix it.

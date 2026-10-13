@@ -1,6 +1,6 @@
 ---
 archetype: "service-area-service"
-title: "Contents Restoration and Storage in Hopkinton, MA | Quality Contracting, Inc."
+title: "Contents Restoration and Storage in Hopkinton, MA | QCI Restoration"
 h1: "Contents Restoration and Storage in Hopkinton"
 meta_description: "Contents restoration and storage in Hopkinton, MA. Insurance billing accepted. Call (508) 756-8800."
 primary_keyword: "contents restoration and storage hopkinton"
@@ -36,7 +36,7 @@ Once items reach the facility, cleaning methods are matched to the material: ult
 
 ## Reaching Hopkinton from Auburn
 
-Quality Contracting, Inc. is based in Auburn, which sits roughly 15 miles west of Hopkinton via Route 9 or I-90. The Route 9 corridor is the more direct surface route and connects Auburn to Hopkinton without highway interchange delays during off-peak hours. For scheduling and availability, call (508) 756-8800, the team can confirm timing based on current crew locations and the scope of your loss.
+QCI Restoration is based in Auburn, which sits roughly 15 miles west of Hopkinton via Route 9 or I-90. The Route 9 corridor is the more direct surface route and connects Auburn to Hopkinton without highway interchange delays during off-peak hours. For scheduling and availability, call (508) 756-8800, the team can confirm timing based on current crew locations and the scope of your loss.
 
 ## Working with Your Insurance Carrier
 

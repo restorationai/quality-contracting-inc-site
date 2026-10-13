@@ -1,6 +1,6 @@
 ---
 archetype: "service-area-service"
-title: "Carpet Cleaning in Shrewsbury, MA | Quality Contracting, Inc."
+title: "Carpet Cleaning in Shrewsbury, MA | QCI Restoration"
 h1: "Carpet Cleaning in Shrewsbury"
 meta_description: "Carpet cleaning in Shrewsbury, MA. Insurance billing accepted. Call (508) 756-8800."
 primary_keyword: "carpet cleaning shrewsbury"
@@ -42,4 +42,4 @@ Our crews run out of Auburn, which puts Shrewsbury well within normal service ra
 
 One pattern we see across Worcester County towns like Shrewsbury: carpets in finished basements often look fine on top but carry a faint mildew smell that homeowners assume is permanent. More often than not, it's moisture wicking up from the slab during humid stretches and settling into the carpet pad rather than the fiber itself. Standard surface cleaning won't touch that, which is why we check pad condition on basement jobs before committing to just a top-level clean, since in some cases pad replacement solves the odor problem for good where cleaning alone wouldn't.
 
-If your carpets in Shrewsbury are holding onto winter grit, summer dampness, or everyday wear, a professional cleaning resets the fiber and the air in the room at the same time. Call Quality Contracting, Inc. at (508) 756-8800 to schedule carpet cleaning for your Shrewsbury home or business.
+If your carpets in Shrewsbury are holding onto winter grit, summer dampness, or everyday wear, a professional cleaning resets the fiber and the air in the room at the same time. Call QCI Restoration at (508) 756-8800 to schedule carpet cleaning for your Shrewsbury home or business.

@@ -1,6 +1,6 @@
 ---
 archetype: "service-area-service"
-title: "Renovations, Remodels and General Contracting in Framingham, MA | Quality Contracting, Inc."
+title: "Renovations, Remodels and General Contracting in Framingham, MA | QCI Restoration"
 h1: "Renovations, Remodels and General Contracting in Framingham"
 meta_description: "Renovations, remodels and general contracting in Framingham, MA. Insurance billing accepted. Call (508) 756-8800."
 primary_keyword: "renovations, remodels and general contracting framingham"
@@ -44,4 +44,4 @@ Scope of work determines how much town involvement a renovation needs. A cosmeti
 
 A detail that catches a lot of homeowners off guard: older Framingham homes near the town's original colonial-era streets often have mixed foundation types within the same structure, original fieldstone under one section and a poured concrete addition under another. When a renovation involves moving plumbing or adding weight-bearing elements like an island or a second-floor addition, we check foundation type section by section rather than assuming consistency across the footprint. Skipping that step is how a straightforward kitchen remodel turns into an unplanned structural repair mid-project.
 
-If you're planning a kitchen remodel, bathroom renovation, or a full rebuild after storm or fire damage, Quality Contracting, Inc. plans the Framingham-specific groundwork first, so the finish work goes smoothly. Call (508) 756-8800 to talk through your project and get a scope and timeline specific to your home.
+If you're planning a kitchen remodel, bathroom renovation, or a full rebuild after storm or fire damage, QCI Restoration plans the Framingham-specific groundwork first, so the finish work goes smoothly. Call (508) 756-8800 to talk through your project and get a scope and timeline specific to your home.

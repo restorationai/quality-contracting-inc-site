@@ -1,6 +1,6 @@
 ---
 archetype: "service-area-service"
-title: "Carpet Cleaning in Leominster, MA | Quality Contracting, Inc."
+title: "Carpet Cleaning in Leominster, MA | QCI Restoration"
 h1: "Carpet Cleaning in Leominster"
 meta_description: "Carpet cleaning in Leominster, MA. Insurance billing accepted. Call (508) 756-8800."
 primary_keyword: "carpet cleaning leominster"
@@ -20,7 +20,7 @@ state: "MA"
 service_display: "Carpet Cleaning"
 rendered: true
 ---
-**Looking for carpet cleaning in Leominster?** Between New England's humid summers and the slush and road salt that track in all winter, carpets in this part of Worcester County take a beating most homeowners don't notice until the pile looks flat and the room starts to smell faintly musty. Whether it's a single living room or a full commercial suite, Quality Contracting, Inc. brings truck-mounted extraction and sanitization methods built for the moisture swings Leominster carpets actually deal with, not a generic cleaning routine.
+**Looking for carpet cleaning in Leominster?** Between New England's humid summers and the slush and road salt that track in all winter, carpets in this part of Worcester County take a beating most homeowners don't notice until the pile looks flat and the room starts to smell faintly musty. Whether it's a single living room or a full commercial suite, QCI Restoration brings truck-mounted extraction and sanitization methods built for the moisture swings Leominster carpets actually deal with, not a generic cleaning routine.
 
 ## Why Leominster Carpets Wear Differently
 
@@ -50,4 +50,4 @@ Our crews travel out from Auburn, MA, into Leominster regularly, so property man
 
 One detail that catches a lot of homeowners off guard: carpet that looks dry to the touch within an hour of cleaning can still have damp pad underneath for most of a day, especially in finished basements common in Leominster's older housing stock. Walking on it too soon, or closing up the room without airflow, is one of the fastest ways to reintroduce the musty smell the cleaning was meant to fix. We factor drying time into how we set up airflow before we leave, but giving the room a few extra hours with a window cracked or a fan running makes a real difference in this climate.
 
-If your carpet in Leominster is holding onto winter salt, summer humidity, or stains that keep resurfacing no matter how often you vacuum, call Quality Contracting, Inc. at (508) 756-8800 to schedule a cleaning that's calibrated to how this city's homes and buildings actually hold moisture.
+If your carpet in Leominster is holding onto winter salt, summer humidity, or stains that keep resurfacing no matter how often you vacuum, call QCI Restoration at (508) 756-8800 to schedule a cleaning that's calibrated to how this city's homes and buildings actually hold moisture.

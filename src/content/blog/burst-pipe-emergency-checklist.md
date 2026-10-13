@@ -70,7 +70,7 @@ A restoration contractor brings truck-mounted extraction equipment, industrial a
 
 Professional drying typically follows the IICRC S500 standard, a technical framework that specifies drying goals based on material type and ambient conditions. Reaching those targets, not just "feeling dry", is what separates a properly restored structure from one that develops mold problems six months later.
 
-If you're in the Auburn area and the damage is significant, Quality Contracting, Inc. handles both water damage restoration and appliance leak cleanup. Reach them at (508) 756-8800.
+If you're in the Auburn area and the damage is significant, QCI Restoration handles both water damage restoration and appliance leak cleanup. Reach them at (508) 756-8800.
 
 ## Step 5, The Longer Recovery: What Happens After the Water Is Gone
 

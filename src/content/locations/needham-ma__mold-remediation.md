@@ -1,6 +1,6 @@
 ---
 archetype: "service-area-service"
-title: "Mold Remediation in Needham, MA | Quality Contracting, Inc."
+title: "Mold Remediation in Needham, MA | QCI Restoration"
 h1: "Mold Remediation in Needham"
 meta_description: "Mold remediation in Needham, MA. Insurance billing accepted. Call (508) 756-8800."
 primary_keyword: "mold remediation needham"
@@ -20,7 +20,7 @@ state: "MA"
 service_display: "Mold Remediation"
 rendered: true
 ---
-Needham sits in a part of eastern Massachusetts where cold winters, wet springs, and older housing stock create the kind of slow-building moisture problems that mold exploits quietly, inside wall cavities, beneath bathroom tile, along basement rim joists where condensation collects for months before anyone notices the smell. By the time a musty odor is obvious in a Needham home, the colony behind it has often been growing since the last hard freeze thawed. Quality Contracting, Inc. handles mold remediation for Needham homeowners and property managers, working through the problem from source to clearance rather than masking the surface and moving on.
+Needham sits in a part of eastern Massachusetts where cold winters, wet springs, and older housing stock create the kind of slow-building moisture problems that mold exploits quietly, inside wall cavities, beneath bathroom tile, along basement rim joists where condensation collects for months before anyone notices the smell. By the time a musty odor is obvious in a Needham home, the colony behind it has often been growing since the last hard freeze thawed. QCI Restoration handles mold remediation for Needham homeowners and property managers, working through the problem from source to clearance rather than masking the surface and moving on.
 
 ## Why Needham Properties See Mold Issues
 
@@ -40,13 +40,13 @@ Affected porous materials, drywall, insulation, sometimes framing, are removed a
 
 ## Reaching Needham from Auburn
 
-Quality Contracting, Inc. is based in Auburn, MA. Needham is accessible via the Massachusetts Turnpike (I-90) east to Route 128 north, a route that typically puts a crew in Needham within a reasonable drive under normal traffic conditions. Scheduling is handled by phone at (508) 756-8800, call during business hours to arrange an assessment and discuss the scope of the work before anything is committed to.
+QCI Restoration is based in Auburn, MA. Needham is accessible via the Massachusetts Turnpike (I-90) east to Route 128 north, a route that typically puts a crew in Needham within a reasonable drive under normal traffic conditions. Scheduling is handled by phone at (508) 756-8800, call during business hours to arrange an assessment and discuss the scope of the work before anything is committed to.
 
 ## Needham Insurance Coordination
 
 Whether a mold claim is covered depends heavily on the documented cause. Mold that traces back to a sudden, covered event, a burst pipe, an appliance failure, a roof leak from a named storm, is more likely to be covered than mold attributed to long-term seepage or maintenance issues. Documentation matters enormously here: detailed moisture readings, photographs of affected materials before removal, and a written scope of work give your adjuster the information needed to evaluate the claim accurately.
 
-Quality Contracting works with homeowners to produce that documentation systematically. We photograph and log conditions before work begins, during material removal, and after remediation is complete. That record follows the claim through the process and reduces the back-and-forth that delays settlements.
+QCI Restoration works with homeowners to produce that documentation systematically. We photograph and log conditions before work begins, during material removal, and after remediation is complete. That record follows the claim through the process and reduces the back-and-forth that delays settlements.
 
 ## Local Note
 
@@ -54,4 +54,4 @@ Needham's older homes, particularly those built in the decades around World War 
 
 If your home has plaster walls and you've had any water intrusion, even a minor one that seemed to dry on its own, it's worth having the affected area checked before assuming the problem resolved itself.
 
-If you're seeing discoloration, smelling something that wasn't there before a wet season, or dealing with the aftermath of a leak in a Needham home, call Quality Contracting, Inc. at (508) 756-8800 to schedule an assessment.
+If you're seeing discoloration, smelling something that wasn't there before a wet season, or dealing with the aftermath of a leak in a Needham home, call QCI Restoration at (508) 756-8800 to schedule an assessment.

@@ -1,6 +1,6 @@
 ---
 archetype: "service-area-service"
-title: "Emergency Water Damage Restoration in Ware, MA | Quality Contracting, Inc."
+title: "Emergency Water Damage Restoration in Ware, MA | QCI Restoration"
 h1: "Emergency Water Damage Restoration in Ware"
 meta_description: "Emergency water damage restoration in Ware, MA. Insurance billing accepted. Call (508) 756-8800."
 primary_keyword: "water damage restoration ware"
@@ -38,4 +38,4 @@ We run out of Auburn, which puts us a straightforward drive out Route 9 and down
 
 A lot of Ware's older homes have additions built at different points in the twentieth century, which means the original fieldstone foundation might only extend under part of the house while a newer poured-concrete section sits under an addition. That transition point is often where we find the worst hidden damage, because water migrates along the seam between the two foundation types and gets trapped where standard moisture readings from the surface wouldn't catch it. We've learned to check those junctions specifically rather than assuming the whole foundation behaves the same way.
 
-If you're dealing with standing water, a failed sump pump, or a slow leak that's been feeding mold growth in a Ware basement, don't wait for it to get worse. Quality Contracting, Inc. handles water removal, extraction, and structural drying for homes and businesses throughout Ware, and a phone call now is the fastest way to get ahead of the damage before it spreads into framing, flooring, and finished living space.
+If you're dealing with standing water, a failed sump pump, or a slow leak that's been feeding mold growth in a Ware basement, don't wait for it to get worse. QCI Restoration handles water removal, extraction, and structural drying for homes and businesses throughout Ware, and a phone call now is the fastest way to get ahead of the damage before it spreads into framing, flooring, and finished living space.

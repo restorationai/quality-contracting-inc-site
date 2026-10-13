@@ -1,6 +1,6 @@
 ---
 archetype: "service-area-service"
-title: "Upholstery Cleaning in Fiskdale, MA | Quality Contracting, Inc."
+title: "Upholstery Cleaning in Fiskdale, MA | QCI Restoration"
 h1: "Upholstery Cleaning in Fiskdale"
 meta_description: "Upholstery cleaning in Fiskdale, MA. Insurance billing accepted. Call (508) 756-8800."
 primary_keyword: "upholstery cleaning fiskdale"
@@ -20,7 +20,7 @@ state: "MA"
 service_display: "Upholstery Cleaning"
 rendered: true
 ---
-Upholstery holds onto more than it shows. In Fiskdale's mix of older farmhouse-style homes and newer builds tucked around the Sturbridge area, sofas and chairs absorb humidity swings through every season, plus whatever comes in on boots, paws, and the occasional wood stove smoke that still heats a lot of central Massachusetts living rooms. Quality Contracting, Inc. cleans fabric and leather upholstery on-site, using methods matched to the piece rather than a one-size approach.
+Upholstery holds onto more than it shows. In Fiskdale's mix of older farmhouse-style homes and newer builds tucked around the Sturbridge area, sofas and chairs absorb humidity swings through every season, plus whatever comes in on boots, paws, and the occasional wood stove smoke that still heats a lot of central Massachusetts living rooms. QCI Restoration cleans fabric and leather upholstery on-site, using methods matched to the piece rather than a one-size approach.
 
 ## Why Fiskdale Homes See Upholstery Wear Faster
 
@@ -38,4 +38,4 @@ We run jobs out from Auburn, which sits a straightforward drive down Route 20 in
 
 A lot of the upholstery we see in this part of Fiskdale has spent years near a wood stove or fireplace, and that changes the cleaning approach. Soot and creosote residue are oil-based, which means they don't lift with plain water extraction the way dust and pet dander do. We pretreat those pieces with a solvent-compatible cleaner before the main extraction pass, otherwise the soot just smears deeper into the fibers instead of coming out. If your sofa sits within a few feet of a hearth, mention it when you call so we can bring the right pretreatment.
 
-If your sofa's started smelling a little musty after a humid stretch, or your leather chair looks dry and dull after a New England winter of dry heat, it's worth cleaning before the damage sets deeper into the material. Call Quality Contracting, Inc. at (508) 756-8800 to get upholstery cleaning scheduled for your Fiskdale home.
+If your sofa's started smelling a little musty after a humid stretch, or your leather chair looks dry and dull after a New England winter of dry heat, it's worth cleaning before the damage sets deeper into the material. Call QCI Restoration at (508) 756-8800 to get upholstery cleaning scheduled for your Fiskdale home.

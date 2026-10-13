@@ -82,4 +82,4 @@ In Auburn and the surrounding MetroWest and Worcester County area, older housing
 
 ---
 
-If you're past the research stage and ready to find out what you're actually dealing with, Quality Contracting, Inc. handles both mold inspection and full remediation for residential and commercial properties in Auburn, MA and the surrounding area. Call **(508) 756-8800** to talk through what you're seeing and schedule an assessment.
+If you're past the research stage and ready to find out what you're actually dealing with, QCI Restoration handles both mold inspection and full remediation for residential and commercial properties in Auburn, MA and the surrounding area. Call **(508) 756-8800** to talk through what you're seeing and schedule an assessment.

@@ -1,6 +1,6 @@
 ---
 archetype: "service-area-service"
-title: "Carpet Cleaning in Natick, MA | Quality Contracting, Inc."
+title: "Carpet Cleaning in Natick, MA | QCI Restoration"
 h1: "Carpet Cleaning in Natick"
 meta_description: "Carpet cleaning in Natick, MA. Insurance billing accepted. Call (508) 756-8800."
 primary_keyword: "carpet cleaning natick"
@@ -38,4 +38,4 @@ Natick's mix of professional offices, medical suites, and retail space along its
 
 A detail that doesn't show up until you've worked in enough Natick basements: carpet installed directly over concrete slab in those 1960s and '70s split-levels often looks dry on the surface while the pad underneath is holding moisture the slab never fully released. We check moisture levels in those lower-level installations before and after cleaning rather than assuming a surface-dry carpet means the job is done, because skipping that step is exactly how odor and mildew come back a few weeks later.
 
-If your carpet is showing winter salt lines, a lingering basement odor, or just hasn't been deep cleaned in a while, Quality Contracting can schedule a visit and walk the space with you before any work begins. Reach us at (508) 756-8800 to set up carpet cleaning for your Natick home or business.
+If your carpet is showing winter salt lines, a lingering basement odor, or just hasn't been deep cleaned in a while, QCI Restoration can schedule a visit and walk the space with you before any work begins. Reach us at (508) 756-8800 to set up carpet cleaning for your Natick home or business.

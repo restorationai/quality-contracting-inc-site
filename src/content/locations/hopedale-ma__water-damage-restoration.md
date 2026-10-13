@@ -1,6 +1,6 @@
 ---
 archetype: "service-area-service"
-title: "Emergency Water Damage Restoration in Hopedale, MA | Quality Contracting, Inc."
+title: "Emergency Water Damage Restoration in Hopedale, MA | QCI Restoration"
 h1: "Emergency Water Damage Restoration in Hopedale"
 meta_description: "Emergency water damage restoration in Hopedale, MA. Insurance billing accepted. Call (508) 756-8800."
 primary_keyword: "water damage restoration hopedale"
@@ -38,4 +38,4 @@ Our crews run out of Auburn, and the most direct way into Hopedale is down throu
 
 Hopedale's older sewer and water infrastructure, much of it installed when the town was built around its mills, means some streets still see slower municipal drainage response during heavy rain than newer developments nearby. Homeowners on these older lines sometimes notice water backing up through basement floor drains before it ever shows up as a visible leak elsewhere in the house, which is why we check floor drains and the lowest point of the foundation first on any Hopedale call, even when the homeowner points us toward a specific room upstairs.
 
-If water is spreading through your Hopedale home right now, don't wait on it to get worse. Quality Contracting handles water removal, extraction, and the structural drying that follows, and we'd rather be on the phone with you working through next steps than have you guessing at what a wet subfloor means for your foundation.
+If water is spreading through your Hopedale home right now, don't wait on it to get worse. QCI Restoration handles water removal, extraction, and the structural drying that follows, and we'd rather be on the phone with you working through next steps than have you guessing at what a wet subfloor means for your foundation.

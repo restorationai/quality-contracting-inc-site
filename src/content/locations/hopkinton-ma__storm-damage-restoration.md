@@ -1,6 +1,6 @@
 ---
 archetype: "service-area-service"
-title: "Emergency Storm Damage Restoration in Hopkinton, MA | Quality Contracting, Inc."
+title: "Emergency Storm Damage Restoration in Hopkinton, MA | QCI Restoration"
 h1: "Emergency Storm Damage Restoration in Hopkinton"
 meta_description: "Emergency storm damage restoration in Hopkinton, MA. Insurance billing accepted. Call (508) 756-8800."
 primary_keyword: "storm damage restoration hopkinton"
@@ -43,7 +43,7 @@ Tree damage cleanup requires its own sequencing. Limb and trunk removal comes fi
 
 ## Reaching Hopkinton from Auburn
 
-Quality Contracting, Inc. is based in Auburn, which puts Hopkinton roughly a straight shot east on Route 9 through Westborough. That corridor is one of the more direct routes in the region connecting the two towns, and it stays accessible even during the kind of storm aftermath, downed branches, localized flooding on low-lying roads, that can complicate travel on smaller residential streets. Scheduling is handled by phone at (508) 756-8800.
+QCI Restoration is based in Auburn, which puts Hopkinton roughly a straight shot east on Route 9 through Westborough. That corridor is one of the more direct routes in the region connecting the two towns, and it stays accessible even during the kind of storm aftermath, downed branches, localized flooding on low-lying roads, that can complicate travel on smaller residential streets. Scheduling is handled by phone at (508) 756-8800.
 
 ## Hopkinton Insurance Coordination
 
@@ -55,4 +55,4 @@ If a tree from a neighbor's yard caused the damage, the liability picture can ge
 
 Hopkinton's older neighborhoods include homes built on full basements with fieldstone or early poured-concrete foundations, construction that was standard in central Massachusetts through much of the mid-twentieth century. During a heavy rain event, these foundations can take on water through mortar joints or hairline cracks that were never a problem in drier years but become active entry points when the ground is already saturated from a previous storm earlier in the week. Homeowners sometimes assume the water is coming through the floor drain or a sump failure when the actual source is lateral infiltration through the foundation wall. Identifying the true entry point before drying equipment is placed makes a significant difference in whether the drying actually works.
 
-If you're dealing with storm damage at your Hopkinton property, call Quality Contracting, Inc. at (508) 756-8800. The sooner the structure is stabilized and moisture is documented, the better the outcome, for the building and for the insurance claim.
+If you're dealing with storm damage at your Hopkinton property, call QCI Restoration at (508) 756-8800. The sooner the structure is stabilized and moisture is documented, the better the outcome, for the building and for the insurance claim.

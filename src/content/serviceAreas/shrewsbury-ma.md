@@ -1,6 +1,6 @@
 ---
 archetype: "service-area"
-title: "Restoration Services in Shrewsbury, MA | Quality Contracting, Inc."
+title: "Restoration Services in Shrewsbury, MA | QCI Restoration"
 h1: "Restoration Services in Shrewsbury"
 meta_description: "Serving Shrewsbury, MA with water, fire, mold, and storm damage restoration. Experienced team. Call (508) 756-8800."
 primary_keyword: "restoration services shrewsbury"
@@ -19,7 +19,7 @@ state: "MA"
 primary: false
 rendered: true
 ---
-When water seeps into a walk-out basement off Lake Quinsigamond, smoke settles into the rafters of a postwar cape on Edgemere, or a burst pipe floods a retail bay along the Route 9 corridor, Quality Contracting, Inc. is the crew Shrewsbury property owners call. We handle water damage mitigation, fire and smoke restoration, mold remediation, and reconstruction for homes and commercial properties across ZIP codes 01545 and 01546, and we coordinate directly with your insurance carrier so the claims process doesn't fall on your shoulders.
+When water seeps into a walk-out basement off Lake Quinsigamond, smoke settles into the rafters of a postwar cape on Edgemere, or a burst pipe floods a retail bay along the Route 9 corridor, QCI Restoration is the crew Shrewsbury property owners call. We handle water damage mitigation, fire and smoke restoration, mold remediation, and reconstruction for homes and commercial properties across ZIP codes 01545 and 01546, and we coordinate directly with your insurance carrier so the claims process doesn't fall on your shoulders.
 
 ## Restoration emergencies common in Shrewsbury
 
@@ -43,7 +43,7 @@ The Route 9 commercial corridor brings its own set of challenges: retail and res
 
 ## Coverage and how fast we can get there
 
-Quality Contracting, Inc. is headquartered in Auburn, MA, which puts Shrewsbury roughly 10 to 12 miles away via Route 20 east or a quick run up I-290 to Route 9. The White City Shopping Center area and the Town Center are straightforward drives from our Auburn shop. Edgemere and the Lake Quinsigamond shoreline neighborhoods are accessible via Route 9 across the Kenneth F. Burns Bridge, a route our crews know well. Call us at (508) 756-8800 during business hours and we'll get a crew scheduled and on the road to your property promptly.
+QCI Restoration is headquartered in Auburn, MA, which puts Shrewsbury roughly 10 to 12 miles away via Route 20 east or a quick run up I-290 to Route 9. The White City Shopping Center area and the Town Center are straightforward drives from our Auburn shop. Edgemere and the Lake Quinsigamond shoreline neighborhoods are accessible via Route 9 across the Kenneth F. Burns Bridge, a route our crews know well. Call us at (508) 756-8800 during business hours and we'll get a crew scheduled and on the road to your property promptly.
 
 ## Building stock, site conditions, and permits in Shrewsbury
 
@@ -51,4 +51,4 @@ Most of Shrewsbury's older stock sits on poured concrete or block foundations wi
 
 Age brings hazards a scope has to plan around: asbestos in floor tile, mastic, and boiler pipe wrap, and lead paint in anything built before 1978. Massachusetts work follows the state building code, and structural repair, reframing, roofing, plumbing, and electrical work are permitted through Shrewsbury's own building department before the rebuild starts.
 
-If you're dealing with water, fire, or mold damage at a Shrewsbury property, call Quality Contracting, Inc. at **(508) 756-8800**. We'll assess the damage, walk you through the next steps, and handle the insurance coordination so you can focus on getting your property back to normal.
+If you're dealing with water, fire, or mold damage at a Shrewsbury property, call QCI Restoration at **(508) 756-8800**. We'll assess the damage, walk you through the next steps, and handle the insurance coordination so you can focus on getting your property back to normal.

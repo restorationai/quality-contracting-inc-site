@@ -1,6 +1,6 @@
 ---
 archetype: "service-area-service"
-title: "Emergency Fire Damage Restoration in Wellesley, MA | Quality Contracting, Inc."
+title: "Emergency Fire Damage Restoration in Wellesley, MA | QCI Restoration"
 h1: "Emergency Fire Damage Restoration in Wellesley"
 meta_description: "Emergency fire damage restoration in Wellesley, MA. Insurance billing accepted. Call (508) 756-8800."
 primary_keyword: "fire damage restoration wellesley"
@@ -23,7 +23,7 @@ rendered: true
 <!-- emergency-open -->
 **Fire damage emergency in Wellesley? Call now for emergency service.** Our crew responds fast to secure the property and start the recovery.
 
-Wellesley's housing stock tells a story in wood and plaster, Colonial Revivals, Tudors, and Craftsman bungalows built across several decades, many with balloon-frame construction that lets fire travel vertically through wall cavities faster than a modern platform frame ever would. When a kitchen fire or electrical fault ignites in one of these homes, the damage rarely stays where it started. Quality Contracting, Inc. responds to fire and smoke restoration calls throughout Wellesley, bringing the equipment and process knowledge that older New England construction actually demands.
+Wellesley's housing stock tells a story in wood and plaster, Colonial Revivals, Tudors, and Craftsman bungalows built across several decades, many with balloon-frame construction that lets fire travel vertically through wall cavities faster than a modern platform frame ever would. When a kitchen fire or electrical fault ignites in one of these homes, the damage rarely stays where it started. QCI Restoration responds to fire and smoke restoration calls throughout Wellesley, bringing the equipment and process knowledge that older New England construction actually demands.
 
 ## Why Wellesley's Older Homes Complicate Fire Damage
 
@@ -49,7 +49,7 @@ Every fire loss is different, but the sequence of work follows a consistent logi
 
 ## Reaching Wellesley from Auburn
 
-Quality Contracting, Inc. is based in Auburn, MA. Wellesley is accessible via Route 9 eastbound, a corridor our crews travel regularly for jobs across MetroWest and the western suburbs. Route 9 runs directly through Wellesley center, putting the town well within our established service area. If you're calling from the eastern end of town near the Needham line or from the neighborhoods closer to Route 128, the same corridor connects us efficiently. Call (508) 756-8800 to reach our team and discuss scheduling.
+QCI Restoration is based in Auburn, MA. Wellesley is accessible via Route 9 eastbound, a corridor our crews travel regularly for jobs across MetroWest and the western suburbs. Route 9 runs directly through Wellesley center, putting the town well within our established service area. If you're calling from the eastern end of town near the Needham line or from the neighborhoods closer to Route 128, the same corridor connects us efficiently. Call (508) 756-8800 to reach our team and discuss scheduling.
 
 ## Working with Wellesley's Permitting and HOA Landscape
 
@@ -61,4 +61,4 @@ Wellesley has a number of condominium associations and historic district conside
 
 Wellesley's older homes frequently have knob-and-tube wiring that was never fully replaced, sometimes running alongside updated circuits added in later decades. After a fire, this mixed electrical history matters: a fire that appears to have started from a modern appliance circuit may have involved legacy wiring in the wall cavity as a contributing factor. Before reconstruction closes up any walls, it's worth having a licensed electrician walk the affected areas, because restoring the structure over a wiring hazard just recreates the risk. We coordinate with electrical trades as part of the reconstruction sequence rather than treating it as someone else's problem.
 
-If your Wellesley home has sustained fire or smoke damage, the sooner the building is stabilized and the restoration process begins, the narrower the final scope of work tends to be. Call Quality Contracting, Inc. at (508) 756-8800 to talk through what you're dealing with and get the process started.
+If your Wellesley home has sustained fire or smoke damage, the sooner the building is stabilized and the restoration process begins, the narrower the final scope of work tends to be. Call QCI Restoration at (508) 756-8800 to talk through what you're dealing with and get the process started.

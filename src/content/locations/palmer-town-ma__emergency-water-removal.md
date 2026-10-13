@@ -1,6 +1,6 @@
 ---
 archetype: "service-area-service"
-title: "Emergency Water Removal & Cleanup in Palmer Town, MA | Quality Contracting, Inc."
+title: "Emergency Water Removal & Cleanup in Palmer Town, MA | QCI Restoration"
 h1: "Emergency Water Removal & Cleanup in Palmer Town"
 meta_description: "Emergency water removal & cleanup in Palmer Town, MA. Insurance billing accepted. Call (508) 756-8800."
 primary_keyword: "emergency water removal & cleanup palmer town"
@@ -42,4 +42,4 @@ One thing worth knowing before you call your carrier: a homeowners policy typica
 
 Older Palmer basements with fieldstone or mortared-rubble walls hold moisture in the mortar joints themselves, not just on the surface, so a wall that reads dry to the touch can still be releasing moisture into the air for days after extraction. We factor that into how long we leave dehumidification equipment running rather than pulling it the moment surfaces look dry, because pulling equipment too early on these foundations is one of the more common reasons secondary mold shows up a week or two later.
 
-Water sitting in a Palmer basement or crawlspace doesn't improve with time, and the clock on mold colonization starts within the first day or two. If you're dealing with a burst pipe, a failed sump pump, or water coming in from outside, call Quality Contracting, Inc. at (508) 756-8800 and we'll get the extraction and drying process started in Palmer Town.
+Water sitting in a Palmer basement or crawlspace doesn't improve with time, and the clock on mold colonization starts within the first day or two. If you're dealing with a burst pipe, a failed sump pump, or water coming in from outside, call QCI Restoration at (508) 756-8800 and we'll get the extraction and drying process started in Palmer Town.

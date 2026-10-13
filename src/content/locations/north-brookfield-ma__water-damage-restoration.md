@@ -1,6 +1,6 @@
 ---
 archetype: "service-area-service"
-title: "Emergency Water Damage Restoration in North Brookfield, MA | Quality Contracting, Inc."
+title: "Emergency Water Damage Restoration in North Brookfield, MA | QCI Restoration"
 h1: "Emergency Water Damage Restoration in North Brookfield"
 meta_description: "Emergency water damage restoration in North Brookfield, MA. Insurance billing accepted. Call (508) 756-8800."
 primary_keyword: "water damage restoration north brookfield"
@@ -38,4 +38,4 @@ We're based out of Auburn, which puts North Brookfield within a reasonable drive
 
 A lot of North Brookfield's older farmhouses were built with the main structure and a later-added ell or barn connection, and that seam is often where the insulation and plumbing are weakest. When a pipe freezes and splits in one of those additions, the water frequently travels along the old sill connection into the main house basement before anyone notices a problem, which means the visible damage point and the actual source can be two different rooms. We've learned to check that transition area first on any older North Brookfield property, even when the obvious wet spot points somewhere else.
 
-If water is spreading through your North Brookfield home or business right now, don't wait on the structure to tell you how bad it is. Call Quality Contracting, Inc. at (508) 756-8800 for water extraction, structural drying, and water mitigation handled with an understanding of how this town's older homes and rural utilities actually behave under water damage.
+If water is spreading through your North Brookfield home or business right now, don't wait on the structure to tell you how bad it is. Call QCI Restoration at (508) 756-8800 for water extraction, structural drying, and water mitigation handled with an understanding of how this town's older homes and rural utilities actually behave under water damage.

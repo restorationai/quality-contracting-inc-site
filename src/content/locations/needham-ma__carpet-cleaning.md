@@ -1,6 +1,6 @@
 ---
 archetype: "service-area-service"
-title: "Carpet Cleaning in Needham, MA | Quality Contracting, Inc."
+title: "Carpet Cleaning in Needham, MA | QCI Restoration"
 h1: "Carpet Cleaning in Needham"
 meta_description: "Carpet cleaning in Needham, MA. Insurance billing accepted. Call (508) 756-8800."
 primary_keyword: "carpet cleaning needham"
@@ -38,4 +38,4 @@ Needham's commercial strip along the town's business corridors and its office pa
 
 One thing that trips up a lot of Needham homeowners: carpet in a finished basement that backs up to an unfinished mechanical room often looks fine on top but is quietly wicking moisture from the slab seam where the two spaces meet. We check that transition point specifically during basement jobs, because treating the visible carpet without addressing what's happening at that seam just means the problem resurfaces a few weeks later, sometimes as a musty smell before it ever shows as a visible stain.
 
-If your carpet in Needham is holding onto winter salt stains, basement dampness, or just years of regular wear, a proper deep clean does more than make it look better. It resets the fiber and pad so the next season of New England weather doesn't compound on top of what's already there. Quality Contracting, Inc. is based in Auburn and works carpet cleaning jobs throughout Needham for both homeowners and commercial properties. Call (508) 756-8800 to talk through what your carpet needs and get on the schedule.
+If your carpet in Needham is holding onto winter salt stains, basement dampness, or just years of regular wear, a proper deep clean does more than make it look better. It resets the fiber and pad so the next season of New England weather doesn't compound on top of what's already there. QCI Restoration is based in Auburn and works carpet cleaning jobs throughout Needham for both homeowners and commercial properties. Call (508) 756-8800 to talk through what your carpet needs and get on the schedule.

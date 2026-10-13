@@ -1,6 +1,6 @@
 ---
 archetype: "service-area-service"
-title: "Carpet Cleaning in Hopkinton, MA | Quality Contracting, Inc."
+title: "Carpet Cleaning in Hopkinton, MA | QCI Restoration"
 h1: "Carpet Cleaning in Hopkinton"
 meta_description: "Carpet cleaning in Hopkinton, MA. Insurance billing accepted. Call (508) 756-8800."
 primary_keyword: "carpet cleaning hopkinton"
@@ -38,4 +38,4 @@ We're based in Auburn, and Hopkinton sits within our regular service area along 
 
 One thing crews learn quickly working in Hopkinton: carpets near mudrooms and back entries on the town's rural properties often look fine at a glance but test heavily soiled underneath because homeowners wipe boots at the door rather than leaving them outside, which pushes grit directly onto the carpet rather than a hard floor. We check those transition zones separately from the rest of the house, because treating them the same as a living room carpet usually means under-cleaning the exact spot that needs the most attention.
 
-If your carpets are holding onto winter salt stains, a dog-walk muddy season, or just years of regular wear, a professional deep clean resets the fiber and the air quality in the room at the same time. Call Quality Contracting, Inc. at (508) 756-8800 to schedule carpet cleaning in Hopkinton, whether that's a single room, a whole house, or a commercial space that needs to look sharp for clients.
+If your carpets are holding onto winter salt stains, a dog-walk muddy season, or just years of regular wear, a professional deep clean resets the fiber and the air quality in the room at the same time. Call QCI Restoration at (508) 756-8800 to schedule carpet cleaning in Hopkinton, whether that's a single room, a whole house, or a commercial space that needs to look sharp for clients.

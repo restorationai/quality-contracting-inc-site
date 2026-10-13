@@ -1,6 +1,6 @@
 ---
 archetype: "service-area"
-title: "Restoration Services in Maynard, MA | Quality Contracting, Inc."
+title: "Restoration Services in Maynard, MA | QCI Restoration"
 h1: "Restoration Services in Maynard"
 meta_description: "Serving Maynard, MA with water, fire, mold, and storm damage restoration. Experienced team. Call (508) 756-8800."
 primary_keyword: "restoration services maynard"
@@ -19,7 +19,7 @@ state: "MA"
 primary: false
 rendered: true
 ---
-Quality Contracting, Inc. handles water damage, fire and smoke cleanup, mold remediation, and storm response for homes and businesses in Maynard, bringing restoration crews and direct insurance billing to a town where many properties are a century or more old. Whether it's a failed sump pump in a mill-era basement or wind damage after a nor'easter rolls through, we scope the loss, document it for your carrier, and get the drying or repair work moving.
+QCI Restoration handles water damage, fire and smoke cleanup, mold remediation, and storm response for homes and businesses in Maynard, bringing restoration crews and direct insurance billing to a town where many properties are a century or more old. Whether it's a failed sump pump in a mill-era basement or wind damage after a nor'easter rolls through, we scope the loss, document it for your carrier, and get the drying or repair work moving.
 
 ## Restoration emergencies common in Maynard
 
@@ -45,4 +45,4 @@ Much of Maynard's housing dates to its mill-town growth in the late 1800s and ea
 
 Soil near the Assabet River runs toward silt and clay with a higher water table, which pushes hydrostatic pressure against foundation walls during wet seasons and is a common driver of basement seepage even in homes with no visible roof or plumbing failure. Structural repairs and rebuilds in Maynard fall under the Massachusetts State Building Code (780 CMR) and are permitted through the town's local building department, with flood-zone rules applying to properties within the FEMA-mapped floodplain along the river.
 
-If water, fire, or mold has hit your Maynard property, call Quality Contracting, Inc. at (508) 756-8800. We'll walk the damage with you, explain what the drying or repair process actually involves, and start documentation your insurance carrier will need.
+If water, fire, or mold has hit your Maynard property, call QCI Restoration at (508) 756-8800. We'll walk the damage with you, explain what the drying or repair process actually involves, and start documentation your insurance carrier will need.

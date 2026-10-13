@@ -1,6 +1,6 @@
 ---
 archetype: "service-area-service"
-title: "Renovations, Remodels and General Contracting in Bellingham, MA | Quality Contracting, Inc."
+title: "Renovations, Remodels and General Contracting in Bellingham, MA | QCI Restoration"
 h1: "Renovations, Remodels and General Contracting in Bellingham"
 meta_description: "Renovations, remodels and general contracting in Bellingham, MA. Insurance billing accepted. Call (508) 756-8800."
 primary_keyword: "renovations, remodels and general contracting bellingham"
@@ -42,4 +42,4 @@ Any structural change, electrical upgrade, or plumbing relocation in Bellingham 
 
 A lot of the older homes we see in this part of the Blackstone Valley were built with sill plates set closer to grade than current code allows, which matters more than most homeowners realize once you're adding a bathroom or extending plumbing to a new addition. We check sill and foundation condition early in the scoping visit, before cabinets or fixtures get ordered, so there are no surprises once demolition starts.
 
-If you're planning a kitchen remodel, a bathroom overhaul, or a full rebuild after water or storm damage, Quality Contracting works directly with Bellingham homeowners from the first walkthrough through final inspection. Call (508) 756-8800 to set up a time for us to come look at the space and talk through what the project actually involves.
+If you're planning a kitchen remodel, a bathroom overhaul, or a full rebuild after water or storm damage, QCI Restoration works directly with Bellingham homeowners from the first walkthrough through final inspection. Call (508) 756-8800 to set up a time for us to come look at the space and talk through what the project actually involves.
