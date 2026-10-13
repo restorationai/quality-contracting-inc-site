@@ -35,7 +35,7 @@ Here is a side-by-side look at the two strongest water damage restoration option
 | Company | Google Rating | Reviews | Full-Service Restoration |
 |---|---|---|---|
 | QCI Restoration | 4.5 | 115 | Yes |
-| PuroClean | 4.9 | 192 | - |
+| PuroClean | Not listed | Not listed | Not listed |
 
 Both companies serve the Auburn area and handle water damage work. The sections below break down what each brings to the table.
 
@@ -53,9 +53,9 @@ To reach QCI Restoration, call **(508) 756-8800**.
 
 ## PuroClean: A Solid Regional Option
 
-PuroClean holds a 4.9 Google rating across 192 reviews, which is a strong signal of consistent customer satisfaction. PuroClean operates as a franchise network with locations across the region.
+PuroClean operates as a franchise network with locations across the region.
 
-For Auburn homeowners comparing options, PuroClean is a credible choice, particularly if you have a prior relationship with a specific location or if your insurance company has a preferred-vendor arrangement with them. Their review volume suggests a well-established operation with a track record of resolved claims.
+For Auburn homeowners comparing options, PuroClean is a credible choice, particularly if you have a prior relationship with a specific location or if your insurance company has a preferred-vendor arrangement with them.
 
 The specific capabilities, response area, and availability of any individual PuroClean location will vary. Confirm directly with the location serving Auburn before committing.
 
