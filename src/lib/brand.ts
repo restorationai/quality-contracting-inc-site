@@ -69,14 +69,14 @@ export const brand = {
   // GBP rating fields — synced from the live Google Business Profile by
   // scripts/sync_brand_reviews.py; never hand-edited (real ratings only).
   gbpRatingValue: "4.5",
-  gbpReviewCount: "115",
+  gbpReviewCount: "119",
   gbpReviews: [
+    { author: "James", rating: 5, text: "Great company, great people ⭐️⭐️⭐️⭐️⭐️", when: "October 2026" },
+    { author: "Priscilla", rating: 5, text: "I had an insurance claim and Quality did an outstanding job. The quality of the workmanship was great, the workers, you did not even know they were here. Except for the hammering. Overall I am very satisfied with the company. I would highly recommend Quality Contracting.", when: "October 2026" },
+    { author: "B", rating: 5, text: "When I experienced a house fire, this company was right there to help me with “peace of mind”. They boarded and secured the mess (house) without pushy sales. Great team and hope to have the opportunity to work with them again in the future.", when: "October 2026" },
     { author: "Cait", rating: 4, text: "Attentive fast and quality work", when: "October 2026" },
     { author: "Christine", rating: 5, text: "This is truly a Quality company just like their name. They did a great job at my home following water damage in my kitchen. Highly recommend.", when: "October 2026" },
     { author: "Donna", rating: 5, text: "We had extensive water damage, 2nd floor, leaked down to dining room, Louis & Leo were here 09/29-30/2026, they are professionals at what they do, and left home very clean after demolition!! I would give them a “10” if I could!! Thank You, Louis & Leo! Donna Isaac, Shrewsbury, Ma.", when: "October 2026" },
-    { author: "Denise", rating: 5, text: "There are not enough adjectives to describe how fabulous Luis and his crew have been during the demolition phase of this job. Luis leads by example for professionalism, skill, safety, punctuality, clean up, and even humor to keep us smiling during a difficult time. We look forward to Luis returning…", when: "September 2026" },
-    { author: "Ellin", rating: 5, text: "Quality did an excellent restoration job when my condo was involved in a fire.", when: "September 2026" },
-    { author: "Peggy", rating: 4, text: "Derek was wonderful! We had an insurance claim from water damage. The work was well done.", when: "September 2026" },
   ] as { author: string; rating: number; text: string; when: string }[],
   tagline: "24/7 restoration services in Auburn, MA.",
   ctaLabel: "24/7 Emergency Line",
