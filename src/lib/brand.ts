@@ -69,7 +69,7 @@ export const brand = {
   // GBP rating fields — synced from the live Google Business Profile by
   // scripts/sync_brand_reviews.py; never hand-edited (real ratings only).
   gbpRatingValue: "4.5",
-  gbpReviewCount: "119",
+  gbpReviewCount: "120",
   gbpReviews: [
     { author: "James", rating: 5, text: "Great company, great people ⭐️⭐️⭐️⭐️⭐️", when: "October 2026" },
     { author: "Priscilla", rating: 5, text: "I had an insurance claim and Quality did an outstanding job. The quality of the workmanship was great, the workers, you did not even know they were here. Except for the hammering. Overall I am very satisfied with the company. I would highly recommend Quality Contracting.", when: "October 2026" },
