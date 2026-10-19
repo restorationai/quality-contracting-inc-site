@@ -57,6 +57,6 @@ In Auburn and the surrounding Worcester County area, ceiling leaks tend to clust
 
 ## Service area
 
-QCI Restoration handles ceiling water damage repair for homeowners and property managers in Auburn and nearby communities, including Worcester, Oxford, Webster, and Millbury. Housing stock in this area ranges from older plaster-and-lath construction to newer drywall builds, and the repair approach differs depending on which one you have.
+QCI Restoration handles ceiling water damage repair for homeowners and property managers in Auburn and nearby communities, including Worcester, Oxford, Webster, and Spencer. Housing stock in this area ranges from older plaster-and-lath construction to newer drywall builds, and the repair approach differs depending on which one you have.
 
 If you're looking at a water stain, a sagging patch, or water actively coming through your ceiling, schedule a ceiling inspection and repair estimate before the damage spreads further into the framing.

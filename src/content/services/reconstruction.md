@@ -56,6 +56,6 @@ In Auburn and the surrounding Worcester County towns, a lot of the housing stock
 
 ## Service area
 
-QCI Restoration handles reconstruction work in Auburn and nearby communities including Worcester, Oxford, Charlton, Millbury, and Webster. Local permitting requirements vary by town, and we handle that coordination as part of the rebuild scope.
+QCI Restoration handles reconstruction work in Auburn and nearby communities including Worcester, Oxford, Spencer, Shrewsbury, and Webster. Local permitting requirements vary by town, and we handle that coordination as part of the rebuild scope.
 
 If mitigation is finished and you're looking at open framing, missing drywall, or a rebuild that insurance needs documented correctly, get a reconstruction scope of work from QCI Restoration at (508) 756-8800.

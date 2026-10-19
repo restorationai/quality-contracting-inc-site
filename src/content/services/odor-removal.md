@@ -55,6 +55,6 @@ New England's humid summers and the moisture that comes with freeze-thaw winters
 
 ## Service area
 
-QCI Restoration provides odor removal and deodorization throughout Auburn, MA and nearby communities including Worcester, Millbury, Oxford, Charlton, and Leicester.
+QCI Restoration provides odor removal and deodorization throughout Auburn, MA and nearby communities including Worcester, Shrewsbury, Oxford, Spencer, and Webster.
 
 If a smell keeps coming back no matter what you've tried, don't keep masking it. Call QCI Restoration at (508) 756-8800 to start professional odor elimination and get a written scope before any work begins.

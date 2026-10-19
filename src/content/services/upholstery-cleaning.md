@@ -58,6 +58,6 @@ New England humidity swings matter more for upholstery than people expect. Durin
 
 ## Service area
 
-We clean upholstery for homeowners throughout Auburn and the surrounding Worcester County communities, including Oxford, Millbury, Charlton, and Shrewsbury.
+We clean upholstery for homeowners throughout Auburn and the surrounding Worcester County communities, including Oxford, Spencer, Webster, and Shrewsbury.
 
 If your furniture is holding onto stains, odor, or a season's worth of dust, call QCI Restoration at (508) 756-8800 to schedule a fabric or leather upholstery cleaning and get a written scope before anything starts.

@@ -53,6 +53,6 @@ Worcester County winters bring a real freeze-thaw cycle, and pipes running throu
 
 ## Service area
 
-Based in Auburn, we handle burst pipe cleanup and repair throughout Auburn and nearby Worcester County communities, including Worcester, Oxford, Millbury, Webster, and Charlton.
+Based in Auburn, we handle burst pipe cleanup and repair throughout Auburn and nearby Worcester County communities, including Worcester, Oxford, Spencer, Webster, and Shrewsbury.
 
 If water is actively spreading from a broken supply line, shut off the valve if you can reach it safely and call (508) 756-8800 to schedule your burst pipe cleanup and repair before the damage spreads further into flooring, drywall, or framing.

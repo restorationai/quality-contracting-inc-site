@@ -53,6 +53,6 @@ Worcester County's winters bring the two conditions that most often turn a bad s
 
 ## Service area
 
-QCI Restoration is based in Auburn and responds to large-loss and catastrophic jobs across Worcester County, including Worcester, Millbury, Oxford, Shrewsbury, and surrounding communities, wherever a property manager or carrier needs a contractor that can mobilize multiple crews on one site.
+QCI Restoration is based in Auburn and responds to large-loss and catastrophic jobs across Worcester County, including Worcester, Oxford, Shrewsbury, Spencer, and surrounding communities, wherever a property manager or carrier needs a contractor that can mobilize multiple crews on one site.
 
 If you're managing a loss that's bigger than one crew can handle, get a project manager and a written scope in front of you fast. Call (508) 756-8800 to start your large-loss assessment.

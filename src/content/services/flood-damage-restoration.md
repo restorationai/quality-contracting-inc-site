@@ -55,6 +55,6 @@ Auburn and the surrounding Worcester County towns see two distinct flood risk wi
 
 ## Service area
 
-QCI Restoration handles flood damage restoration in Auburn and nearby communities including Worcester, Oxford, Charlton, Millbury, and Leicester.
+QCI Restoration handles flood damage restoration in Auburn and nearby communities including Worcester, Oxford, Spencer, Shrewsbury, and Webster.
 
 If water has come into your home from outside, don't wait on the drying. Schedule your flood damage assessment with QCI Restoration and get a written scope before any demolition or drying work starts.

@@ -54,6 +54,6 @@ Auburn's winters push a lot of basement and attic renovation work into the colde
 
 ## Service area
 
-QCI Restoration handles asbestos testing and abatement for homeowners and property managers in Auburn and surrounding communities, including Worcester, Oxford, Charlton, Millbury, and Webster.
+QCI Restoration handles asbestos testing and abatement for homeowners and property managers in Auburn and surrounding communities, including Worcester, Oxford, Spencer, Shrewsbury, and Webster.
 
 If you're planning a renovation, dealing with damaged pipe insulation, or just found out a material in your home tested positive, get a written scope before anyone touches it. Request an asbestos inspection and abatement scope by calling (508) 756-8800.

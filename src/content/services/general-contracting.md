@@ -66,6 +66,6 @@ In central Massachusetts, the window between late spring and early fall is when 
 
 ## Service area
 
-QCI Restoration is based in Auburn, MA and serves homeowners and property owners throughout the surrounding communities, including Worcester, Millbury, Sutton, Oxford, Leicester, Grafton, and Shrewsbury. City-specific pages detail any local permitting or code considerations relevant to your project location.
+QCI Restoration is based in Auburn, MA and serves homeowners and property owners throughout the surrounding communities, including Worcester, Oxford, Spencer, Webster, Northborough, and Shrewsbury. City-specific pages detail any local permitting or code considerations relevant to your project location.
 
 Ready to turn a rough idea into a written scope? Call QCI Restoration at (508) 756-8800 to schedule your project consultation and get a clear picture of what your renovation will actually involve.

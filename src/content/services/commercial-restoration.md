@@ -53,6 +53,6 @@ Auburn and the surrounding Worcester County towns see hard winters, and many com
 
 ## Service area
 
-QCI Restoration handles commercial restoration for businesses and property managers in Auburn and nearby communities including Worcester, Millbury, Oxford, and Charlton.
+QCI Restoration handles commercial restoration for businesses and property managers in Auburn and nearby communities including Worcester, Shrewsbury, Oxford, and Spencer.
 
 If water or fire has closed part of your business, don't wait on the damage to spread while you're still sorting out next steps. Call (508) 756-8800 to schedule a commercial restoration assessment and get a written scope of work started.
