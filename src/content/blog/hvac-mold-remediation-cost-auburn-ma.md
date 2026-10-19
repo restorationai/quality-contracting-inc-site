@@ -7,8 +7,8 @@ primary_keyword: "hvac mold remediation cost in Auburn, MA"
 secondary_keywords: ["mold in air ducts signs", "air duct mold removal cost", "can mold in ductwork be cleaned", "mold in HVAC after water damage", "does duct cleaning remove mold"]
 search_intent: "commercial"
 priority: 7
-hero: "https://images.qualitycontracting.us/blog/2026/10/hvac-mold-remediation-cost-auburn-ma/hero.webp"
-og: "https://images.qualitycontracting.us/blog/2026/10/hvac-mold-remediation-cost-auburn-ma/hero.webp"
+hero: "https://images.qcirestoration.com/blog/2026/10/hvac-mold-remediation-cost-auburn-ma/hero.webp"
+og: "https://images.qcirestoration.com/blog/2026/10/hvac-mold-remediation-cost-auburn-ma/hero.webp"
 generated_at: "2026-10-17T22:30:30Z"
 manual_override: false
 internal_links: ["/services/air-duct-cleaning/", "/services/mold-remediation/", "/services/odor-removal/", "/services/mold-inspection-testing/", "/"]
@@ -47,7 +47,7 @@ The biggest cost factor is whether the contaminated material is nonporous (can b
 - **Whether the air handler itself is affected.** Coil and cabinet contamination usually means coordinating with an HVAC technician, since disassembly and reassembly of refrigerant lines is outside a remediation crew's scope.
 - **Verification testing.** Many homeowners request a post-remediation air sample or surface swab to confirm the work succeeded, which adds $300 to $600.
 
-![What Determines the Cost of HVAC Mold Remediation: hvac mold remediation cost in Auburn, MA](https://images.qualitycontracting.us/blog/2026/10/hvac-mold-remediation-cost-auburn-ma/section.webp)
+![What Determines the Cost of HVAC Mold Remediation: hvac mold remediation cost in Auburn, MA](https://images.qcirestoration.com/blog/2026/10/hvac-mold-remediation-cost-auburn-ma/section.webp)
 
 ## Can Mold in Ductwork Just Be Cleaned, or Does It Have to Be Replaced?
 

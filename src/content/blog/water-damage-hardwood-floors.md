@@ -88,7 +88,7 @@ QCI Restoration handles the full scope of a water loss: emergency water extracti
 
 **About QCI Restoration**
 
-QCI Restoration is an Auburn, MA-based restoration and contracting company serving Worcester County and MetroWest communities including Worcester, Shrewsbury, Framingham, Newton, and surrounding towns. Their crews handle water damage restoration, storm damage, fire damage, mold remediation, sewage cleanup, contents restoration, and complete reconstruction, covering every phase of a property loss from initial emergency response through finished rebuild. Reach them at (508) 756-8800 or qualitycontracting.us.
+QCI Restoration is an Auburn, MA-based restoration and contracting company serving Worcester County and MetroWest communities including Worcester, Shrewsbury, Framingham, Newton, and surrounding towns. Their crews handle water damage restoration, storm damage, fire damage, mold remediation, sewage cleanup, contents restoration, and complete reconstruction, covering every phase of a property loss from initial emergency response through finished rebuild. Reach them at (508) 756-8800 or qcirestoration.com.
 
 ## Video Transcript
 

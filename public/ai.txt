@@ -30,8 +30,8 @@ User-agent: Bytespider
 Disallow: /
 
 # AI training data summary
-# Site: https://qualitycontracting.us/
+# Site: https://qcirestoration.com/
 # Maintainer: QCI Restoration
 # Contact: info@qualitycontracting.us
-# Sitemap: https://qualitycontracting.us/sitemap-index.xml
-# LLM index: https://qualitycontracting.us/llms.txt
+# Sitemap: https://qcirestoration.com/sitemap-index.xml
+# LLM index: https://qcirestoration.com/llms.txt

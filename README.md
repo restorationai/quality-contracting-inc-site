@@ -28,8 +28,8 @@ These `{{TOKEN}}` strings are substituted by `build_site.py scaffold` from `plan
 | `Quality Contracting, Inc.` | plan-input `brand.display_name` | `National Restoration Construction` |
 | `Quality Contracting, Inc.` | plan-input `brand.short_name` | `NARESTCO` |
 | `Quality Contracting, Inc.` | plan-input `brand.legal_name` | `National Restoration Construction LLC` |
-| `qualitycontracting.us` | client record `domain` | `narestco.com` |
-| `https://qualitycontracting.us` | derived | `https://narestco.com` |
+| `qcirestoration.com` | client record `domain` | `narestco.com` |
+| `https://qcirestoration.com` | derived | `https://narestco.com` |
 | `(508) 756-8800` / `+15087568800` | brand.phone | `(206) 883-0333` / `+12068830333` |
 | `info@qualitycontracting.us` | brand.email | `info@narestco.com` |
 | `24/7` | brand.hours | `24/7` |
@@ -47,54 +47,54 @@ These `{{TOKEN}}` strings are substituted by `build_site.py scaffold` from `plan
 | `#dc0a0e` etc. | brand.colors (set per client or default to restoration palette) | `#0b3a7a` |
 | `Inter` / `Inter` | brand.fonts | `Inter` / `Inter` |
 | `/images/logo.png` / `QC` | derived; logo lives on the per-client R2 bucket | |
-| `https://images.qualitycontracting.us` | `https://images.{domain}` | |
-| `- [Air Duct Cleaning](https://qualitycontracting.us/services/air-duct-cleaning/)
-- [Asbestos Abatement](https://qualitycontracting.us/services/asbestos-abatement/)
-- [Biohazard Cleanup](https://qualitycontracting.us/services/biohazard-cleanup/)
-- [Carpet Cleaning](https://qualitycontracting.us/services/carpet-cleaning/)
-- [Contents Restoration and Storage](https://qualitycontracting.us/services/contents-restoration/)
-- [Contents Restoration & Storage](https://qualitycontracting.us/services/contents-restoration-storage/)
-- [Crawl Space Encapsulation](https://qualitycontracting.us/services/crawl-space-encapsulation/)
-- [Emergency Board-Up and Tarping](https://qualitycontracting.us/services/emergency-board-up-tarping/)
-- [Emergency Plumbing](https://qualitycontracting.us/services/emergency-plumbing/)
-- [Fire Damage Restoration](https://qualitycontracting.us/services/fire-damage-restoration/)
-- [Renovations, Remodels and General Contracting](https://qualitycontracting.us/services/general-contracting/)
-- [Mold Remediation](https://qualitycontracting.us/services/mold-remediation/)
-- [Odor Removal and Deodorization](https://qualitycontracting.us/services/odor-removal/)
-- [Post-Construction and Specialty Cleaning](https://qualitycontracting.us/services/post-construction-cleaning/)
-- [Roofing Installation and Replacement](https://qualitycontracting.us/services/roofing/)
-- [Sewage Cleanup and Sanitization](https://qualitycontracting.us/services/sewage-cleanup/)
-- [Storm Damage Restoration](https://qualitycontracting.us/services/storm-damage-restoration/)
-- [Vandalism Cleanup](https://qualitycontracting.us/services/vandalism-cleanup/)
-- [Water Damage Restoration](https://qualitycontracting.us/services/water-damage-restoration/)
-- [Water Leak Detection](https://qualitycontracting.us/services/water-leak-detection/)` / `- [Auburn, MA](https://qualitycontracting.us/service-areas/auburn-ma/)
-- [Worcester, MA](https://qualitycontracting.us/service-areas/worcester-ma/)
-- [Shrewsbury, MA](https://qualitycontracting.us/service-areas/shrewsbury-ma/)
-- [Westborough, MA](https://qualitycontracting.us/service-areas/westborough-ma/)
-- [Southborough, MA](https://qualitycontracting.us/service-areas/southborough-ma/)
-- [Hopkinton, MA](https://qualitycontracting.us/service-areas/hopkinton-ma/)
-- [Framingham, MA](https://qualitycontracting.us/service-areas/framingham-ma/)
-- [Natick, MA](https://qualitycontracting.us/service-areas/natick-ma/)
-- [Wellesley, MA](https://qualitycontracting.us/service-areas/wellesley-ma/)
-- [Needham, MA](https://qualitycontracting.us/service-areas/needham-ma/)
-- [Newton, MA](https://qualitycontracting.us/service-areas/newton-ma/)
-- [Weston, MA](https://qualitycontracting.us/service-areas/weston-ma/)
-- [Oxford, MA](https://qualitycontracting.us/service-areas/oxford-ma/)
-- [Whitinsville, MA](https://qualitycontracting.us/service-areas/whitinsville-ma/)
-- [East Douglas, MA](https://qualitycontracting.us/service-areas/east-douglas-ma/)
-- [Northborough, MA](https://qualitycontracting.us/service-areas/northborough-ma/)
-- [Southbridge Town, MA](https://qualitycontracting.us/service-areas/southbridge-town-ma/)
-- [Sturbridge, MA](https://qualitycontracting.us/service-areas/sturbridge-ma/)
-- [Fiskdale, MA](https://qualitycontracting.us/service-areas/fiskdale-ma/)
-- [Milford, MA](https://qualitycontracting.us/service-areas/milford-ma/)
-- [Marlborough, MA](https://qualitycontracting.us/service-areas/marlborough-ma/)
-- [Hudson, MA](https://qualitycontracting.us/service-areas/hudson-ma/)
-- [Bellingham, MA](https://qualitycontracting.us/service-areas/bellingham-ma/)
-- [Ware, MA](https://qualitycontracting.us/service-areas/ware-ma/)
-- [Leominster, MA](https://qualitycontracting.us/service-areas/leominster-ma/)
-- [Franklin Town, MA](https://qualitycontracting.us/service-areas/franklin-town-ma/)
-- [Palmer Town, MA](https://qualitycontracting.us/service-areas/palmer-town-ma/)
-- [Maynard, MA](https://qualitycontracting.us/service-areas/maynard-ma/)` / `Available on request` / `Southern New England, with crews responding across a 50 mile radius of Auburn` | computed at scaffold from plan + brand | |
+| `https://images.qcirestoration.com` | `https://images.{domain}` | |
+| `- [Air Duct Cleaning](https://qcirestoration.com/services/air-duct-cleaning/)
+- [Asbestos Abatement](https://qcirestoration.com/services/asbestos-abatement/)
+- [Biohazard Cleanup](https://qcirestoration.com/services/biohazard-cleanup/)
+- [Carpet Cleaning](https://qcirestoration.com/services/carpet-cleaning/)
+- [Contents Restoration and Storage](https://qcirestoration.com/services/contents-restoration/)
+- [Contents Restoration & Storage](https://qcirestoration.com/services/contents-restoration-storage/)
+- [Crawl Space Encapsulation](https://qcirestoration.com/services/crawl-space-encapsulation/)
+- [Emergency Board-Up and Tarping](https://qcirestoration.com/services/emergency-board-up-tarping/)
+- [Emergency Plumbing](https://qcirestoration.com/services/emergency-plumbing/)
+- [Fire Damage Restoration](https://qcirestoration.com/services/fire-damage-restoration/)
+- [Renovations, Remodels and General Contracting](https://qcirestoration.com/services/general-contracting/)
+- [Mold Remediation](https://qcirestoration.com/services/mold-remediation/)
+- [Odor Removal and Deodorization](https://qcirestoration.com/services/odor-removal/)
+- [Post-Construction and Specialty Cleaning](https://qcirestoration.com/services/post-construction-cleaning/)
+- [Roofing Installation and Replacement](https://qcirestoration.com/services/roofing/)
+- [Sewage Cleanup and Sanitization](https://qcirestoration.com/services/sewage-cleanup/)
+- [Storm Damage Restoration](https://qcirestoration.com/services/storm-damage-restoration/)
+- [Vandalism Cleanup](https://qcirestoration.com/services/vandalism-cleanup/)
+- [Water Damage Restoration](https://qcirestoration.com/services/water-damage-restoration/)
+- [Water Leak Detection](https://qcirestoration.com/services/water-leak-detection/)` / `- [Auburn, MA](https://qcirestoration.com/service-areas/auburn-ma/)
+- [Worcester, MA](https://qcirestoration.com/service-areas/worcester-ma/)
+- [Shrewsbury, MA](https://qcirestoration.com/service-areas/shrewsbury-ma/)
+- [Westborough, MA](https://qcirestoration.com/service-areas/westborough-ma/)
+- [Southborough, MA](https://qcirestoration.com/service-areas/southborough-ma/)
+- [Hopkinton, MA](https://qcirestoration.com/service-areas/hopkinton-ma/)
+- [Framingham, MA](https://qcirestoration.com/service-areas/framingham-ma/)
+- [Natick, MA](https://qcirestoration.com/service-areas/natick-ma/)
+- [Wellesley, MA](https://qcirestoration.com/service-areas/wellesley-ma/)
+- [Needham, MA](https://qcirestoration.com/service-areas/needham-ma/)
+- [Newton, MA](https://qcirestoration.com/service-areas/newton-ma/)
+- [Weston, MA](https://qcirestoration.com/service-areas/weston-ma/)
+- [Oxford, MA](https://qcirestoration.com/service-areas/oxford-ma/)
+- [Whitinsville, MA](https://qcirestoration.com/service-areas/whitinsville-ma/)
+- [East Douglas, MA](https://qcirestoration.com/service-areas/east-douglas-ma/)
+- [Northborough, MA](https://qcirestoration.com/service-areas/northborough-ma/)
+- [Southbridge Town, MA](https://qcirestoration.com/service-areas/southbridge-town-ma/)
+- [Sturbridge, MA](https://qcirestoration.com/service-areas/sturbridge-ma/)
+- [Fiskdale, MA](https://qcirestoration.com/service-areas/fiskdale-ma/)
+- [Milford, MA](https://qcirestoration.com/service-areas/milford-ma/)
+- [Marlborough, MA](https://qcirestoration.com/service-areas/marlborough-ma/)
+- [Hudson, MA](https://qcirestoration.com/service-areas/hudson-ma/)
+- [Bellingham, MA](https://qcirestoration.com/service-areas/bellingham-ma/)
+- [Ware, MA](https://qcirestoration.com/service-areas/ware-ma/)
+- [Leominster, MA](https://qcirestoration.com/service-areas/leominster-ma/)
+- [Franklin Town, MA](https://qcirestoration.com/service-areas/franklin-town-ma/)
+- [Palmer Town, MA](https://qcirestoration.com/service-areas/palmer-town-ma/)
+- [Maynard, MA](https://qcirestoration.com/service-areas/maynard-ma/)` / `Available on request` / `Southern New England, with crews responding across a 50 mile radius of Auburn` | computed at scaffold from plan + brand | |
 
 ## File layout
 

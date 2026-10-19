@@ -13,8 +13,8 @@ export const brand = {
   // declares it as the business name, so Google/BrightLocal find the new
   // name corroborated on the site before and during the GBP rename.
   dbaName: "QCI Restoration",
-  domain: "qualitycontracting.us",
-  canonicalUrl: "https://qualitycontracting.us",
+  domain: "qcirestoration.com",
+  canonicalUrl: "https://qcirestoration.com",
   phone: "(508) 756-8800",
   phoneRaw: "+15087568800",
   hideMobileHeaderCall: false,
@@ -48,7 +48,7 @@ export const brand = {
   lng: "-71.8358095",
   placeId: "ChIJ9wuzUNMF5IkR23w7vv0t_Hc",
   googleCid: "",
-  imagesBase: "https://images.qualitycontracting.us",
+  imagesBase: "https://images.qcirestoration.com",
   googleMapsApiKey: "",
   // Analytics — set post-scaffold (scripts/analytics_set.py / create_ga4.py); no-op if empty
   ga4MeasurementId: "G-G8PLTS9XDN",
@@ -65,7 +65,7 @@ export const brand = {
   certifications: [] as string[],
   trustBadges: [] as string[],
   jobPhotos: ["https://nyscciinkhlutvqkgyvq.supabase.co/storage/v1/object/public/branding/CO-1785180744028/job-photos/posted/r1788980315_sms-1785358224564-5c715e96.jpg", "https://nyscciinkhlutvqkgyvq.supabase.co/storage/v1/object/public/branding/CO-1785180744028/job-photos/posted/r1788814538_gbp-AF1QipP_p1uc76KgQ_e_r5cWTb9_xiLVg11kKmv8wix7.jpg"] as string[],
-  sameAsUrls: ["https://www.facebook.com/qualcon534/", "https://www.linkedin.com/company/quality-contracting-inc-", "https://qualitycontracting.us/services/capital-projects/", "https://www.facebook.com/p/Quality-Contracting-Ltd-100067737732248/", "https://www.thebluebook.com/iProView/266336/quality-contracting-inc/general-contractors/locations-contacts/", "https://maps.google.com/maps?cid=8645835952486055131", "https://www.yelp.com/biz/quality-contracting-auburn", "https://www.bbb.org/us/ma/auburn/profile/fire-water-damage-restoration/quality-contracting-inc-0261-103855", "https://www.angi.com/companylist/us/ma/auburn/quality-contracting-inc-reviews-164220227.htm", "https://www.houzz.com/professionals/general-contractors/quality-contracting-inc-pfvwus-pf~815837747", "https://homeguide.com/ma/worcester/water-damage-restoration/quality-contracting--inc--aWDpC4cfPK"] as string[],
+  sameAsUrls: ["https://www.facebook.com/qualcon534/", "https://www.linkedin.com/company/quality-contracting-inc-", "https://qcirestoration.com/services/capital-projects/", "https://www.facebook.com/p/Quality-Contracting-Ltd-100067737732248/", "https://www.thebluebook.com/iProView/266336/quality-contracting-inc/general-contractors/locations-contacts/", "https://maps.google.com/maps?cid=8645835952486055131", "https://www.yelp.com/biz/quality-contracting-auburn", "https://www.bbb.org/us/ma/auburn/profile/fire-water-damage-restoration/quality-contracting-inc-0261-103855", "https://www.angi.com/companylist/us/ma/auburn/quality-contracting-inc-reviews-164220227.htm", "https://www.houzz.com/professionals/general-contractors/quality-contracting-inc-pfvwus-pf~815837747", "https://homeguide.com/ma/worcester/water-damage-restoration/quality-contracting--inc--aWDpC4cfPK"] as string[],
   // GBP rating fields — synced from the live Google Business Profile by
   // scripts/sync_brand_reviews.py; never hand-edited (real ratings only).
   gbpRatingValue: "4.5",
