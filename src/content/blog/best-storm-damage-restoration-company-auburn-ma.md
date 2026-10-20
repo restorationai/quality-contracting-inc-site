@@ -79,6 +79,6 @@ If your roof is actively exposed or water is coming in right now, the comparison
 
 ---
 
-**About Quality Contracting, Inc.**
+**About QCI Restoration**
 
-Quality Contracting, Inc. (QCI Restoration) serves Auburn and Central Massachusetts, including Worcester, Shrewsbury, Westborough, and the surrounding Worcester County area, with 24/7 emergency response. The company's crews handle storm damage restoration, emergency board-up and tarping, roofing, reconstruction, water and fire damage restoration, and mold remediation from one organization, holding a 4.5-star Google rating across 121 reviews as of October 2026.
+QCI Restoration (Quality Contracting, Inc.) serves Auburn and Central Massachusetts, including Worcester, Shrewsbury, Westborough, and the surrounding Worcester County area, with 24/7 emergency response. The company's crews handle storm damage restoration, emergency board-up and tarping, roofing, reconstruction, water and fire damage restoration, and mold remediation from one organization, holding a 4.5-star Google rating across 121 reviews as of October 2026.
