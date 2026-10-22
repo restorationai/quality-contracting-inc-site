@@ -59,7 +59,7 @@ Before any cleanup starts, take wide exterior photos of the whole roof or wall s
 
 If you're still deciding who to hire for the repair and rebuild phase, our guide on [choosing a restoration company in Auburn](/blog/choosing-a-restoration-company/) covers what to check before signing anything, including confirming a contractor's registration through the state's [Home Improvement Contractor program](https://www.mass.gov/home-improvement-contractor-program).
 
-A storm loss in Auburn rarely stays contained to just the roof. Wind-driven rain gets behind siding, soaks attic insulation, and sometimes brings a tree limb through a window all in the same event. Working with one contractor across the whole job, from the [home page](/) on, keeps the tarp, the roof repair, and the interior rebuild on one schedule instead of three.
+A storm loss in Auburn rarely stays contained to just the roof. Wind-driven rain gets behind siding, soaks attic insulation, and sometimes brings a tree limb through a window all in the same event. Working with one contractor across the whole job keeps the tarp, the roof repair, and the interior rebuild on one schedule instead of three. Learn more about [QCI Restoration](/).
 
 ---
 
