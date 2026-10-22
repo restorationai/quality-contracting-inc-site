@@ -25,7 +25,7 @@ But the order you make calls matters, especially in the middle of an active stor
 
 ## My Roof Is Leaking During the Storm, Who Do I Call First?
 
-Check for immediate hazards before you call anyone, then call a storm restoration contractor to stop the water, not a roofer to schedule a repair for next week. A roofing company will often tell you to wait until it's dry out. A storm damage crew tarps the active leak the same day.
+Check for immediate hazards before you call anyone, then call a storm restoration contractor to stop the water, not a roofer to schedule a repair for next week. A roofing company will often tell you to wait until it dries out. A storm damage crew tarps the active leak the same day.
 
 If the storm is still going, stay away from windows and skylights and don't go up on the roof. Rain blowing in through a damaged roof usually starts as clean water, but once it sits against drywall, insulation, and framing for more than a day it starts picking up contaminants from the building materials themselves. Interior buckets and towels buy you an hour, not a day.
 
