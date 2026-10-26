@@ -29,8 +29,12 @@ export const brand = {
   // keep the canonical NAP number above — humans dial the tracked line,
   // Google sees consistent NAP. Empty = feature off (default at scaffold;
   // filled by the call-tracking provisioning step).
-  trackingPhone: "(508) 355-3039",
-  trackingPhoneRaw: "+15083553039",
+  // 2026-10-26: Fran's 1-800-TEAM-QCI at his request ("I thought we were
+  // going to use the 800-TEAM-QCI for the phone number"), after the 10-19
+  // tracking explanation. The 355-3039 website line stays provisioned and
+  // forwarding; per-channel swaps (ads, Yelp, AI) still apply.
+  trackingPhone: "1-800-TEAM-QCI",
+  trackingPhoneRaw: "+18008326724",
   email: "info@qualitycontracting.us",
   hours: "24/7",
   foundedYear: "",
