@@ -73,7 +73,7 @@ export const brand = {
   // GBP rating fields — synced from the live Google Business Profile by
   // scripts/sync_brand_reviews.py; never hand-edited (real ratings only).
   gbpRatingValue: "4.5",
-  gbpReviewCount: "124",
+  gbpReviewCount: "123",
   gbpReviews: [
     { author: "Amy", rating: 5, text: "Mark was very helpful, exceptionally responsive and honest, which isn’t always easy to find when unknown people are working in your home. Helmer and Carlos were the technicians on site. They completed the scope of and cleaned all the debris. I specifically requested them when I needed them to come…", when: "October 2026" },
     { author: "Jeff", rating: 5, text: "Couldn’t have been better to work with from beginning to end after a small flood! Great people. Great work!", when: "October 2026" },
