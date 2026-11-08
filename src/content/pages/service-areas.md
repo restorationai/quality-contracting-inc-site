@@ -1,6 +1,6 @@
 ---
 archetype: "service-areas-hub"
-title: "Service Areas | QCI Restoration Restoration"
+title: "Service Areas | QCI Restoration"
 h1: "Areas We Serve"
 meta_description: "QCI Restoration Provides restoration services across Auburn and the surrounding region. Find your city."
 primary_keyword: "quality contracting, inc. service areas"
