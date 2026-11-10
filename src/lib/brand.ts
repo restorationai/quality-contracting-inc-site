@@ -73,14 +73,14 @@ export const brand = {
   // GBP rating fields — synced from the live Google Business Profile by
   // scripts/sync_brand_reviews.py; never hand-edited (real ratings only).
   gbpRatingValue: "4.5",
-  gbpReviewCount: "126",
+  gbpReviewCount: "127",
   gbpReviews: [
+    { author: "Cheryl", rating: 5, text: "We had a basement flood and Quality was the restoration contractors who did the renovation. Very satisfied with time frame and quality of work.", when: "November 2026" },
     { author: "Briana", rating: 4, text: "The employees at Quality were professional, kind and did a great job on our basement!", when: "November 2026" },
     { author: "Jim", rating: 4, text: "You know very easy to work with, discussed other options before anything was done and was a very good experience.", when: "November 2026" },
     { author: "Amy", rating: 5, text: "Mark was very helpful, exceptionally responsive and honest, which isn’t always easy to find when unknown people are working in your home. Helmer and Carlos were the technicians on site. They completed the scope of and cleaned all the debris. I specifically requested them when I needed them to come…", when: "October 2026" },
     { author: "Jeff", rating: 5, text: "Couldn’t have been better to work with from beginning to end after a small flood! Great people. Great work!", when: "October 2026" },
     { author: "Chris", rating: 5, text: "Wonderful company to work with. Very accommodating in the work was done to our specifications. I would highly recommend them.", when: "October 2026" },
-    { author: "James", rating: 5, text: "Great company, great people ⭐️⭐️⭐️⭐️⭐️", when: "October 2026" },
   ] as { author: string; rating: number; text: string; when: string }[],
   tagline: "24/7 restoration services in Auburn, MA.",
   ctaLabel: "24/7 Emergency Line",
