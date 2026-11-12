@@ -72,15 +72,15 @@ export const brand = {
   sameAsUrls: ["https://www.facebook.com/qualcon534/", "https://www.linkedin.com/company/quality-contracting-inc-", "https://qcirestoration.com/services/capital-projects/", "https://www.facebook.com/p/Quality-Contracting-Ltd-100067737732248/", "https://www.thebluebook.com/iProView/266336/quality-contracting-inc/general-contractors/locations-contacts/", "https://maps.google.com/maps?cid=8645835952486055131", "https://www.yelp.com/biz/quality-contracting-auburn", "https://www.bbb.org/us/ma/auburn/profile/fire-water-damage-restoration/quality-contracting-inc-0261-103855", "https://www.angi.com/companylist/us/ma/auburn/quality-contracting-inc-reviews-164220227.htm", "https://www.houzz.com/professionals/general-contractors/quality-contracting-inc-pfvwus-pf~815837747", "https://homeguide.com/ma/worcester/water-damage-restoration/quality-contracting--inc--aWDpC4cfPK"] as string[],
   // GBP rating fields — synced from the live Google Business Profile by
   // scripts/sync_brand_reviews.py; never hand-edited (real ratings only).
-  gbpRatingValue: "4.5",
-  gbpReviewCount: "128",
+  gbpRatingValue: "4.6",
+  gbpReviewCount: "129",
   gbpReviews: [
+    { author: "Linda", rating: 5, text: "These folks just know exactly how to do what is needed.", when: "November 2026" },
     { author: "Amanda", rating: 5, text: "Luis, Mason and their crew did a wonderful job at my home. I had severe water damage and they came in, kept everything super clean, boxed up my home, and worked on demo/ renovations. They did a great job and everything is labeled well. They went above and beyond with the scope of work and kept me…", when: "November 2026" },
     { author: "Cheryl", rating: 5, text: "We had a basement flood and Quality was the restoration contractors who did the renovation. Very satisfied with time frame and quality of work.", when: "November 2026" },
     { author: "Briana", rating: 4, text: "The employees at Quality were professional, kind and did a great job on our basement!", when: "November 2026" },
     { author: "Jim", rating: 4, text: "You know very easy to work with, discussed other options before anything was done and was a very good experience.", when: "November 2026" },
     { author: "Amy", rating: 5, text: "Mark was very helpful, exceptionally responsive and honest, which isn’t always easy to find when unknown people are working in your home. Helmer and Carlos were the technicians on site. They completed the scope of and cleaned all the debris. I specifically requested them when I needed them to come…", when: "October 2026" },
-    { author: "Jeff", rating: 5, text: "Couldn’t have been better to work with from beginning to end after a small flood! Great people. Great work!", when: "October 2026" },
   ] as { author: string; rating: number; text: string; when: string }[],
   tagline: "24/7 restoration services in Auburn, MA.",
   ctaLabel: "24/7 Emergency Line",
