@@ -73,14 +73,14 @@ export const brand = {
   // GBP rating fields — synced from the live Google Business Profile by
   // scripts/sync_brand_reviews.py; never hand-edited (real ratings only).
   gbpRatingValue: "4.6",
-  gbpReviewCount: "129",
+  gbpReviewCount: "134",
   gbpReviews: [
+    { author: "Debbie", rating: 5, text: "This company is awesome. Having asbestos and mold removed. They are professional, and mindful of stuff. Matt and Kale did an excellent job. I would recommend them in a minute", when: "November 2026" },
+    { author: "Julie", rating: 5, text: "We highly recommend Quality Contracting! They did a huge renovation and restoration project at our house after a major internal water break and flood damaged our home. The quality of their work and the professionalism they provided made a stressful situation so much better. We liked their work so…", when: "November 2026" },
+    { author: "Susan", rating: 4, text: "Used them for mitigation and remodel of kitchen due to a bad leak. Great experience overall!", when: "November 2026" },
+    { author: "Megan", rating: 5, text: "Quality Contracting worked two claims for me, in both my bathrooms. They coordinated the timing so we always had a one working bathroom. They were prompt, polite and did a fabulous job. I always knew when they were going to show up and they were always on time. They cleaned up after themselves and…", when: "November 2026" },
+    { author: "Ben", rating: 5, text: "Did great work remodeling our house. Everything done and in high quality spec with no shortcuts.", when: "November 2026" },
     { author: "Linda", rating: 5, text: "These folks just know exactly how to do what is needed.", when: "November 2026" },
-    { author: "Amanda", rating: 5, text: "Luis, Mason and their crew did a wonderful job at my home. I had severe water damage and they came in, kept everything super clean, boxed up my home, and worked on demo/ renovations. They did a great job and everything is labeled well. They went above and beyond with the scope of work and kept me…", when: "November 2026" },
-    { author: "Cheryl", rating: 5, text: "We had a basement flood and Quality was the restoration contractors who did the renovation. Very satisfied with time frame and quality of work.", when: "November 2026" },
-    { author: "Briana", rating: 4, text: "The employees at Quality were professional, kind and did a great job on our basement!", when: "November 2026" },
-    { author: "Jim", rating: 4, text: "You know very easy to work with, discussed other options before anything was done and was a very good experience.", when: "November 2026" },
-    { author: "Amy", rating: 5, text: "Mark was very helpful, exceptionally responsive and honest, which isn’t always easy to find when unknown people are working in your home. Helmer and Carlos were the technicians on site. They completed the scope of and cleaned all the debris. I specifically requested them when I needed them to come…", when: "October 2026" },
   ] as { author: string; rating: number; text: string; when: string }[],
   tagline: "24/7 restoration services in Auburn, MA.",
   ctaLabel: "24/7 Emergency Line",
