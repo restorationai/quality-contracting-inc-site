@@ -73,7 +73,7 @@ export const brand = {
   // GBP rating fields — synced from the live Google Business Profile by
   // scripts/sync_brand_reviews.py; never hand-edited (real ratings only).
   gbpRatingValue: "4.6",
-  gbpReviewCount: "134",
+  gbpReviewCount: "135",
   gbpReviews: [
     { author: "Debbie", rating: 5, text: "This company is awesome. Having asbestos and mold removed. They are professional, and mindful of stuff. Matt and Kale did an excellent job. I would recommend them in a minute", when: "November 2026" },
     { author: "Julie", rating: 5, text: "We highly recommend Quality Contracting! They did a huge renovation and restoration project at our house after a major internal water break and flood damaged our home. The quality of their work and the professionalism they provided made a stressful situation so much better. We liked their work so…", when: "November 2026" },
