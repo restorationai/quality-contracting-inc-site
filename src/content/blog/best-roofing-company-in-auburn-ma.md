@@ -61,7 +61,7 @@ David Barbale | Auburn Roofing Contractors is a roofing contractor based at 13 P
 
 | Company | Google Rating | Reviews | 24/7 Emergency |
 | --- | --- | --- | --- |
-| QCI Restoration | 4.6 | 134 | Yes |
+| QCI Restoration | 4.6 | 135 | Yes |
 | Froof | 4.9 | 31 | Not listed |
 | Capitol Siding & Home Improvement Co. Inc. | 4.9 | 113 | Not listed |
 | David Barbale \ | Auburn Roofing Contractors | 5.0 | 59 | Not listed |

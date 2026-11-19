@@ -47,7 +47,7 @@ A few additional names turn up in area searches too, including All Dry, RestoPro
 
 | Company | Google Rating | Reviews | 24/7 Emergency Response | Tarping & Board-Up In-House | Reconstruction In-House |
 |---|---|---|---|---|---|
-| QCI Restoration | 4.6 | 134 | Yes | Yes | Yes |
+| QCI Restoration | 4.6 | 135 | Yes | Yes | Yes |
 | Paul Davis (Shrewsbury) | Not listed | Not listed | Not listed | Not listed | Not listed |
 | SERVPRO of Worcester | Not listed | Not listed | Not listed | Not listed | Not listed |
 | PuroClean Auburn | Not listed | Not listed | Not listed | Not listed | Not listed |

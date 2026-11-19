@@ -34,7 +34,7 @@ Here is a side-by-side look at the two strongest water damage restoration option
 
 | Company | Google Rating | Reviews | Full-Service Restoration |
 |---|---|---|---|
-| QCI Restoration | 4.6 | 134 | Yes |
+| QCI Restoration | 4.6 | 135 | Yes |
 | PuroClean | Not listed | Not listed | Not listed |
 
 Both companies serve the Auburn area and handle water damage work. The sections below break down what each brings to the table.
