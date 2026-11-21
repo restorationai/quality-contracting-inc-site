@@ -1,7 +1,7 @@
 ---
 archetype: "home"
 title: "QCI Restoration | Restoration Services in Central Massachusetts"
-h1: "Restoration Services Across Central Massachusetts"
+h1: "Restoration Services Across Auburn, Worcester & Central Massachusetts"
 meta_description: "QCI Restoration provides water, fire, mold, and storm damage restoration across Central Massachusetts and Greater Worcester. Call (508) 756-8800."
 primary_keyword: "restoration services auburn"
 secondary_keywords: ["restoration company near me"]
