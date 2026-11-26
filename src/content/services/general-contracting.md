@@ -51,12 +51,12 @@ Typical costs for residential renovation and remodeling work vary significantly 
 
 | Scenario | Typical industry range |
 |---|---|
-| Bathroom remodel, cosmetic (fixtures, tile, vanity) | $8,000 – $18,000 |
-| Bathroom remodel, full gut and reconfigure | $18,000 – $40,000 |
-| Kitchen remodel, mid-grade materials | $25,000 – $55,000 |
-| Kitchen remodel, full reconfiguration with structural work | $50,000 – $100,000+ |
-| Single-room addition (per square foot, finished) | $200 – $350/sq ft |
-| Post-damage rebuild, single room | $12,000 – $45,000 |
+| Bathroom remodel, cosmetic (fixtures, tile, vanity) | $8,000 to $18,000 |
+| Bathroom remodel, full gut and reconfigure | $18,000 to $40,000 |
+| Kitchen remodel, mid-grade materials | $25,000 to $55,000 |
+| Kitchen remodel, full reconfiguration with structural work | $50,000 to $100,000+ |
+| Single-room addition (per square foot, finished) | $200 to $350/sq ft |
+| Post-damage rebuild, single room | $12,000 to $45,000 |
 
 These are typical industry figures, not quotes. QCI Restoration provides a written scope of work with line-item pricing before any work begins. Homeowners insurance typically covers post-damage rebuild costs when the loss is a covered peril, but standard policies do not cover elective renovations or upgrades beyond the pre-loss condition.
 
