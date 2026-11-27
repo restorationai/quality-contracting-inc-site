@@ -90,14 +90,14 @@ export const brand = {
   // GBP rating fields — synced from the live Google Business Profile by
   // scripts/sync_brand_reviews.py; never hand-edited (real ratings only).
   gbpRatingValue: "4.6",
-  gbpReviewCount: "136",
+  gbpReviewCount: "140",
   gbpReviews: [
+    { author: "Rachel", rating: 5, text: "They were professional, easy to work with, and remained in communication throughout my project.", when: "November 2026" },
+    { author: "Meaghan", rating: 5, text: "We had a puff back claim at our house and Quality came to clean all the damaged rooms. From the day one when John and Amy showed up to explain the process and reassure us that they will take care of everything. To The next day, when Luis and Mason and the entire crew, showed up. On time, they…", when: "November 2026" },
     { author: "Meredith", rating: 5, text: "Very helpful and caring when we had a home Claim in our basement. Would use again", when: "November 2026" },
     { author: "Debbie", rating: 5, text: "This company is awesome. Having asbestos and mold removed. They are professional, and mindful of stuff. Matt and Kale did an excellent job. I would recommend them in a minute", when: "November 2026" },
     { author: "Julie", rating: 5, text: "We highly recommend Quality Contracting! They did a huge renovation and restoration project at our house after a major internal water break and flood damaged our home. The quality of their work and the professionalism they provided made a stressful situation so much better. We liked their work so…", when: "November 2026" },
     { author: "Susan", rating: 4, text: "Used them for mitigation and remodel of kitchen due to a bad leak. Great experience overall!", when: "November 2026" },
-    { author: "Megan", rating: 5, text: "Quality Contracting worked two claims for me, in both my bathrooms. They coordinated the timing so we always had a one working bathroom. They were prompt, polite and did a fabulous job. I always knew when they were going to show up and they were always on time. They cleaned up after themselves and…", when: "November 2026" },
-    { author: "Ben", rating: 5, text: "Did great work remodeling our house. Everything done and in high quality spec with no shortcuts.", when: "November 2026" },
   ] as { author: string; rating: number; text: string; when: string }[],
   tagline: "24/7 restoration services in Auburn, MA.",
   ctaLabel: "24/7 Emergency Line",
